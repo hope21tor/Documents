@@ -1,12 +1,12 @@
-# Your Rights At Work
-Action Guide for Fair Employment
+# 직장에서 당신의 권리
+공정한 고용을 위한 행동 가이드
 Workers’ Action Centre
 
 ___
 
-The Workers’ Action Centre (WAC) is a worker-based organization committed to improving the lives and working conditions of people in Iow-wage and unstable jobs. Our members are workers in Precarious jobs, recent immigrants, workers of colour, women, and youth. Most of us don't belong to unions because we work in small workplaces, are temporary workers, on contract, independent contractors, or unemployed. WAC members educate and organize to win better working conditions, and we believe that the leaders of this fight for decent work should be workers themselves.
+워커스 액션센터(WAC)는 저임금, 불안정한 직업을 가진 사람들의 삶과 노동 조건을 개선하는데 헌신하는 노동자 중심의 조직입니다. 우리 회원들은 불안정한 직업을 가졌거나 최근 이민자이거나 유색인종, 여성, 혹은 청년 노동자들입니다. 회원의 대부분은 작은 규모의 직장에서 일하거나 임시직, 계약직 혹은 독립 계약직이거나 무직입니다. WAC 회원들은 더 나은 노동조건을 쟁취하기 위해 교육하고 준비하며, 좋은 노동을 위한 투쟁의 리더들은 노동자들 자신이 되어야 한다고 믿습니다. 
 
-We believe that we must come together and use our collective power to change the systems and laws that keep our wages low and allow so many bosses to break the law. Through the collective efforts of WAC and our allies, we have been able to win important improvements in the rights of workers outlined in this booklet. Together, we can win fair wages and working conditions for all workers. Join our movement.
+우리는 우리의 임금을 낮추고 많은 고용주들이 법을 어기도록 허용하는 제도와 법률을 바꾸기 위해 스스로 뭉쳐야 하며 우리 공동의 힘을 써야한다고 믿습니다. WAC와 협력자들의 공동의 노력을 통해, 우리는 이 소책자에 서술된 노동자 권리의 중요한 개선들을 쟁취해 왔습니다. 함께라면, 우리는 모든 노동자들을 위한 공정한 임금과 노동조건을 쟁취할수 있습니다. 우리의 운동에 함께 해주세요.
 
 WORKERS'ACTION CENTRE
 
@@ -24,32 +24,32 @@ This booklet was updated in February 2019.
 
 ___
 
-# HOW TO USE THIS BOOKLET
+# 이 소책자를 활용하는 방법
 
-This booklet provides a summary of your rights at work under the various laws that protect workers. But our laws alone are not enough to protect us against violations of our rights.
+이 소책자는 노동자를 보호하기 위한 여러 법률하에서의 당신의 권리를 요약해서 알려줍니다. 하지만 법률만으로는 권리 위반으로부터 우리를 보호하기에 충분하지 않습니다. 
 
-That is why at the beginning of this booklet, we have included a ‘Checklist for Workers’, which includes tips on how to prepare yourself in case your rights are ever violated at work. Throughout the rest of the booklet, each section also includes a mini-checklist of things you can do to protect yourself in specific situations. Each section also has phone numbers and websites of places you can contact for more help.
+그것이 바로 이 소책자 처음 부분에 당신의 권리가 위반되었을 경우를 대비한 여러가지 팁들을 정리해 놓은 ‘노동자를 위한 체크리스트’를 수록해둔 이유입니다. 이 소책자의 나머지 섹션에는 특정한 상황에서 당신을 보호할수 있도록 여러 ‘미니 체크리스트’가 수록되어 있습니다. 각 섹션에는 추가적인 도움이 필요할때 연락할수 있는 전화번호와 웹사이트가 있습니다.
 
-If you have any questions about your rights at work or think your rights may have been violated, call the Workers’ Action Centre. We can help you develop a plan for getting what you are owed and making your workplace more fair. All calls are confidential.
+당신의 권리에 대해 질문이 있거나 당신의 권리가 위반되었다고 생각하시면, 워커스 액션센터로 연락하세요. 우리는 당신이 받아야할 빚이나 공정한 직장을 위한 계획을 세울수 있도록 도와드립니다. 모든 통화는 비밀이 보장됩니다.
 
-# PROTECT YOURSELF
+# 스스로를 보호하세요
 
-It is important to be prepared in case your rights are violated at work. Use this checklist to protect yourself. This information will help you defend yourself, recover wages you are owed, file complaints, and qualify for benefits and entitlements that you deserve.
+일터에서 당신의 권리가 침해될 경우를 대비하는 것은 매우 중요합니다. 당신을 보호하기 위해 이 체크리스트를 사용하세요. 이 정보는 당신을 방어하고, 체불임금을 지급받고, 문제를 제기하고, 정당한 복지와 재정지원을 받는데 도움이 될 것입니다. 
 
-## Checklist for Workers
+## 노동자를 위한 체크리스트
 
-- Ask for time to read a contract before you sign it. If your boss pressures you to sign your contract without reading it, try to get a copy of the contract or take a photo of it. Keep copies of any contracts you receive.
-- Keep your own record of the hours and dates you worked, and the details of the work you do every day. Keep this record at home.
-- If you don’t have a Social Insurance Number, valid Work Permit or you get paid in cash, write down the wages you have been paid and hours and dates worked. The employment standards law applies to you.
-- Write down any information about your boss and the company that you can find: name, title, work and home address, phone numbers, license plate number.
-- Keep records of any communication you have with your employer: texts, emails, phone calls, letters.
-- It is illegal for your boss to fire you for speaking about your rights. If this happens to you, write down the details of how and when you were fired. Your boss may also force you to quit by harassing you at work. Write down the details of the harassment.
-- If you are fired, forced to quit or laid off, you may still be eligible for Employment Insurance. Your detailed records will help when applying for El benefits.
-- Keep copies of every document you receive from your employer: contract, pay stubs, cheques, Record of Employment (ROE), termination letter, etc.
-- Keep copies of any documents you receive from the government, such as any forms that you have filled out for the Workplace Safety and Insurance Board (WSIB) or Employment Insurance (El).
-- Your boss cannot fire you for taking a leave (paid or unpaid) or for being injured or sick. If this happens to you, write down everything your boss says.
-- Make sure you apply for Employment Insurance (El) within 28 days of your last day of work, even if your employer has not given you a Record of Employment (ROE). If you have been working for cash, write down the dates and hours you worked and apply as soon as you stop working. You may still qualify for El.
-- If you think your rights have been violated, call the Workers’ Action Centre to get help.
+- 사인하기 전에 계약서를 읽을 시간을 요청하세요. 만약 당신의 고용주(보스)가 시간을 주지 않으면 계약서의 복사본을 요청하거나 사진을 찍어 두세요. 당신이 받은 모든 계약서를 잘 보관해 두세요.
+- 당신이 일한 날짜와 시간, 자세한 업무 내용을 매일 따로 기록해 두세요. 이 기록은 집에 보관하세요.  
+- 만약 신 SIN 넘버가 없거나 유효한 노동 비자가 없거나 현금으로 급여를 받는다면, 일한 날짜와 시간, 받은 금액을 기록해 두세요. 노동법은 이런 경우에도 적용됩니다.  
+- 당신의 고용주(보스)에 관한 정보를 찾아서 적어 두세요: 이름, 직책, 직장 주소, 전화번호, 자동차 번호 
+- 당신의 고용주와 나눈 모든 대화를 저장해 두세요: 문자 메시지, 이메일, 전화 통화, 편지
+- 당신의 권리를 주장한다는 이유로 당신을 해고하는것은 법 위반입니다. 이런 일이 발생한다면, 언제 어떻게 해고당했는지 적어두세요. 당신의 고용주(보스)는 당신을 괴롭힘으로서 당신을 그만두게 할 수도 있습니다. 괴롭힌 내용을 구체적으로 적어 두세요.
+- 만약 퇴사를 강요당하거나 해고를 당했다고 하더라도 당신은 고용보험(EI)를 받을 수 있습니다. 당신이 기록이 고용보험 수당을 신청하는데 도움이 될 것입니다.
+- 고용주로부터 받은 모든 문서를 잘 보관하세요: 계약서, 급여명세서, 수표, 재직증명서, 고용종료레터 
+- 정부로부터 받은 모든 문서를 잘 보관하세요. 산재보험(WSIB) 접수 문서나 고용보험 신청 서류
+- 당신의 고용주는 무급/유급 휴가나 부상이나 질병 등을 이유로 해고할 수 없습니다. 이런 경우가 발생하면 당신의 고용주의 말을 적어 두세요. 
+- 당신의 고용주가 재직증명서(ROE)를 발급하지 않았다고 하더라도 마지막 일한 날로부터 28일 이내에 고용보험을 신청하는 것을 잊지 마세요. 급여를 현금으로 지급받았다면 일한 날짜와 시간을 적어두고 일을 끝내자마자 EI를 신청하세요. 캐쉬잡 종사자도 고용보험을 지급받을 수 있습니다. 
+- 당신의 권리가 침해당했다고 생각한다면, 워커스 액션 센터에 전화해서 도움을 요청하세요. 
 
 ```
 ⚠️ PROTECT YOURSELF!
