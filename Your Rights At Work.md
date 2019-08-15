@@ -52,7 +52,7 @@ ___
 - 당신의 권리가 침해당했다고 생각한다면, 워커스 액션 센터에 전화해서 도움을 요청하세요. 
 
 ```
-⚠️ PROTECT YOURSELF!
+⚠️ 스스로를 보호하세요!
 
 Talk to other workers
 Talk to people you trust at work and find out if your co-workers are facing the same problems as you. Your fight will be stronger if there are more workers standing together to improve working conditions.
@@ -60,101 +60,101 @@ Talk to people you trust at work and find out if your co-workers are facing the 
 Unionize
 Unions protect workers when employers do not follow labour laws. Organizing a union could mean better wages and working conditions. Call us to find out how a union works and how to form a union in your workplace.
 
-Find a workers’ centre near you
-There are several workers’ centres in Ontario that can support non-unionized workers to defend their rights. Call us to find out if there is one near you.
+주변에 노동자 센터를 찾아보세요
+온타리오에는 노조에 가입되지 않은 노동자들을 지원하기 위한 몇 곳의 노동자 센터가 있습니다. 당신의 주변에 있는 노동자 센터를 찾고 계시다면 저희에게 전화 주세요.
 
-Call the Workers’ Action Centre
-Read this booklet. Identify all wages you believe you are owed and any other rights that have been violated. Call us for help to plan your next steps. Every call is confidential.
+워커스 액션 센터에 전화하세요
+이 소책자를 읽으세요. 받아야할 임금과 침해되는 권리를 인식하세요. 다음 단계를 계획하기 위한 도움을 요청하세요. 모든 통화는 비밀이 유지됩니다. 
 ```
 
-## Your Legal Options
+## 법률적인 선택사항들
 
-#### Ministry of Labour
+#### 노동부 
 
-The Ministry of Labour is supposed to protect our rights and enforce the Employment Standards Act. It is free to file a claim. You have 2 years to file a claim to recover unpaid wages. Contact the Ministry of Labour at 1-800-531-5551 or www.labour.gov.on.ca.
+노동부는 당신의 권리를 보호하고 근로기준법을 준수하도록 강제하는 기관입니다. 체불된 임금은 2년 내에 신고할 수 있습니다. 다음 전화번호나 웹사이트를 통해 연락하세요 1-800-531-5551, www.labour.gov.on.ca. 
 
-#### Small Claims Court
+#### 소액재판 청구 
 
-This civil court handles any disputes for wages owing to you, wrongful dismissal, and also the recovery of personal property. The limit you can claim is $25,000. You have up to 2 years from when your wages were due to file a claim. There is a fee to file a claim. For more information: call 416-326-3554 or visit www.attornevgeneral.ius.gov.on.ca english courts scc.
+이 민사 소송은 체불 임금, 부당해고, 개인 자산 복구 등의 분쟁을 다룹니다. 최대 2만 5000달러까지 청구할 수 있습니다. 임금 청구 후 최대 2년까지 소요됩니다. 청구시 비용이 소요됩니다. 더 자세한 정보를 위해서는 416-326-3554로 전화하거나 웹사이트 www.attornevgeneral.ius.gov.on.ca 를 방문하세요. 
 
-#### Consult a Lawyer
+#### 변호사 상담
 
-If you want legal advice on your case or feel you may be entitled to more than the basic employment standards entitlements (through the Ministry of Labour), you should contact a lawyer. They may charge you a fee for a consultation. The Lawyer Referral Service may provide you with the name of a lawyer who will provide a free consultation of up to 30 minutes to help you determine your rights and options: 1-800-268-8326.
+만약 당신이 법률적 조언을 원하거나, 기본 근로기준 이상의 (노동부를 통해) 요구 조건이 된다고 느낀다면, 변호사를 만나야 합니다. 변호사는 상담비용을 청구할 것입니다. 변호사 추천 서비스는 30분정도 당신의 권리와 선택지에 관해 무료 상담을 제공하는 변호사 이름을 제공할 수 있습니다. 
 
-#### Community Legal Clinics
+#### 지역사회 법률 클리닉 
 
-Some community legal clinics provide information and legal support for workers. Clinics generally provide services to people with low incomes and that live in their area. To find a community clinic near you, contact Legal Aid Ontario: www.legalaid.on.ca or call toll-free at 1-800-668-8258.
-
-```
-Enforcement of our labour laws is not strong enough, which means employers believe they can get away with breaking the law. If you file a Ministry of Labour claim, it could take a long time for your case to be resolved and there is no guarantee that you will get what you are owed. Call us to discuss your options and develop a plan for defending your rights. Get involved!
-```
-
-# IMPORTANT TERMS TO KNOW
-
-#### Employment Standards Act (ESA)
-
-The ESA provides minimum rights for wages, hours of work, leaves, termination and other benefits. It is the labour law that non-unionized workers rely on. Not all sectors of workers are covered equally. Every province has its own labour laws.
-
-#### Ministry of Labour (MOL)
-
-This Ontario government ministry is responsible for enforcing the Employment Standards Act and Occupational Health and Safety Act. Workers can make claims against their employers when the labour laws are not followed. Call 1-800-531-5551 or visit www.labour.gov.on.ca. For the Occupational Health and Safety branch call 1-877-202-0008.
-
-#### Service Canada
-
-Service Canada is the federal government agency where you apply for Employment Insurance (El) when you are unemployed, and for maternity and sick benefits. This agency provides many services related to employment and government benefits. For more information call 1-800-206-7218 or visit www.canada.ca en services benefits ei.html.
-
-#### Employment Insurance (El)
-
-You contribute a percentage of your wages into this federal government fund. Your boss also makes a contribution. You may be able to receive benefits while you are unemployed or on parental or sick leave. Service Canada administers El.
-
-#### Record of Employment (ROE)
-
-Every employer must give you an ROE when you leave or are fired from yourjob. The ROE is supposed to include your hours worked, wages earned and reason for leaving the job. Service Canada uses this information to determine if you qualify for El benefits, the amount you will receive, and for how long.
-
-#### Workplace Safety & Insurance Board (WSIB)
-
-This is insurance for when you are injured or become sick because of your job. This is often called “workers compensation". Not every company has WSIB coverage. Call 1-800-387-0750 or visit www.wsib.on.ca for details.
-
-#### Canada Pension Plan (CPP)
-
-CPP is a federal government benefit based on contributions from workers and employers. If you are eligible you can receive retirement pension, death and disability benefits. Call 1-800-277- 9914 or visit www.canada.ca zenzserviceszbenefitszQublicgensionszcgghtml for details.
-
-#### Temporary Agency
-
-A temporary help agency is a business that finds you temporary work assignments at different companies. The agency is your employer. The place where you work every day is called the client company.
-
-#### Ontario Human Rights Tribunal
-
-The Human Rights Tribunal deals with workers’ claims of discrimination and harassment on the basis of rights protected under the Human Rights Code. The Canadian Human Rights Commission deals with complaints from federally regulated workers. The Human Rights Legal Support Centre provides legal assistance if you believe you have faced discrimination and harassment: 1-866-625-5179 or visit hrlsc.on.ca.
-
-#### Canada Revenue Agency
-
-The CRA is responsible for assessing and collecting taxes and delivering other federal benefits. They are a department of the Government of Canada. Self-employed workers and some other workers may pay taxes differently. Call us for information on your employee status and we can guide you in the right direction. Or call CRA directly at 1-800-959-8281 or visit https://www.canada.ca/en/services/taxes.html 
-
-# WHO IS COVERED UNDER THE LAW
-
-#### Exemptions
-
-There are over 85 special rules in the ESA that allow some employers to not comply with some standards for their workers. This leaves many workers, such as farmworkers, landscapers, and others, without equal access to minimum standards.
-
-Find out if your employer has an exemption by calling the Ministry of Labour inquiry line at 1-800-531-5551 or visiting www.labour.gov.on.ca.
+노동자들에게 정보와 법률 지원을 제공하는 지역사회 법률 클리닉이 있습니다. 보통 저소득 계층의 지역 거주민에게 서비스가 제공됩니다. 주변의 지역사회 클리닉을 찾으려면 법률 지원 론타리오(리걸 에이드 온타리오) 웹사이트 www.legalaid.on.ca를 방문하거나 수신자부담 전화를 걸어보세요. 1-800-668-8258 
 
 ```
-⚙️ TAKE ACTION!
-
-We believe that all workers should have basic labour standards with NO exemptions. We must keep fighting to ensure that all workers are protected by minimum employment standards. Contact WAC for updated information on exemptions and to get involved.
+고용주들이 법을 어겨도 된다고 믿는다면 노동법을 적용하는 것만으로는 충분치 않습니다. 당신이 노동부에 청구를 하여도 상당한 시간이 소요될 것이며, 체불된 임금을 돌려받는다는 보장은 없습니다. 우리에게 전화하여 당신의 선택지와 권리를 보호할 수 있는 방법과 계획을 의논하세요. 지금 전화하세요.
 ```
 
-#### Temporary Agency Workers
+# 알아야할 중요한 용어들
 
-If you are working through a temporary agency, you are covered under the Employment Standards Act like all other workers. Temporary agency workers usually earn lower wages, have fewer benefits, and less protection at work. Companies are contracting out more work so they don’t have to hire workers directly. For more information on your rights as a temp agency worker, see our Factsheet: Are You a Temp Agency Workers?
+#### 고용기준법 
 
-#### Temporary Foreign Workers Program and Caregivers Program
+고용기준법은 임금과 근로시간, 휴가, 고용종료와 복지혜택 등에 관한 최소한의 권리를 제공합니다. 비노조 노동자들에게 적용되는 노동법입니다. 모든 분야의 노동자들에게 똑같이 적용되지는 않습니다. 각 주 마다 다른 노동법이 있습니다. 
 
-Temporary foreign workers and care workers have basic protection under our labour laws, but may face some exemptions and restrictions. Many temporary foreign workers face barriers in enforcing their rights because of their immigration status. Call us if you think your employer is not following the law.
+#### 노동부 
+
+이 온타리오 주정부 부서는 근로기준법과 직업 건강안전법을 집행합니다. 노동자들은 고용주를 상대로 노동법에서 어긋난 부분을 청구할 수 있습니다. 1-800-531-5551로 전화하거나  www.labour.gov.on.ca 웹사이트에 접속하세요. 직업 건강안전과 관련해서는 1-877-202-0008에 전화하세요. 
+
+#### 서비스 캐나다 
+
+서비스 캐나다는 당신이 실업상태이거나 출산휴가, 병가를 받을 때 고용보험을 신청하는 연방정부 기관입니다. 이곳에서 고용과 정부 지원 혜택에 관한 많은 서비스를 제공합니다. 더 자세한 정보를 원한다면 1-800-206-7218로 전화하거나 www.canada.ca 웹사이트에 접속하세요. 
+
+#### 고용보험 (EI)
+
+당신은 급여의 일정 부분을 연방 정부 펀드에 납입하게 됩니다. 당신의 고용주(매니저) 또한 고용보험을 납입합니다. 당신은 실업에 처하거나 출산/육아 휴직 또는 병가를 사용할 때 고용보험의 혜택을 받게 됩니다. 서비스 캐나다에서 고용보험금을 지급합니다. 
+
+#### 고용기록 
+
+모든 고용주는 당신이 직장을 떠나거나 해고할 때 당신에게 고용기록을 제공해야 합니다. 고용기록에는 당신의 근무시간, 지급된 임금와 해고/퇴사 이유가 포함됩니다.  서비스 캐나다는 이 정보를 근거로 당신의 고용보험 수령 자격과 금액, 기간 등을 결정하게 됩니다. 
+
+#### 산업재해보험
+
+이 보험은 당신이 업무를 이유로 다치거나 질병을 갖게 되었을 때를 위한 것입니다. “노동자 보상”으로 불리웁니다. 모든 직장이 산재보험을 적용하는 것은 아닙니다.  1-800-387-0750로 전화하거나 웹사이트 www.wsib.on.ca 를 방문하세요. 
+
+#### 캐나다 연금 계획 
+
+CPP는 노동자와 고용주의 납입금을 기반으로 하는 연방 정부 수당입니다. 자격이 되는 분은 은퇴연금과 사망 및 장애수당을 받을 수 있습니다. 자세한 내용은 1-800-277-9914로 전화하거나 www.canada.ca 웹사이트에 접속하세요.  
+
+#### 임시직 에이전시 (직업 소개소)
+
+임시직 에이전시는 다양한 단기 일자리를 소개해 주는 사업체입니다. 에이전시가 당신의 고용주가 됩니다. 당신이 매일 일하는 곳은 고객사(클라이언트 컴퍼니)라고 부릅니다.  
+
+#### 온타리오 인권 위원회 
+
+인권위원회에서는 노동자가 제기한 일터에서의 차별과 폭력에 관한 신고를 인권법에 기반하여 처리하는 기관입니다. 당신이 차별이나 폭력을 당했다면 캐나다 인권 법률 지원 센터의 법률 지원을 받을 수 있습니다. 1-866-625-5179로 전화하거나 웹사이트 hrlsc.on.ca 에 방문하세요. 
+
+#### 캐나다 국세청 
+
+캐나다 국세청은 세금을 부과하고 거두는 일과 연방 지원금(수당)을 지급하는 일을 관할하는 연방 정부 부서입니다. 자영업자와 다른 노동자들은 세금을 납부하는 방법이 다릅니다. 우리 센터에 전화하시면 당신의 고용 상태에 따른 정보와 올바른 가이드를 제공합니다. 혹은 국세청 1-800-959-8281 에 직접 전화하거나 https://www.canada.ca/en/services/taxes.html 웹사이트에 접속하세요.
+
+# 법률로 보호되는 대상
+
+#### 면제
+
+ESA에는 특정 분야의 노동자에게는 기준이 적용되지 않는 85개 이상의 법률조항이 있어 고용주는 일부 규정을 준수하지 않습니다. 이 때문에 농장 노동자, 조경사 등의 많은 노동자들이 최소한의 노동조건에 동등한 접근권을 보장받지 못합니다. 
+
+당신의 고용주가 면제조항에 해당하는지 알아보려면 노동부(1-800-531-5551)에 전화하거나 웹사이트(www.labour.gov.on.ca)에 방문하세요. 
 
 ```
-⚙️ TAKE ACTION!
+⚙️ 행동하세요!
+
+우리는 모든 노동자가 예외없이 기본노동권을 가져야 한다고 믿습니다. 우리는 모든 노동자가 최소한의 고용기준법으로 보호받기 위해 계속 싸워야 합니다. 면제 조항에 대한 최신 정보를 원하거나 참여를 위해 워커스액션센터에 연락하세요. 
+```
+
+#### 임시직 에이전시 (직업소개소)
+
+임시직 에이전시를 통해 일하는 경우에도, 다른 모든 노동자와 같이 고용기준법의 적용을 받습니다. 임시직 에이전시 근무자는 통상 낮은 임금과 적은 베네핏(복리후생)을 받고 일터에서 보호를 받기 어렵습니다. 기업은 노동자들을 직접 고용하지 않아도 되므로 에이전시를 통한 계약을 선호합니다. 임시직 노동자로서의 권리가 궁금하다면 다음 문서를 참고하세요. 임시직 노동자입니까? 
+
+#### 임시 외국인 노동자 프로그램과 간병인 프로그램 
+
+임시 외국인 노동자와 간병 노동자는 노동법의 기본적인 보호를 받지만, 때로 일부 면제와 예외 조항에 직면할 수 있습니다. 많은 임시 외국인 노동자들이 자신의 신분 때문에 자신의 권리를 지키는 데 한계를 느낍니다. 당신의 고용주가 법을 지키지 않는다고 생각되면 우리 센터에 전화하세요.  
+
+```
+⚙️ 행동하세요!
 
 Immigration status should not be a barrier to enforcing our rights at work. Many temporary foreign workers are forced to accept violations of their rights because they are in Canada on work permits that tie them to one employer. If they lose their jobs for complaining about working conditions, they may be deported. Non-status workers also fear deportation if they speak out about their rights. We must ensure all workers can count on protection at work. Our immigration policies must be changed to ensure permanent status for Temporary Foreign Workers on arrival, an end to employer-specific work permits and a fair appeals process before workers are forced to return to their home country. We also need permanent residency for all workers without immigration status in Canada. For more information on winning fairness for migrant workers, visit: www.migrantworkersalliance.org.
 ```
@@ -195,7 +195,7 @@ Some sectors such as banks, transportation, telecommunications and others are re
 Employers should not ask you to pay a fee to get a job. Temp agencies cannot charge you money for signing up with them, assigning you work or helping you with a resume or job interview.
 
 ```
-⚠️ PROTECT YOURSELF! MIGRANT WORKERS AND ILLEGAL FEES
+⚠️ 스스로를 보호하세요! MIGRANT WORKERS AND ILLEGAL FEES
 
 - Recruiters cannot charge a Temporary Foreign Worker any fees during any part of the process of getting employment.
 
@@ -258,7 +258,7 @@ If you have problems at work such as not being paid, your only protection is to 
 Sometimes you can’t tell whether you are an independent contractor or employee. For example, your boss might supervise your work, but you use some of your own tools. Call WAC for information and resources to help you determine your employment status.
 
 ```
-⚠️ PROTECT YOURSELF!
+⚠️ 스스로를 보호하세요!
 
 - Even if you sign a contract saying you are an independent contractor, you may not be. Ask for time to read a contract before you sign it.
 
@@ -290,7 +290,7 @@ Our minimum wage should be based on the principle that no one should be working 
 
 
 ```
-⚠️ PROTECT YOURSELF! MISCLASSIFICATION IS ILLEGAL
+⚠️ 스스로를 보호하세요! MISCLASSIFICATION IS ILLEGAL
 
 - If your boss is paying you less than the minimum wage keep a record at home of all dates and
 
@@ -325,7 +325,7 @@ Tips are voluntary payments that a customer gives to an employee (in cash or by 
 Your boss can collect some of your tips to hand out to your coworkers; this is a tip pool. Your boss can not use pooled tips to cover things like wages, operating costs, breakage, spilled food or beverages or other losses (e.g., dine and dash). In most cases, your employer cannot take some of your tips for themselves. Some employers may ask you to give a percentage of your total sales to the tip pool. This percentage cannot be more than you actually earned in tips.
 
 ```
-⚠️ PROTECT YOURSELF!
+⚠️ 스스로를 보호하세요!
 
 - Track and record the actual tips you receive and how much you pay into tip pools. It is illegal for your boss to keep tips for the company or require you to pay tips based on a percentage of total sales if that’s more than you make in tips.
 
@@ -341,7 +341,7 @@ Unfortunately employers have a lot of power to decide who puts tips in the pool,
 Fortraining, you can be paid less than your normal rate of pay, but you must be paid at least minimum wage. The boss should tell you about wage rates when you are discussing the training and the job.
 
 ```
-⚠️ PROTECT YOURSELF!
+⚠️ 스스로를 보호하세요!
 
 Beware of companies, like security guard companies, that offer you a job but ask you to first attend a training course that you must pay for. Often they guarantee a job later, but many workers find that there is no job or the job pays less than promised.
 ```
@@ -415,13 +415,13 @@ Total worked over two weeks = 88 hours
 Total overtime you are owed = 0 hours
 
 ```
-⚠️ PROTECT YOURSELF!
+⚠️ 스스로를 보호하세요!
 
 - Overtime averaging is not good for workers. DO NOT sign if you don’t want to. You can only cancel an overtime averaging agreement with your employer’s permission.
 ```
 
 ```
-⚠️ PROTECT YOURSELF! MIGRANT WORKERS AND HOURS OFWORK
+⚠️ 스스로를 보호하세요! MIGRANT WORKERS AND HOURS OFWORK
 
 - Care workers and other migrant workers often face pressure to work long hours. Care workers may be living in the home of their employer which makes it difficult to say no when asked to take on tasks well beyond the work day. Document every hour you work in case you want to make a claim for unpaid hours of work and overtime pay later.
 
@@ -429,7 +429,7 @@ Total overtime you are owed = 0 hours
 ```
 
 ```
-⚠️ PROTECT YOURSELF!
+⚠️ 스스로를 보호하세요!
 
 - Keep your own records of wages paid, hours and dates you worked and keep them at home, on your cell phone, or somewhere else your boss cannot find it. This will help you prove that your boss did not pay you properly.
 
@@ -574,7 +574,7 @@ You may also qualify for “compassionate care benefits" under the federal Emplo
 To find out if you are eligible for El benefits for any of these leaves, call the Employment Insurance Inquiry Line at 1-800-206-7218 or visit www.canada.ca en services benefits ei.html.
 
 ```
-⚠️ PROTECT YOURSELF!
+⚠️ 스스로를 보호하세요!
 
 - You should not be penalized or fired for taking any leave that you are entitled to. If this happens to you, write down all the details and call us to find out how to take action.
 
@@ -660,7 +660,7 @@ Unionized workers are protected from being fired without good cause. The only op
 Sometimes bosses reduce our pay rate, hours of work or other conditions of work. They can do this as long as it is not a big change that significantly reduces our pay or work. If the reduction in pay and working conditions is substantial this may be considered “constructive dismissal", meaning you are no longer able to work. Bosses sometimes do this to get us to quit so they won’t have to pay termination and severance. Other times, they try and pass on business costs to us by reducing our wages. This may happen when they are having financial problems. If you believe you are being “constructively dismissed" contact WAC. You may be able to file a claim for termination and severance pay or sue for breach of contract.
 
 ```
-⚠️ PROTECT YOURSELF!
+⚠️ 스스로를 보호하세요!
 
 - It is illegal for your boss to fire you for asking about your rights. This is called a reprisal. If this happens to you, write down all the details.
 
@@ -694,7 +694,7 @@ Go to the nearest Service Canada office to apply for El or apply online. Make su
 Calculate the number of hours you worked in the last year. Write down the dates you worked. Apply as soon as you stop working. You may still qualify for El.
 
 ```
-⚠️ PROTECT YOURSELF!
+⚠️ 스스로를 보호하세요!
 
 - If your boss doesn’t deduct Employment Insurance from your pay, you may still be entitled to your benefits. If you have written down the dates and hours that you worked, you can still apply for El. You will not have to pay any El deductions, only your boss pays.
 
@@ -717,7 +717,7 @@ There are four types of El special benefits:
 To qualify, a self-employed person must make an agreement to begin paying into El with the government through Service Canada. You must also be a Canadian citizen or a permanent resident of Canada. Call Service Canada at 1-800-206-7218 or visit www.canada.ca/en/services/benefits/ei.html for more details.
 
 ```
-⚙️ TAKE ACTION! FIX EMPLOYMENT INSURANCE!
+⚙️ 행동하세요! FIX EMPLOYMENT INSURANCE!
 
 We need major improvements to the El program. El is hard to access and when we receive it, we struggle to survive on low benefit rates.
 
@@ -808,7 +808,7 @@ WSIB can pay benefits even if you don’t have a work permit or are non-status. 
 Volunteers, unpaid interns, students and trainees are considered workers under the Occupational Health and Safety Act. This means you are protected under the law.
 
 ```
-⚠️ PROTECT YOURSELF!
+⚠️ 스스로를 보호하세요!
 
 - If you are injured at work, fill out the proper forms as soon as you are able. Always report an injury immediately to your supervisor or employer.
 
@@ -828,7 +828,7 @@ Ministry of Labour Health and Safety Branch: 1-877-202-0008
 ```
 
 ```
-⚙️ TAKE ACTION! FIX EMPLOYMENT INSURANCE!
+⚙️ 행동하세요! FIX EMPLOYMENT INSURANCE!
 
 Cuts to the WSIB compensation system and changes in what is required to qualify have made it increasingly difficult for injured workers to receive compensation and forces them to live in poverty. Injured workers are organizing for justice and demanding that the WSIB system be reformed. For more information and to get involved, visit: in'uredworkersonline.org.
 ```
@@ -869,7 +869,7 @@ Workplace violence programs:
 - Your employer must ensure that an investigation into the harassment is conducted by a neutral person, which may mean someone who does not work for the employer.
 
 ```
-⚠️ PROTECT YOURSELF!
+⚠️ 스스로를 보호하세요!
 
 - You have the right to refuse work if you believe you are in danger from workplace violence. Your boss should not penalize you for refusing. Certain workers have only a limited right to refuse (e.g.: police officers, firefighters, etc.).
 
@@ -923,7 +923,7 @@ A worker who believes they have faced discrimination can file a complaint with t
 It is legal for a temporary agency to decide who they will send to which assignments o rjobs, but it cannot be based on the kinds of discrimination listed in the Human Rights Code.
 
 ```
-⚠️ PROTECT YOURSELF!
+⚠️ 스스로를 보호하세요!
 
 - Speak to your boss or supervisor. If your employer does not take action to stop discrimination, they can be held responsible for allowing the problem to continue.
 
