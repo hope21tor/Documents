@@ -505,266 +505,267 @@ Total overtime you are owed = 6 hours
 - 고용인의 형제자매
 - 고용인의 돌봄이나 보조가 필요한 친척
 
-* An urgent matter is an event that is unplanned or out of the employee’s control, and can cause serious negative consequences, including emotional harm, if not responded to. Examples of an urgent matter include:
+* 긴급한 상황이란 고용인이 통제할 수 없는, 혹은 계획하지 않은 어떠한 사건이 발생하여 그 사건을 해결하지 않을 경우, 감정적인 피해를 포함한 부정적인 결과를 초래하는 경우들을 말합니다. 긴급한 상황의 예는 아래와 같습니다.
 
-- Your child’s babysitter cancels due to sickness
-- You are called in to an appointment at your child’s school
-- Your elderly parent has an emergency
+- 베이비시터가 질병으로 나오지 못해 자녀를 돌볼 사람이 없을 경우
+- 자녀의 학교 일로 호출되었을 경우
+- 노부모가 응급상황일 경우
 
-Generally you should inform your boss in advance, if that is possible, or as soon as you know you must take the leave. Notice does not have to be given in writing. It can be given by phone.
+일반적으로, 가능한한 당신의 부재를 상사에게 미리 이야기해놓거나 최대한 빨리 휴가를 써야함을 언지해두어야 합니다. 이때 꼭 이메일을 보내야 할 필요는 없으며, 전화통화로도 가능합니다.
 
-Only in the case of Family Responsibility leave, the employer is not allowed to ask for a note from a medical professional regarding the illness, injury or medical emergency of a family member.
+가족 책임 휴가일 경우에만 고용인은 가족구성원의 질병이나 부상, 의료적인 응급상황에 대한 의료전문인의 진료확인서를 제출하지 않아도 됩니다.
 
-In all other situations, your employer can ask you for evidence that is “reasonable in the circumstances" in order to take any of these leave days. You must have worked 2 consecutive weeks for the same employer before you can take a leave day.
+위의 상황이 아닌 다른 상황들인 경우, 당신의 고용주는 휴가를 쓰는 것에 대한 “사유서”를 제출하는 것을 요구할 수 있습니다. 당신은 휴가를 쓰기 전 당신의 현재 고용주에게서 2주를 연이어 근무한 상태여야 합니다.
 
 
 ```
 ⭐ 노동자가 승리합니다!
 
-Until 2018, almost 1 in 3 workers had no sick leave protection. Workplaces with less than 50 employees did not have to provide any unpaid leave. This meant that 1.7 million workers could not even take an unpaid day off without fear of losing their jobs. By bringing together low-wage workers and healthcare workers, the Fight for $15 & Fairness campaign won job-protected leave days for all workers. We will keep fighting until we win 7 paid sick days for all so that workers can take care of their health and their families.
+2018년까지 3분의 1에 해당하는 노동자들이 병가를 보장받지 못했습니다. 50명 이하의 작업장의 경우 무급휴가를 제공받지 못했습니다. 이는 170만의 노동자가 직업을 잃을 것이 두려워 단 하루의 휴가조차 쓸 수 없었다는 것을 의미합니다. 저임금의 노동자와 의료돌봄 관련 노동자들과 연대함으로써 ‘모두에게 공정한 시급 15불을 위한 투쟁’ 캠페인은 승리할 수 있었고, 이로 인해 모든 노동자들이 무급 휴가를 보장받을 수 있게 되었습니다. 우리는 앞으로 노동자가 그들 스스로와 그들의 가족을 돌보기 위한 7일간의 유급 병가를 위해 계속해서 투쟁할 것입니다.
 ```
 
-### Domestic or Sexual Violence Leave
+### 가정폭력 혹은 성폭력 휴가
 
-Domestic or sexual violence leave provides workers with job-protected leave when they or their children are facing domestic or sexual violence. You qualify for this leave after 13 weeks of consecutive employment with your employer.
+가정폭력 혹은 성폭력 휴가는 고용인 본인, 혹은 고용인의 자녀가 가정폭력, 성폭력을 당했을 경우 보장됩니다. 당신은 이 휴가를 쓰기 전 당신의 현재 고용주에게서 13주를 연이어 근무한 상태여야 합니다.
 
-Workers get 10 individual days of leave and up to 15 weeks of leave if the employee or their child experiences domestic or sexual violence or the threat of domestic or sexual violence.
+고용인은 고용인 본인이나 고용인의 자식이 가정폭력, 혹은 성폭력을 경험했거나, 가정폭력과 성폭력의 위협에 놓여있을 경우, 10일에서 15주 사이의 휴가를 가질 수 있습니다.
 
-The first 5 days of leave, each calendar year, will be paid. The rest will be unpaid.
+달력 연도 기준, 휴가를 시작한 지 5일까지는 유급휴가이지만, 나머지는 모두 무급휴가로 처리됩니다.
 
-Employers are allowed to require you to provide evidence “reasonable in the circumstances" before letting you take leave.
+고용주는 당신이 휴가를 쓰기 전 “사유서”를 제출할 것을 요구할 수 있습니다. 
 
-Workers who take domestic and sexual violence leave are entitled to the same rights as employees who take pregnancy or parental leave. That means your boss cannot threaten, fire or penalize you in any way taking or planning to take leave.
+가정폭력이나 성폭력을 당한 노동자의 경우 임신휴가나 육아휴가를 받은 고용인과 같은 권리를 가지고 있습니다. 이는 즉 당신의 상사가 당신이 이 이유로 휴가를 가려고 하거나, 휴가를 간 것에 대해 위협하거나, 당신을 해고하거나, 차별대우를 할 수 없음을 의미합니다.
 
-#### Rights during leave
+#### 휴가 중 권리
 
-Workers who take these leaves have the same rights as workers who take pregnancy or parental leave. That means your boss cannot threaten, fire or penalize you for taking or planning to take sick, bereavement, family responsibility or domestic violence leave. Special rules apply to some occupations.
+가정폭력이나 성폭력의 이유로 휴가를 가진 노동자는 임신휴가나 육아휴가를 받은 고용인과 같은 권리를 가지고 있습니다. 이는 즉 당신의 상사가 당신이 가정폭력이나 가족부양의무, 지병이나 사별의 이유로 휴가를 가려고 하거나, 휴가를 간 것에 대해 위협하거나, 당신을 해고하거나, 차별대우를 할 수 없음을 의미합니다. 몇몇의 직업에 대해서는 특별법이 적용됩니다.
 
-## OTHER LEAVES
+## 다른 휴가들
 
-The following leaves are unpaid under provincial employment standards laws. But you may qualify for income benefits through Employment Insurance (El) from the federal government (Service Canada).
+아래의 휴가들은 주립 노동법규에 따른 것입니다. 그러나 아래의 휴가들을 받기 위해서는 우선 당신이 연방정부(Service Canada)로부터 고용보험(Employment Insurance, EI)의 수입 수당(income benefits)을 받을 수 있는 조건을 갖추고 있어야 할 수도 있습니다. 
 
-### El Sick Leave
+### 실업급여 병가
 
-Through El, sick benefits may be paid up to 15 weeks to a person who is unable to work because of sickness or injury. To receive sick benefits you are required to have worked for 600 insured hours in the last 52 weeks.
+아프거나 다쳐서 일을 할수 없는 경우 실업급여를 통해 최장 15주까지 병가 혜택이 주어집니다. 병가 혜택을 받기 위해서는 지난 52주 동안 600시간 이상 보험가입이 된 노동기록이 있어야 합니다. 
 
-### Maternity & Parental Leave
+### 출산 휴가
 
-Under the Employment Standards Act you may qualify for the right to take unpaid time off work if you are pregnant or are a new parent.
+만약 당신이 임신했거나 새로 부모가 되었다면, 근로기준법에 따라 무급 휴가를 받을 권리를 얻을 수 있습니다. 
 
-You may also qualify for maternal and/or parental benefits under the federal Employment Insurance Act. The rules to qualify for provincial unpaid leave and federal paid benefits are different. You should check both to see what you are entitled to receive.
+당신은 또한 연방 노동보험법에 따라 모성/부모 혜택을 받을 수 있습니다. 주에서 제공하는 무급 휴가와 연방에서 제공하는 유급 혜택에 대한 규칙은 다를 수 있습니다. 어떤 혜택을 받을 수 있는 둘 다 확인해 보시기 바랍니다.
  
-In general, maternity benefits are El benefits payable to the birth mother or surrogate mother for a maximum of 15 weeks. To receive maternity benefits you are required to have worked for 600 hours in the last 52 weeks and sign a statement declaring the expected date of birth of your child. Your job is protected under the Employment Standards Act when you take this leave.
+대체로, 출산 휴가는 출산모나 대리모에게 최장 15주까지 고용보험에서 주어지는 혜택입니다. 출산 혜택을 받기 위해서는 지난 52주간 600시간 이상 일했고, 출산예정일을 신고하는 서류에 서명해야 합니다. 출산 휴가를 가질때 당신의 일자리는 고용기준법에 따라 보호됩니다.
 
-Parental leave provides both parents with El benefits and job-protected leave. Please check the Employment Insurance website to view the different types of leave and benefits available to parents.
+출산 휴가는 양쪽 부모 모두에게 고용보험 급여와 일자리 보장이 제공되는 혜택입니다. 부모에게 제공되는 여러 종류의 휴가와 혜택은 고용보험 웹사이트를 확인해 보시기 바랍니다.
 
-### Leaves for Caregiving of Family Members
+### 가족 병간호를 위한 휴가
 
-The Employment Standards Act provides job-protected leave for workers providing care to family members in a number of different situations. You may also qualify for paid benefits under the federal Employment Insurance Act. The rules to qualify for provincial unpaid leave and federal paid benefits are different. You should check both to see what you are entitled to receive.
+고용기준법은 가족을 간호해야 하는 여러 상황에 처한 노동자에게 일자리가 보호되는 휴가를 제공합니다. 당신은 연방 고용보험법이 제공하는 유급 혜택을 받을 자격이 되실 수도 있습니다. 주에서 제공하는 무급 휴가와 연방에서 제공하는 유급 혜택에 대한 규칙은 다를 수 있습니다. 어떤 혜택을 받을 수 있는 둘 다 확인해 보시기 바랍니다.
 
-Here is some general information about some of the leaves available:
+출산 휴가에 대한 일반적인 정보를 확인해 보세요:
 
-**Family caregiver leave** is unpaid, job-protected leave that you can take to care for a family member with a serious medical condition. You can take up to 8 weeks of this leave per calendar year.
+**가족 병간호 휴가**는 건강 상태가 심각한 가족을 간호하기 위해 가질 수 있는 무급이지만 일자리가 보장되는 휴가입니다. 매년 8주까지 이 휴가를 갈 수 있습니다.
 
-**Family medical leave** is unpaid, job-protected leave that you can take to care for a family member with a significant risk of death occurring within a period of 26 weeks. You can take up to 28 weeks of this leave in a 52-week period.
+**가족 의료휴가(=> 번역이 적절한지?)**는 26주 이내로 사망할 수 있는 심각한 위험에 처한 가족을 간호하기 위해 가질 수 있는 무급이지만 일자리가 보장되는 휴가입니다. 52주 기간 동안 최장 28주까지 이 휴가를 갈 수 있습니다.
 
-You may also qualify for “compassionate care benefits" under the federal Employment Insurance Act. Up to 26 weeks of employment insurance benefits may be paid to El eligible workers. This El benefit also requires evidence that care is needed for a family member who has a serious medical condition with a significant risk of death within a 26-week period.
+당신은 연방 고용보험법에 따라 “특별 휴가”를 받을 자격이 되실 수도 있습니다. 고용보험이 해당되는 노동자에게 최장 26주까지 고용보험 혜택이 주어질 수 있습니다. 이 고용보험 혜택은 당신 가족의 건강이 26주 이내에 사망할 수 있는 심각한 위험에 처해 있어서 당신의 병간호가 필요하다는 증거를 요구합니다.
 
-**Critical illness** leave is unpaid job-protected leave of up to 37 weeks to provide care or support for a critically ill child, or 17 weeks for a critically ill adult within the family. Workers may be eligible for El special benefits for caregivers of critically ill minor children for up to 35 weeks or critically ill adults for up to 15 weeks.
+**중대질병 휴가**는 당신의 가족중 심각한 질병에 걸린 아이가 있을 경우 최장 37주까지, 심각한 질병에 걸린 성인이 있을 경우 최장 17주까지 일자리가 보장되는 무급 휴가입니다. 노동자들은 심각한 질병에 걸린 어린아이의 경우 35주까지, 성인의 경우 15주까지 병간호인을 위한 고용보험 특별 혜택을 받을 자격이 될 수도 있습니다.
 
-To find out if you are eligible for El benefits for any of these leaves, call the Employment Insurance Inquiry Line at 1-800-206-7218 or visit www.canada.ca en services benefits ei.html.
+이와 같은 휴가 혜택을 받을 수 있는지 알아보려면, 고용보험 문의전화 1-800-206-7218 혹은 www.canada.ca/en/services/benefits/ei.html을 방문하시기 바랍니다.
 
 ```
 ⚠️ 스스로를 보호하세요!
 
-- You should not be penalized or fired for taking any leave that you are entitled to. If this happens to you, write down all the details and call us to find out how to take action.
+- 당신은 당신이 받을 자격이 있는 휴가를 받았다는 이유로 징계를 받거나 파면을 당해서는 안됩니다. 만약 이런 일이 생기면, 모든 자세한 사항을 기록한후 우리에게 연락해서 어떻게 대처할지 알아보십시오.
 
-- When you come back from leave, you should get your old job back with the same responsibilities or a similar job with the same wages if your old job does not exist anymore.
+- 휴가에서 돌아왔을때, 당신은 이전과 동일한 책임의 일을 받거나 이전 일자리가 없어졌다면 같은 임금을 받는 비슷한 일을 받아야 합니다.
 ```
 
-## IS YOUR TEMP AGENCY FOLLOWING THE LAW? 
+## 당신의 임시직 에이전시(파견근로업체)는 법을 따르고 있습니까?
 
-Temp agency workers have the same rights as other workers. The temp agency is your official employer, but the client company (the place where the agency sends you to work) has responsibilities for your work as well.
+임시직 에이전시 (파견근로업체)에 고용된 노동자들은 다른 노동자들과 동일한 권리를 가집니다. 파견근로업체가 당신의 공식적인 고용주이지만, 고객회사(파견근로업체가 일하라고 보내 당신이 근무하는 회사) 도 마찬가지로 당신의 근무에 책임을 지고 있습니다.
 
-#### An Agency Must Give You Information About Your Assignment
+#### 에이전시(파견근로업체)는 반드시 당신이 맡을 일에 대해 당신에게 정보를 주어야만 합니다
 
-Your agency must give you, in writing, their name and contact information. When they offer you an assignment, they must give you: the client company name, wage rate, hours of work, description of work, length of assignment (if known) and the pay period and pay day. They should do this as soon as possible. They must also give you information about your rights from the Ministry of Labour.
+당신의 에이전시는 반드시 당신에게 그들의 이름과 연락처를 서면으로 주어야만 합니다. 에이전시가 당신에게 일을 제안할때, 반드시 당신에게: 고객회사의 이름, 임금률, 근무시간, 직무에 대한 설명, 직무의 총 기간(알고 있다면) 과 급여주기와 급여날짜 – 를 알려주어야만 합니다. 그들은 이를 최대한 빨리 진행해야 합니다. 에이전시는 노동부에서 정한 당신의 권리에 대한 정보도 당신에게 주어야만 합니다.
 
 ```
 ⭐ 노동자가 승리합니다!
 
-Over the years, many temp agency workers have gotten involved with WAC to fight for better protection from abuse. This is how we got the law changed to make client companies and temp agencies both responsible for unpaid wages. Now, as of January 1, 2018, temp agency workers have new protections in cases where they are terminated early from an assignment (see below for more details).
+수년간, 많은 파견업체 노동자들이 wac에 참여하여 작업장에서의 학대로부터 더 나은 보호를 받기 위해 싸워왔습니다. 이렇게 해서 고객회사와 파견업체 모두가 미지급된 임금에 대해 책임이 있다고 법을 바꾸게 된 것입니다. 이제 2018년 1월 1일부로 파견업체 노동자들은 해당 직무가 일찍 종료되어버리는 경우에 처했을 때 새로운 보호를 받게 되었습니다. (자세한 사항은 아래 참조)
 ```
 
-#### No Fees
+#### 수수료 없음
 
-A temp agency can not charge you money for signing up with them, assigning you work or helping with a resume or job interview.
+에이전시는 자신들과의 계약서에 사인할 때, 직무를 줄 때, 혹은 이력서나 인터뷰에 도움을 줄 때 당신에게 수수료를 요구할 수 없습니다.
 
-If you have worked 6 months or more on an assignment, the temp agency is not allowed to charge a fee to the client company for hiring you directly. Your agency cannot stop a company from hiring you or giving you an employment reference letter.
+당신이 6개월이나 그 이상의 기간동안 한 직무를 해왔다면, 에이전시는 고객회사가 당신을 직접 고용하려할때 고객회사에 수수료를 요구할 수 없습니다. 당신을 파견한 에이전시는 고객회사가 당신을 고용하는것을 막을 수 없으며 당신에게 레퍼런스 레터를 주지 않을 수 없습니다.
 
-#### Termination of Assignment
+#### 직무의 종료 (해지)
 
-If you were offered an assignment of 3 months or more but were terminated early, you may get 1 week of termination pay or notice.
+당신이 3개월 혹은 그 이상의 직무를 제안받았으나 그 일이 일찍 종료되었을 때, 당신은 1주일치의 해지급여를 받거나 1주 전 해지공지를 받을 수도 있습니다.
 
-There are some limitations on eligibility.
+이에대한 자격(적격성)에는 몇몇 제한사항이 있습니다.
 
-#### Termination of Employment
+#### 고용의 해지
 
-If your agency fires you or lays you off, you are entitled to termination pay or notice. You may qualify for termination pay or notice if you have been available to work for an agency but have not had an assignment in 13 weeks or more. The length of time you have worked for the agency will determine how many weeks of notice or pay in lieu of notice you will receive.
+당신의 에이전시가 당신을 해고하거나 레이오프 하면, 당신에게는 해고급여 혹은 해고통지를 받을 자격을 부여받습니다. 당신은 에이전시를 위해 일할 수 있는 상황이지만 13주 혹은 그 이상 직무를 받지 못했을 경우에, 당신은 해고급여 혹은 해고통지를 받을 수도 있습니다. 당신이 에이전시를 위해 일한 총 근무시간에 따라 몇 주의 해고통지를 받을 지, 또는 통지 대신 얼마의 급여를 받을 지 결정됩니다.
 
-#### No Penalty for Asking About Your Rights
+#### 당신의 권리를 요구하는것에 대한 불이익 없음
 
-Temp agencies should not penalize you for asking about your rights. The client company (where you work) can also be held responsible if you are penalized for trying to enforce your rights.
+에이전시 회사는 당신이 당신의 권리를 요구하는것에 대해 당신에게 불이익을 줄 수 없습니다. 당신이 권리를 시행하려고 한 것에 대해 불이익을 받았다면 고객회사(당신이 실제로 일하는 곳) 도 마찬가지로 책임이 있습니다.
 
-#### Unpaid Wages?
+#### 지급되지 않은 임금?
 
-If your agency fails to pay your wages, overtime pay and public holiday pay, the client company is responsible for the money you are owed. It can be hard to get your unpaid wages from an agency that operates through a telephone or online service. That is why it is important that client companies are also responsible for wages that are not paid.
+만일 에이전시가 당신에게 임금, 초과근무 수당, 공휴일 수당을 지불하지 못했다면, 고객회사가 당신의 받아야 할 돈에 대해 책임이 있습니다. 에이전시 회사가 전화나 온라인 서비스를 통해 운영되고 있는 경우에는 미지급된 임금을 받는것이 어려울 수 있습니다. 그것이 바로 고객회사 또한 지불되지 않은 임금에 책임을 지도록 하는 것이 중요한 이유입니다.
 
-## TERMINATION OF WORK
+## 퇴직/ 근무의 해지
 
-### Termination Notice or Pay
+### 해고 통지 혹은 해고수당
 
-Your boss can fire you with no notice if you have worked less than 3 months. When you leave, they should always give you:
+당신의 보스는 당신이 일한 기간이 3개월 미만일 경우에는 미리 통지하지 않고 당신을 해고할 수 있습니다. 당신이 직장을 떠날 때 회사는 당신에게 다음의 내용을 항상 주어야 합니다 :
 
-- A record of employment (ROE)
-- Unpaid vacation pay (4% of gross earnings)
-- Any unpaid wages, overtime pay, etc.
+- 고용 기록 (ROE)
+- 지급되지 않은 휴가 수당 (총 소득의 4%)
+- 그 외 지급되지 않은 임금, 초과근무수당 등.
 
-After 3 months, your boss must give you written notice of the date you will be fired or laid off. If they do not give you notice, they must give you termination pay instead.
+일한지 3개월이 지나면, 당신의 보스는 당신에게 해고나 레이오프 날짜를 서면으로 통지해야만 합니다. 만일 회사가 당신에게 통지하지 않는다면, 회사는 대신 해고수당을 당신에게 주어야만 합니다.
 
-If you are fired because of “neglect of duty, disobedience or willful misconduct" you may not get any notice or pay. Minor mistakes should not be enough to deny you your right to termination pay or notice. Contact us if you think you have been unfairly terminated.
+만일 당신의 해고사유가‘ 업무 태만, 업무 불복종, 혹은 고의적인 불법행위’라면, 당신은 어떤 통지나 수당을 받지 못할 수도 있습니다. 사소한 실수는 해약통지나 해고수당을 받을 권리를 거부당하기에 충분하지 않아야 합니다. 당신이 불공정하게 일을 그만두게 되었다고 생각되면 우리에게 연락하십시오.
 
-#### How Much Notice or Pay?
+#### 해고통지/수당의 기간/액수는?
 
-How much notice you should receive depends on how long you worked for your employer. The minimum notice or termination pay you should receive is as follows:
+얼마의 기간을 두고 당신이 해고통지를 받아야하는지는 당신이 고용주를 위해 일해온 기간에 따릅니다. 당신이 받을 수 있는 최소한의 해고통지 기간/ 해고수당은 다음과 같습니다:
 
-3 months to 1 year worked = 1 week
+3개월에서 1년 근무한 경우 = 1주
 
-1 to 3 years worked = 2 weeks
+1년에서 3년 근무한 경우 = 2주
 
-3 years to 4 years worked = 3 weeks
+3년에서 4년 근무한 경우 = 3주
 
-And so on, up to 8 weeks for 8 years worked.
+이런 식으로 8년을 근무한 경우 최대 8주가 됩니다.
 
-### Severance Pay
+### 퇴직 수당
 
-Severance pay is not the same as termination pay. To get severance pay, you must have worked for at least 5 years for your employer. Also, the employer must have an annual payroll of more than $2.5 million or must have terminated 50 or more employees in the last 6 months. Severance pay is 1 week of pay for every year worked to a maximum of 26.
+퇴직수당은 해고수당과 동일한 것이 아닙니다. 퇴직금을 받으려면 당신은 최소 5년을 당신의 고용주를 위해 일했어야만 합니다. 또한 회사의 연간 지급 봉급 총액이 2.5백만불을 넘는 경우에만, 아니면 회사가 지난 6개월간 50명이나 그 이상의 피고용인들을 해고한 경우 받을 수 있습니다. 퇴직금 금액은 일한 1년마다 1주씩의 급여로 계산되며 최대 26주 분 까지입니다.
 
-### Wrongful Dismissal
+### 부당 해고
 
-The Employment Standards Act does not require employers to have “just cause" or good reasons for firing a worker. It only requires that employers give workers termination notice.
+고용기준법은 고용주들에게 근로자를 해고하는데 있어‘정당한 이유’ 혹은 타당한 이유를 요구하고 있지 않습니다. 법은 단지 피고용인에게 해고통지를 주는 것만을 요구하고 있습니다.
 
-Unionized workers are protected from being fired without good cause. The only option for non-unionized workers who have been fired without good cause is to take their employer to court to sue for wrongful dismissal.
+노조에 가입되어있는 노동자들은 타당한 이유없이 해고되는것으로부터 보호받고 있습니다. 노조에 가입되어있지 않은 노동자들이 타당한 이유없이 해고되는 상황에 대해 유일하게 가질 수 있는 선택지는 고용주를 부당해고로 법정에 고소하는 방법밖에는 없습니다.
 
-### Constructive Dismissal
+### 건설적 해고
 
-Sometimes bosses reduce our pay rate, hours of work or other conditions of work. They can do this as long as it is not a big change that significantly reduces our pay or work. If the reduction in pay and working conditions is substantial this may be considered “constructive dismissal", meaning you are no longer able to work. Bosses sometimes do this to get us to quit so they won’t have to pay termination and severance. Other times, they try and pass on business costs to us by reducing our wages. This may happen when they are having financial problems. If you believe you are being “constructively dismissed" contact WAC. You may be able to file a claim for termination and severance pay or sue for breach of contract.
-
-```
-⚠️ 스스로를 보호하세요!
-
-- It is illegal for your boss to fire you for asking about your rights. This is called a reprisal. If this happens to you, write down all the details.
-
-- Your boss may force you to quit by harassing you at work. Write down every detail of the Harassment.
-
-- If your boss has drastically changed your conditions of work, hours or benefits resulting in a significant decrease in how much you get paid, document all the changes. Call WAC for help.
-
-- You should be able to return to your job after taking sick leave or other leaves. If your boss says you cannot come back to work, write down everything they say. Your boss should not fire you if you have an injury or serious medical condition; they must try to accommodate you first. If they do fire you, you may have a human rights complaint.
-
-- You can still fight for Employment Insurance benefits if you quit or are fired. Contact WAC for help.
-```
-
-# EMPLOYMENT INSURANCE (El) AND SPECIAL BENEFITS
-
-#### What is Employment Insurance?
-
-El is your right. This insurance plan provides you with benefits when you lose your job or are on leave from work when you are sick, have a child or are providing care for a family member.
-
-Both you and your boss contribute to this plan. It is your boss’s responsibility to deduct El contributions from your pay. This should be recorded on your pay slips. El is paid out by the federal government through Service Canada.
-
-#### Do I Qualify for Employment Insurance?
-
-To collect El, you usually need to have worked between 420 and 700 hours in the previous year. There is a 1 week unpaid waiting period for benefits. Check with us or Service Canada for the most recent qualifying hours you need in your region.
-
-#### How Do I Apply?
-
-Go to the nearest Service Canada office to apply for El or apply online. Make sure to apply within 4 weeks of your last day of work. You may lose some of your benefits if you apply late. You can still apply even if you have not received your Record of Employment (ROE) from your employer. You can use all of your ROEs from every job you had during the past 52 weeks.
-
-#### Working For Cash With No Deductions?
-
-Calculate the number of hours you worked in the last year. Write down the dates you worked. Apply as soon as you stop working. You may still qualify for El.
+가끔 보스들은 당신의 급여율이나 노동시간을 줄인다거나 다른 근무조건 혜택을 줄이는 경우가 있습니다. 이로인해 우리의 급여가 심각히 줄게되거나 근무에 심각한 변화가 일어나는 것이 아닌 한 그들은 이런 삭감을 진행할 수 있습니다. 만일 급여삭감이나 근무조건 변화가 상당할 경우 이는 ‘건설적 해고’- 당신이 더이상 일하기 힘들다는 의미 – 상황이 됩니다. 보스들은 우리로 하여금 일을 그만두게 하여 그들이 해고수당이나 퇴직금을 주지 않아도 되는 상황을 만들기 위해 이를 자행하기도 합니다. 어떤 때에는, 사업비용을 우리에게 전가하여 우리의 임금을 삭감하려고 시도하기도 합니다. 이런 일들은 그들이 재정적 어려움을 겪고있을 때 일어나는 수가 있습니다. 당신이 ‘건설적 해고’를 당하는 경우에 처했다고 생각이 든다면 WAC에게 연락하십시오. 당신은 해고수당이나 퇴직금에 대한 청구신청을 하거나 계약위반에 대한 고소를 진행할 수도 있습니다.
 
 ```
 ⚠️ 스스로를 보호하세요!
 
-- If your boss doesn’t deduct Employment Insurance from your pay, you may still be entitled to your benefits. If you have written down the dates and hours that you worked, you can still apply for El. You will not have to pay any El deductions, only your boss pays.
+- 당신이 당신의 권리를 요구했다는 이유로 보스가 당신을 해고하는 것은 불법입니다. 이것은 보복입니다. 이런 일이 당신에게 일어났다면 세부사항을 기록해두십시오.
 
-- If you don’t have a SIN or valid work permit you may not be entitled El benefits.
+- 당신이 일을 그만두게 하려고 보스가 괴롭히는 수가 있습니다. 개개 괴롭힘의 경우들을 상세히 적어두십시오.
 
-- If you were fired or quit, it may be more difficult to collect El. But El will consider the reason that you are no longer working. Write an explanation of what happened in your application or in a separate letter submitted later.
+- 보스가 당신의 근무조건 - 근무시간, 베네핏 등- 을 대폭적으로 바꾸어서 그 결과 당신의 급여가 심각히 줄어드는 결과를 가져왔다면 모든 근무조건 변화를 기록하고 WAC 에 연락해 도움을 청하십시오.
+
+- 당신은 병가나 그 외의 다른 휴가들 후에 일터로 복귀할 수 있어야 합니다. 만일 당신의 보스가 당신에게 일자리로 돌아올 수 없다고 한다면, 보스가 말한 모든 내용을 다 적어두십시오. 보스는 당신을 상해나 심각한 질병을 이유로 해고할 수 없습니다; 그들은 당신을 수용하려고 노력해야만 합니다. 만일 그들이 당신을 해고해버린다면, 당신은 인권에 대한 불만을 가지게 될 것 입니다.
+
+- 당신이 그만두었거나 해고되었을 경우 당신은 여전히 EI 혜택을 받기위해 싸울 수 있습니다. WAC에 연락해 도움을 청하십시오.
 ```
 
-#### Self-Employed Workers or Independent Contractors and Employment Insurance
+# 고용보험과 혜택
 
-If you are truly self-employed or an independent contractor, you have to pay your own contributions to CPP or WSIB. Self-employed workers may access Employment Insurance (El) special benefits.
+#### 고용보험이란?
 
-There are four types of El special benefits:
+고용보험은 당신의 권리입니다. 고용보험은 직장을 잃었거나 아프거나 아이를 낳거나 가족을 돌볼 일이 있어 직장을 떠날 때 혜택을 제공합니다.
 
-- Maternity benefits
-- Parental benefits
-- Sickness benefits
-- Compassionate care benefits
+당신과 당신의 상사는 모두 이 보험에 기여합니다. 당신의 급여에서 고용보험 비용을 공제하는 것은 상사의 책임입니다. 이것은 급여 명세서에 기록되어야 합니다. 고용보험은 Service Canada를 통해 연방 정부에서 지불됩니다.
 
-To qualify, a self-employed person must make an agreement to begin paying into El with the government through Service Canada. You must also be a Canadian citizen or a permanent resident of Canada. Call Service Canada at 1-800-206-7218 or visit www.canada.ca/en/services/benefits/ei.html for more details.
+#### 제가 고용보험을 받을 자격이 있나요?
+
+고용보험을 받기 위해서는 전년도에 420 시간에서 700 시간의 일을 했어야 합니다. 혜택을 받기 위해 1 주일의 대기 기간이 있습니다. 해당 지역에서 가장 최근의 자격 기간에 대해서는 WAC 또는 Service Canada에 문의하십시오.
+
+#### 어떻게 지원하나요?
+
+가장 가까운 Service Canada를 방문하여 El을 신청하거나 온라인으로 신청하십시오. 마지막 근무일로부터 4주 이내에 신청하십시오. 늦게 신청하면 일부 혜택을 잃을 수도 있습니다. 고용주로부터 고용 기록(Record of Employment: ROE)을 받지 못한 경우에도 신청할 수 있습니다. 지난 52주 동안 있었던 모든 직장에서 ROE를 사용할 수 있습니다.
+
+#### 공제없이 현금을 받고 일하십니까?
+
+작년에 근무한 시간을 계산하십시오. 일한 날짜를 적어 두십시오. 작업을 중단하자마자 적용하십시오. 여전히 고용보험 자격이있을 수 있습니다.
 
 ```
-⚙️ 행동하세요! FIX EMPLOYMENT INSURANCE!
+⚠️ 스스로를 보호하세요!
 
-We need major improvements to the El program. El is hard to access and when we receive it, we struggle to survive on low benefit rates.
+- 당신의 상사가 급여에서 고용보험을 공제하지 않는 경우에도 실업 급여를 받을 자격이 있을 수 있습니다. 근무한 날짜와 시간을 기록한 경우에도 고용보험을 신청할 수 있습니다. 당신이 고용보험 공제액을 지불하지 않아도 되며 당신의 상사 만 비용을 지불합니다.
 
-- Workers should need only 360 hours to qualify.
+- SIN 또는 유효한 취업 허가증이 없으면 고용보험 혜택을 받을 수 없습니다.
 
-- We should receive more weeks of El to help us survive.
-
-- We need an increase in the amount of benefits!
-
-Call us for more information and to get involved.
+- 해고 당하거나 일을 그만둔 경우 고용보험을 수집하기가 더 어려울 수 있습니다. 그러나 고용보험은 더 이상 일하지 않는 이유를 고려할 것입니다. 신청서 또는 추후에 제출된 별도의 서신에서 발생한 일에 대한 설명을 작성하십시오.
 ```
 
-## RECORD OF EMPLOYMENT (ROE)
+#### 자영업자, 독립 계약직과 고용보험
 
-Your boss must give you a Record of Employment (ROE) every time you leave a job. This document is important because it allows you to apply for Employment Insurance (El) more easily.
+자영업자 또는 독립 계약직인 경우 CPP 또는 WSIB에 대한 본인의 기부금을 지불해야합니다. 자영업 근로자는 고용보험 특별 혜택에 액세스 할 수 있습니다.
 
-The ROE includes information from your last place of work in order to calculate your benefits and the number of weeks you will receive them:
+네 개의 고용보험 특별 혜택이 있습니다:
 
-- Your name and the name of the company
-- Total hours worked in the 52-week period before your last day of work 
-- Total gross wages earned in approximately the last 6 months of work (depends on how you are paid; weekly, bi-weekly, etc.).
-- Reason for leaving
+- 출산 수당
+- 부모 수당
+- 질병수당
+- 특별 배려 수당
 
-It is common for an employer to submit your ROE online directly to Service Canada. You can access it by opening a “My Service Canada" account: www.canada.ca/en/employment-social-development/services/my-account.html.
+자격을 갖추려면 자영업자가 Service Canada를 통해 정부에 고용보험을 지불하기 시작하기로 합의해야 합니다. 이것은 캐나다 시민이거나 캐나다 영주권자만이 가능합니다. 자세한 내용은 1-800-206-7218로 Service Canada에 문의하거나 www.canada.ca/en/services/benefits/ei.html을 방문하십시오.
 
-#### ”Reason for Leaving" on ROE
+```
+⚙️ 행동하세요! 고용보험을 개선하자!
 
-Your boss must write down a reason for leaving on your ROE. Some reasons they can give are: fired, quit, illness or injury, shortage of work, temporary lay-off, pregnancy, parental, compassionate leave and “other". If your ROE says that you were FIRED or QUIT, you may be told that you will not get El benefits. But you may still be entitled to El if you were fired without a reason or quit with good cause, so you should still apply.
+고용보험 프로그램은 많은 개선이 필요합니다. 고용보험은 접근성이 떨어지고, 설령 수당을 받았다 하더라도 지금의 낮은 수당률에서 생존하기 위해 분투해야 하는 상황입니다. 
 
-#### No ROE?
+- 노동자가 고용보험의 자격을 얻기 위한 노동시간은  360시간이면 충분하다.
 
-If your employer refuses to give you an ROE, you should still apply for El. If you do not have your ROE after 14 days from your last day you are paid, contact Service Canada to find out how to obtain it. They may ask you to bring proof of your employment, like a pay stub, cancelled cheque or T4. If possible, Service Canada will use the proof to calculate your claim.
+- 우리가 생존하기 위해서는 더 많은 주일들(weeks)이 고용보험에 포함되어야 한다.
 
-#### Temp Agency Workers and ROEs
+- 고용보험에 따른 수당 금액이 증가되어야 한다.
 
-The temp agency has to give you an ROE documenting all your assignments. If you have not worked or received income for 7 days, you are considered on lay-off and could qualify for El. Ask the temp agency for an ROE. This does not mean you are quitting - tell this to the temp agency.
+더 많은 정보가 필요하시거나 고용보험 개선에 참여하고 싶으시다면 저희 센터에 전화주십시오.
+```
 
-# HEALTH AND SAFETY
+## 고용 기록
 
-## OCCUPATIONAL HEALTH AND SAFETY ACT
+당신의 상사는 당신이 휴가를 떠날 때마다 고용기록 (Record of Employment, ROE)를 줄 의무가 있습니다. 이 서류는 이후 당신이 고용보험을 더욱 쉽게 신청할 수 있도록 하기 때문에 매우 중요합니다. 
 
-The main purpose of the Occupational Health and Safety Act (OHSA) is to protect workers from health and safety hazards on the job. It sets out duties for all workplace parties and rights for workers. Those rights are:
+고용기록은 당신이 마지막으로 일한 직장이 표시되어 있습니다. 이는 당신의 수당을 계산하고, 수당을 받을 주의 갯수를 계산하기위해  필요합니다.   
 
-- The right to know about health and safety hazards
-- The right to participate in keeping your workplace healthy and safe
-- The right to refuse work that you feel is unsafe
+- 당신의 이름, 회사명
+- 당신이 마지막으로 일한 날 전 기준, 52주간 총 일한 시간
+- 지난 6개월간의 총급여 금액 (주간, 격주 간, 월간 등의 형태로 계산).
+- 휴가 이유
+
+당신의 상사가 고용기록을 바로 서비스 캐나다(Service Canada)로 제출하는 것은 흔한 일입니다. 당신은 당신의 고용기록을 “My Service Canada” 계정을 통해 볼 수 있습니다. www.canada.ca/en/employment-social-development/services/my-account.html.
+
+#### 고용기록 내 “휴가 이유”
+
+고용주는 반드시 당신이 휴가를 쓸 경우 고용기록에 휴가 이유를 적어야 합니다. 휴가 이유로는 해고, 퇴사, 질병이나 부상, shortage of work, 일시적 해고(temporary lay-off), 임신, 육아, 특별휴가, “그 외”가 있습니다. 만약 고용기록에 해고나 퇴사가 적혀있다면, 고용보험 수당을 받지 못할 수도 있습니다.
+하지만 만약 좋은 이유로 회사에서 해고되었거나 퇴사하였다면, 여전히 고용보험을 신청할 자격이 되니 꼭 신청하십시오.
+
+#### 고용기록이 없을 경우?
+
+만약 당신의 고용주가 고용기록을 작성해주지않더라도 여전히 고용보험을 신청할 수 있습니다. 만약 근무한 지 14일이 지나도록 고용기록을 받지 못한 경우, 서비스 캐나다에 연락하여 어떻게 고용기록을 받아야 할지 안내받을 수 있습니다.
+
+#### 파견업체 노동자와 고용기록
+
+파견업체는 당신이 파견된 모든 업무에 고용기록을 작성하여야 합니다. 7일 동안 일을하지 않았거나 수입을받지 못한 경우 해고된 것으로 간주되어 고용보험 자격이 될 수 있습니다. 파견업체에 고용기록을 요청하십시오. 그렇다고해서 일을 그만둔다는 의미는 아닙니다. 파견업체에 알리십시오.
+
+# 보건과 안전
+
+## 직업보건안전법
+
+직업보건안전법의 목적은 노동자를 작업 중 의료위험, 안전위험으로부터 보호하기 위함입니다. 직업보건안전법은 작업장의 모든 당사자의 의무와 근로자의 권리를 명시합니다. 그 권리는 다음과 같습니다.
+
+- 건강과 안전 사고에 대해 알아야할 권리
+- 작업장의 건강과 안전을 지키기위해 참여할 권리
+- 안전하지 않다고 판단될 때 작업을 거부할 권리
 
 The OHSA applies to almost every worker, supervisor, employer and workplace in Ontario, including workplace owners, constructors, and suppliers of equipment or materials to workplaces covered by the Act. The OHSA is enforced by the Ministry of Labour.
 
@@ -776,7 +777,7 @@ Fax: 905-577-1316
 
 In an emergency, always call 911 immediately.
 
-## WORKPLACE SAFETY AND INSURANCE BOARD (WSIB)
+## 산재보험
 
 Although we have laws meant to protect us, many workers are still injured or killed at work every year due to unsafe conditions in their workplaces. If you are injured at work or made sick as a result of your work or work environment, and have to miss work because of this, you may be eligible to receive financial compensation from the WSIB. Not every company has WSIB coverage.
 
@@ -790,21 +791,21 @@ If you are injured at work or sick due to work, you could receive a percentage o
 
 There are many rules applying to the WSIB program. Contact the WSIB directly for details.
 
-### Filing a WSIB claim
+### 산재보험 청구
 
 You should make sure that you report your work-related injury or illness as soon as possible following your injury or illness. Workers should fill out a Form 6, which describes the injury or illness in detail, and send it by mail or fax (keep the fax confirmation) or drop it off in person at your local WSIB office. Give a copy to your employer and keep a copy for your records. A claim must be filed within 6 months of the incident. Visit www.wsib.on.ca for information.
 
 You should fill out a Form 6 as soon as possible and report to a doctor or hospital where they will fill out a Form 8 and send it to WSIB. This will verify your injury or illness even if the employer does not report the incident. An employer is supposed to fill out a Form 7.
 
-### Sick Benefits and Employment Insurance
+### 질병 수당과 실업 보험
 
 If you have filed a claim at WSIB and are waiting for a decision, you may apply for up to 15 weeks of sick benefits through the Employment Insurance program to cover you until you begin to receive compensation from WSIB. You will have to pay back these El benefits once you receive payments from WSIB.
 
-### Undocumented? No Work Permit?
+### 문서가 없나요? 취업 허가증이 없습니까?
 
 WSIB can pay benefits even if you don’t have a work permit or are non-status. WSIB does not normally ask about immigration status or report status to Citizenship and Immigration Canada.
 
-### Volunteers, Unpaid Interns, Students, and Trainees
+### 자원봉사, 무급 인턴, 학생 그리고 실습생
 
 Volunteers, unpaid interns, students and trainees are considered workers under the Occupational Health and Safety Act. This means you are protected under the law.
 
@@ -834,116 +835,116 @@ Ministry of Labour Health and Safety Branch: 1-877-202-0008
 Cuts to the WSIB compensation system and changes in what is required to qualify have made it increasingly difficult for injured workers to receive compensation and forces them to live in poverty. Injured workers are organizing for justice and demanding that the WSIB system be reformed. For more information and to get involved, visit: in'uredworkersonline.org.
 ```
 
-# WORKPLACE HARASSMENT AND VIOLENCE
+# 직장 내 괴롭힘과 폭력
 
-Many workers face harassment (sometimes called bullying) and even violence in their workplaces. This type of abuse can make you sick, depressed and force you to quit your job. Understanding your rights will help you better protect yourself.
+많은 노동자들이 직장에서 괴롭힘 (때로는 집단 따돌림이라고도 불리는)과 폭력을 겪고 있습니다. 이러한 종류의 학대는 당신을 아프게 하기도, 우울하게 하기도, 그리고 직장을 그만두도록 압박하기도 합니다. 당신의 권리에 대해 이해하는 것은 직장에서 당신을 더 잘 지킬 수 있게 할 것입니다.
 
-#### What is the difference between workplace violence and workplace harassment?
+#### 직장 내 폭력(violence)과 괴롭힘(harassment)의 차이는 무엇일까요?
 
-**Workplace Violence**
+**직장 내 폭력**
 
-This could mean a person using physical force against you while at work that causes or could cause physical harm. Even if they only attempt to use physical force against you, this is workplace violence. A statement or any behavior that a worker could reasonably believe to be a threat of physical harm in the workplace may also be workplace violence.
+직장 내 폭력은 근무 중 누군가가 당신에게 신체적 피해를 주는, 혹은 신체적 피해를 줄 수 있는 물리적 힘을 행사하는 것을 의미합니다. 직접적인 접촉 없이 물리적인 힘을 행사하려는 시도만 했더라도 그것은 직장 내 폭력으로 여겨집니다. 직장에서 노동자가 합리적으로 생각해보았을 때(reasonably believe), 신체적 피해를 입히겠다는 협박이라고 여겨질 수 있는 말이나 행동 역시 직장 내 폭력으로 간주될 수 있습니다.
 
-**Workplace Harassment**
+**직장 내 괴롭힘**
 
-This is when a person at work behaves towards you in a way that they should “reasonably know to be unwelcome". This could mean a person teasing you, yelling at you, bullying you, sending you offensive jokes or materials or intimidating you. This kind of harassment is not covered under the Human Rights Code unless it is happening because of one of the grounds of discrimination listed in the Human Rights section of this guide.
+직장 내 괴롭힘이란 누군가가 당신이 “직장에서 환영받지 않는다는 것을 상당히 인지할 수 있도록 (reasonably)” 당신을 대하는 것을 의미합니다. 누군가 당신을 계속해서 놀린다던지, 당신에게 소리지른다던지, 집단으로 따돌리다던지, 혹은 공격적인 농담을 하거나 공격적인 물체를 보내거나 겁을 주는 것들을 예로 들 수 있습니다. 이러한 종류의 괴롭힘은 차별금지법(Human Rights Code)에 명시된 차별 리스트에 근거해 일어난 것이 아니라면 차별금지법으로는 커버되지 않습니다.
 
-**Gender-based Violence**
+**젠더 기반 폭력**
 
-When an employer is aware, or should reasonably be aware, that gender-based violence could occur in the workplace, they are required to respond and take every precaution to protect a worker from physical harm. You should be protected even if the abuser is not a co-worker.
+직장 내 젠더 기반 폭력이 일어날 수 있다는 것을 고용인이 인지하고 있거나, 비교적 인지하고 있다고 여겨지는 경우, 고용인은 해당 노동자를 신체적 피해로부터 지키기 위해 모든 종류의 예방책에 응하고 이를 행할 의무가 있습니다. 피해자는 가해자가 동료가 아닌 경우에도 보호받습니다.
 
-#### Workplace Violence and Harassment: Protections Under the Law
+#### 직장 내 폭력과 괴롭힘: 법적 보호들
 
-The Occupational Health and Safety Act includes mechanisms to make workplaces safer and employers responsible for protecting their employees from harassment and violence.
+고용보건안전법(The Occupational Health and Safety Act, OHSA)은 직장을 더 안전하게 만들고, 고용인이 그들의 피고용인을 괴롭힘과 폭력으로부터 보호하는 데 책임감을 가질 수 있도록 만드는 법적 장치를 가지고 있습니다.
 
-Under the OHSA, employers are required to develop:
+고용보건안전법 (OHSA) 하에서 고용인은 다음과 같은 사항들을 개발할 의무를 가집니다.
 
-- Workplace harassment and violence policies and programs to implement them
-- Information for workers on the content of these policies and programs
-- Procedures for workers to report incidents or complaints of workplace harassment or violence
-- Procedures to investigate any reports, incidents or complaints of workplace harassment or violence
+- 직장 내 괴롭힘과 폭력에 관한 정책과 프로그램의 시행
+- 직장 내 괴롭힘과 폭력에 관한 정책과 프로그램의 내용을 직원들에게 안내
+- 직원이 	직장 내 괴롭힘이나 폭력 사건, 	불만을 	신고할 수 있는 절차 마련
+- 직장 내 괴롭힘이나 폭력 관련 보고나 사건, 불만에 대해 조사할 절차 마련
 
-Workplace violence programs:
+직장 내 폭력 프로그램은:
 
-- Must include procedures to deal with emergency situations where violence has occurred or is likely to occur. For example, how to summon immediate help in an emergency situation.
-- Employers must be proactive about assessing the risks of workplace violence. They must then outline how they will control possible incidences of violence in your workplace. Where an employer knows about an individual with a history of violent behavior that you may encounter as part of your work, they must tell you in order to protect you from physical harm.
-- Your employer must ensure that an investigation into the harassment is conducted by a neutral person, which may mean someone who does not work for the employer.
-
-```
-⚠️ 스스로를 보호하세요!
-
-- You have the right to refuse work if you believe you are in danger from workplace violence. Your boss should not penalize you for refusing. Certain workers have only a limited right to refuse (e.g.: police officers, firefighters, etc.).
-
-- Speak to your boss or supervisor. They should take action to ensure you are safe at work. If your employer does not take action to stop violence or harassment, they can be held responsible for allowing the problem to continue.
-
-- Write down everything about the harassment or violent incident. This could help you later if you decide to make a complaint. If you feel forced to quit, written details may help you receive Employment Insurance and/or termination and severance pay.
-
-- Call the Workers Action Centre to discuss a strategy to approach your boss and ensure your safety.
-
-- Ministry of Labour, Occupational Health and Safety branch: For information on health and safety at work, call 1-877-202-0008 or www.la bour.gov.on.ca
-
-- Assaulted Women’s Helpline: A phone line that supports women in violent situations. Available in multiple languages: 1-866-863-0511
-```
-
-# HUMAN RIGHTS
-
-You have the right to a workplace free from discrimination and harassment under the Human Rights Code. Discrimination is the unfair treatment of a person or group. Harassment is when someone is doing or saying things to make you feel uncomfortable or putting you at risk in some way. This is behaviour they should reasonably know to be unwelcome.
-
-The areas covered by the Human Rights Code are:
-
-- Employment
-- Housing
-- Contracts
-- Services, goods and facilities
-- Unions or occupational/professional associations
-
-The Human Rights Code prohibits workplace discrimination and harassment based on:
-
-- Race
-- Colour
-- Ancestry
-- Place of origin
-- Citizenship
-- Ethnic origin
-- Creed (religion)
-- Receipt of social assistance (housing only)
-- Disability
-- Age
-- Marital status
-- Family status
-- Sex or Gender (includes being pregnant, sexual harassment)
-- Sexual orientation
-- Gender identity
-- Gender expression
-- Record of offenses (for employment only, must have been pardoned)
-
-A worker who believes they have faced discrimination can file a complaint with the Human Rights Tribunal.
-
-#### Temp Agency Workers & Human Rights
-
-It is legal for a temporary agency to decide who they will send to which assignments o rjobs, but it cannot be based on the kinds of discrimination listed in the Human Rights Code.
+- 폭력이 	일어났거나 일어날 긴급 상황에 대해 다룰 절차를 반드시 포함해야 합니다. 예를 들어 긴급상황 중 어떻게 즉각적인 도움을 요청할 것인지와 같은 사항에 대해 절차를 명시해야 합니다.
+- 고용인은 직장 내 폭력의 위험을 시정하는 데 반드시 적극적으로 임해야 합니다. 그러고 나서 고용인은 직장에서 일어날 수 있는 폭력적 상황을 어떻게 통제할 것인지에 대해 반드시 개괄해야 합니다. 만약 폭력적인 행동을 	한 전적이 있는 사람과 직원이 일적으로 만나거나 마주쳐야 할 경우가 발생한다면 고용인은 신체적 피해로부터 직원을 보호하기 위해 반드시 그 사실을 말해야 합니다.
+- 고용인은 직장 내 폭력과 괴롭힘에 대한 조사가 반드시 중립적인 입장에 있는 사람에 의해 이루어질 수 있도록 해야 합니다. 중립적인 입장에 있는 사람의 예로 고용인을 위해 일하지 않는 사람을 들 수 있습니다.
 
 ```
 ⚠️ 스스로를 보호하세요!
 
-- Speak to your boss or supervisor. If your employer does not take action to stop discrimination, they can be held responsible for allowing the problem to continue.
+- 직장에서 폭력적인 상황에 처해 있다고 여겨진다면 당신은 업무를 거부할 권리가 있습니다. 당신의 상사는 이러한 거부에 대해 패널티를 주어서는 안됩니다. 특정 직업군의 경우 제한된 경우에만 이 거부의 권리를 행사할 수 있습니다 (e.g.: 경찰관, 소방관 등).
 
-- Write down everything about the harassment or violent incident. This could help you later if you decide to make a complaint. If you feel forced to quit, written details may help you receive Employment Insurance and/or termination and severance pay.
+- 당신의 상사나 상관에게 말하십시오. 그들은 당신이 직장에서 안전하도록 조취를 취해야할 의무를 가지고 있습니다. 만약 당신의 고용인이 직장 내 폭력이나 괴롭힘을 멈추기 위한 조치를 행하지 않는다면 그들은 이러한 직장 내 문제가 계속되도록 허용한 것에 대해 책임을 져야 합니다.
 
-- The Human Rights Legal Support Centre provides human rights legal services if you feel you have experienced discrimination. Call 1-866-625-5179 or visit www.hrlsc.on.ca for more information.
+- 직장 내 괴롭힘이나 폭력 사건에 대한 모든 것을 쓰십시오. 당신이 이후 항의/고소를 하기로 결심한다면 미리 써놓은 내용들이 도움이 될 것입니다. 만약 당신이 직장을 그만두도록 강요받았다고 느낀다면, 당신이 자세히 써놓은 내용은 고용보험금(Employment Insurance) 수령시나 종료시에 유용할 것이며, 퇴직금을 받는 데에도 도움이 될 것입니다.
+
+- Worker’s Action Centre에 전화하셔서 당신의 상사에게 어떻게 이 일을 의논할지, 그리고 어떻게 당신의 안전을 확보할지에 대해 논의하십시오.
+
+- 노동부(Ministry of Labour), 고용보건안전부 지점(Occupational Health and Safety branch): 직장 내 의료와 안전 관련 정보를 얻기 위해서는 1-877-202-0008 로 전화하시거나 노동부 홈페이지 (www.labour.gov.on.ca) 에 문의하십시오.
+
+- 여성폭력 전화상담서비스(Assaulted Women’s Helpline): 폭력적 상황에 처한 여성을 돕기 위한 전화 라인. 다양한 언어로 이용 가능합니다: 1-866-863-0511
 ```
 
-# Join our movement of working people to improve working conditions and wages
+# 인권
 
-## Our Mission
+당신은 차별금지법 하에서 직장 내 차별과 괴롭힘으로부터 자유로울 권리를 가지고 있습니다. 차별은 개인이나 그룹에 대한 불공평한 대우를 말합니다. 괴롭힘은 누군가가 행동이나 말로 당신을 불편하게 만들거나 어떠한 방법을 통해 당신을 위험한 상황에 처하게 하는 것을 의미합니다. 괴롭힘은 괴롭힘을 당하는 당사자가 그 공간에서 환영받지 못한다는 것을 알게 하는 말과 행동들입니다.
 
-To improve the lives and working conditions of people who face discrimination, lack of protection, low-wages and unstable employment
+차별금지법에 의해 보호받는 영역들은
 
-To challenge unfair labour laws and work for change
+- 고용
+- 주거
+- 계약
+- 서비스, 물건, 시설
+- 노동조합 혹은 직업/진문직 조합
 
-To challenge employers who violate the law
+차별금지법은 다음에 근거한 직장 내 차별과 괴롭힘을 금지합니다
 
-To build and develop leadership of our members, workers directly affected by low wages and unstable work
+- 인종
+- 피부색
+- 가계, 혈통
+- 태어난 곳
+- 시민권
+- 민족
+- 신념 (종교)
+- 공공부조금 수령 (주거만 해당)
+- 장애
+- 나이
+- 결혼 상태
+- 가족 상태
+- 성, 젠더 (임신 유무, 성적 학대를 포함하여)
+- 성적 지향
+- 젠더 정체성
+- 젠더 표현
+- 범죄 기록 (고용에만 	해당, 고용 시 반드시 사면된 상태여야 함)
+
+노동자가 차별을 받았다고 여겨지는 경우 인권재판소에 고소장을 제출할 수 있습니다.
+
+#### 임시직 취업알선소 노동자 (Temp Agency Workers) & 인권
+
+임시직 취업알선소에서 어떤 임무와 일에 누구를 보낼 것인지 정하는 것은 합법이나 차별금지법에 명시된 차별들을 바탕으로 취업을 알선해서는 안 됩니다.
+
+```
+⚠️ 스스로를 보호하세요!
+
+- 당신의 상사나 상관에게 말하십시오. 그들은 당신이 직장에서 안전하도록 조취를 취해야할 의무를 가지고 있습니다. 만약 당신의 고용인이 직장 내 폭력이나 괴롭힘을 멈추기 위한 조취를 행하지 않는다면 그들은 이러한 직장 내 문제가 계속되도록 허용한 것에 대해 책임을 져야 합니다.
+
+- 직장 내 괴롭힘이나 폭력 사건에 대한 모든 것을 쓰십시오. 당신이 이후 항의/고소를 하기로 결심한다면 미리 써놓은 내용들이 도움이 될 것입니다. 만약 당신이 직장을 그만두도록 강요받았다고 느낀다면, 당신이 자세히 써놓은 내용은 고용보험금(Employment Insurance) 수령시나 종료시에 유용할 것이며, 퇴직금을 받는 데에도 도움이 될 것입니다.
+
+- 당신이 	차별을 	경험했다고 느낀다면 (bold)인권법지원센터(The Human Rights Legal Support Centre)가 제공하는 인권법서비스를 이용할 수 있습니다. 더 많은 정보를 위해 1-866-625-5179로 	전화하시거나 인권법지원센터 홈페이지(www.hrlsc.on.ca)를 방문하세요.
+```
+
+# 노동조건과 임금을 향상시키기 위한 노동자운동(movement of working people)에 함께 하세요
+
+## 우리의 미션
+
+차별을 겪거나 보호받지 못하고 저임금과 불안정 고용에 시달리는 사람들의 노동 조건과 삶을 향상시키는 것
+
+변화를 만들어나가기 위해 불공정한 노동법과 불공정한 업무에 저항하는 것
+
+법을 위반한 고용자에게 이의를 제기하는 것
+
+저임금과 불안정 노동에 직접적으로 타격을 받는 Worker’s Action Centre의 멤버들과 노동자들이 리더쉽을 개발할 수 있도록 돕는 것
 
 www.WorkersActionCentre.org
 
