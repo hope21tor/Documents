@@ -1,12 +1,14 @@
-# Your Rights At Work
-Action Guide for Fair Employment
+# 직장에서 당신의 권리
+
+공정한 고용을 위한 행동 가이드
+
 Workers’ Action Centre
 
 ___
 
-The Workers’ Action Centre (WAC) is a worker-based organization committed to improving the lives and working conditions of people in Iow-wage and unstable jobs. Our members are workers in Precarious jobs, recent immigrants, workers of colour, women, and youth. Most of us don't belong to unions because we work in small workplaces, are temporary workers, on contract, independent contractors, or unemployed. WAC members educate and organize to win better working conditions, and we believe that the leaders of this fight for decent work should be workers themselves.
+<워커스 액션 센터>는 저임금, 불안정한 직업을 가진 사람들의 삶과 노동 조건을 개선하는데 헌신하는 노동자 중심의 조직입니다. 우리 회원들은 불안정한 직업을 가졌거나 최근에 이민을 오신 분들이거나 유색인종, 여성, 혹은 청년 노동자들입니다. 회원의 대부분은 작은 규모의 직장에서 일하거나 임시직, 계약직 혹은 독립 계약직이거나 무직입니다. <워커스 액션 센터> 회원들은 더 나은 노동조건을 쟁취하기 위해 교육하고 준비하며, 좋은 노동을 위한 투쟁은 노동자들 자신이 이끌어 가야 한다고 믿습니다. 
 
-We believe that we must come together and use our collective power to change the systems and laws that keep our wages low and allow so many bosses to break the law. Through the collective efforts of WAC and our allies, we have been able to win important improvements in the rights of workers outlined in this booklet. Together, we can win fair wages and working conditions for all workers. Join our movement.
+우리는 저임긂을 유지하고 많은 고용주가 법을 어기도록 허용하는 제도와 법률을 바꾸기 위해 함께 나아가고 단결해야 한다고 믿습니다. <워커스 액션 센터>와 연대인들의 공동 노력을 통해, 우리는 이 소책자에 서술된 노동자 권리의 중요한 개선을 쟁취해 왔습니다. 함께라면 우리는 모든 노동자을 위한 공정한 임금과 노동조건을 쟁취할 수 있습니다. 우리의 운동에 함께 해주세요.
 
 WORKERS'ACTION CENTRE
 
@@ -20,750 +22,752 @@ Info@workersactioncentre.or
 
 www.WorkersActionCentre.org
 
-This booklet was updated in February 2019.
+이 소책자는 2019년 2월에 개정되었습니다.
 
 ___
 
-# HOW TO USE THIS BOOKLET
+# 이 소책자를 활용하는 방법
 
-This booklet provides a summary of your rights at work under the various laws that protect workers. But our laws alone are not enough to protect us against violations of our rights.
+이 소책자는 노동자를 보호하기 위한 여러 법률에서 규정하는 당신의 권리를 요약해서 알려줍니다. 하지만 법률만으로는 권리 위반으로부터 우리를 보호하기에 충분하지 않습니다. 
 
-That is why at the beginning of this booklet, we have included a ‘Checklist for Workers’, which includes tips on how to prepare yourself in case your rights are ever violated at work. Throughout the rest of the booklet, each section also includes a mini-checklist of things you can do to protect yourself in specific situations. Each section also has phone numbers and websites of places you can contact for more help.
+그것이 바로 이 소책자 첫 부분에 당신의 권리가 위반되었을 경우를 대비한 여러 가지 팁들을 정리해 놓은 '노동자를 위한 체크리스트'를 수록해둔 이유입니다. 이 소책자의 나머지 섹션에는 특정한 상황에서 당신을 보호할 수 있는 '미니 체크리스트'가 수록되어 있습니다. 각 섹션에는 추가적인 도움이 필요할 때 연락할 수 있는 전화번호와 웹사이트가 기재되어 있습니다.
 
-If you have any questions about your rights at work or think your rights may have been violated, call the Workers’ Action Centre. We can help you develop a plan for getting what you are owed and making your workplace more fair. All calls are confidential.
+당신의 권리에 대해 질문이 있거나 당신의 권리가 위반되었다고 생각하시면, <워커스 액션 센터>로 연락하세요. 우리는 당신이 받아야 할 빚이나 공정한 직장을 위한 계획을 세울 수 있도록 도와드립니다. 모든 통화는 비밀이 보장됩니다.
 
-# PROTECT YOURSELF
+# 스스로를 지키자
 
-It is important to be prepared in case your rights are violated at work. Use this checklist to protect yourself. This information will help you defend yourself, recover wages you are owed, file complaints, and qualify for benefits and entitlements that you deserve.
+일터에서 당신의 권리가 침해될 경우를 대비하는 것은 매우 중요합니다. 이 체크리스트를 사용해서 스스로를 보호하세요. 이 정보는 당신을 방어하고, 체불임금을 지급받고, 문제를 제기하고, 정당한 복지와 권리를 획득할 자격을 갖추는 데 도움이 될 것입니다. 
 
-## Checklist for Workers
+## 노동자를 위한 체크리스트
 
-- Ask for time to read a contract before you sign it. If your boss pressures you to sign your contract without reading it, try to get a copy of the contract or take a photo of it. Keep copies of any contracts you receive.
-- Keep your own record of the hours and dates you worked, and the details of the work you do every day. Keep this record at home.
-- If you don’t have a Social Insurance Number, valid Work Permit or you get paid in cash, write down the wages you have been paid and hours and dates worked. The employment standards law applies to you.
-- Write down any information about your boss and the company that you can find: name, title, work and home address, phone numbers, license plate number.
-- Keep records of any communication you have with your employer: texts, emails, phone calls, letters.
-- It is illegal for your boss to fire you for speaking about your rights. If this happens to you, write down the details of how and when you were fired. Your boss may also force you to quit by harassing you at work. Write down the details of the harassment.
-- If you are fired, forced to quit or laid off, you may still be eligible for Employment Insurance. Your detailed records will help when applying for El benefits.
-- Keep copies of every document you receive from your employer: contract, pay stubs, cheques, Record of Employment (ROE), termination letter, etc.
-- Keep copies of any documents you receive from the government, such as any forms that you have filled out for the Workplace Safety and Insurance Board (WSIB) or Employment Insurance (El).
-- Your boss cannot fire you for taking a leave (paid or unpaid) or for being injured or sick. If this happens to you, write down everything your boss says.
-- Make sure you apply for Employment Insurance (El) within 28 days of your last day of work, even if your employer has not given you a Record of Employment (ROE). If you have been working for cash, write down the dates and hours you worked and apply as soon as you stop working. You may still qualify for El.
-- If you think your rights have been violated, call the Workers’ Action Centre to get help.
+- 사인하기 전에 계약서를 읽을 시간을 요청하세요. 만약 당신의 고용주가 시간을 주지 않으면 계약서의 복사본을 요청하거나 사진을 찍어 두세요. 당신이 받은 모든 계약서를 잘 보관해 두세요.
+- 당신이 일한 날짜와 시간, 자세한 업무 내용을 매일 따로 기록해 두세요. 이 기록은 집에 보관하세요.  
+- 만약 사회보장번호(SIN: Social Insurance Number)가 없거나 유효한 노동 비자가 없거나 현금으로 급여를 받는다면, 일한 날짜와 시간, 받은 금액을 기록해 두세요. 노동법은 이런 경우에도 적용됩니다.  
+- 이름, 직책, 직장 주소, 전화번호, 자동차 번호 등, 당신의 고용주에 관한 정보를 찾아서 적어 두세요. 
+- 문자 메시지, 이메일, 전화 통화, 편지 등, 당신의 고용주와 나눈 모든 대화를 저장해 두세요.
+- 당신의 권리를 주장한다는 이유로 당신을 해고하는 것은 법 위반입니다. 이런 일이 발생한다면 언제 어떻게 해고 당했는지 적어두세요. 당신의 고용주는 당신을 괴롭힘으로서 당신을 그만두게 할 수도 있습니다. 괴롭힌 내용을 구체적으로 적어 두세요.
+- 만약 퇴사를 강요당하거나 해고를 당했다고 하더라도 당신은 고용보험(EI: Employment Insurance)을 받을 수 있습니다. 당신이 기록이 고용보험 수당을 신청하는데 도움이 될 것입니다.
+- 계약서, 급여명세서, 수표, 재직증명서, 고용종료통지 등, 고용주로부터 받은 모든 문서를 잘 보관하세요.
+- 산재보험(WSIB: Workplace Safety and Insurance Board) 접수 문서나 고용보험 신청 서류 등, 정부로 부터 받은 모든 문서를 잘 보관하세요. 
+- 당신의 고용주는 무급/유급 휴가나 부상이나 질병 등을 이유로 해고할 수 없습니다. 이런 경우가 발생하면 당신의 고용주의 말을 적어 두세요. 
+- 당신의 고용주가 재직증명서(ROE: Record of Employment)를 발급하지 않았다고 하더라도 마지막 일 한 날로부터 28일 이내에 고용보험을 신청하는 것을 잊지 마세요. 급여를 현금으로 지급받았다면 일 한 날짜와 시간을 적어두고 일을 끝내자마자 EI(고용보험)를 신청하세요. 캐쉬 잡 종사자도 고용보험을 지급받을 수 있습니다. 
+- 당신의 권리가 침해당했다고 생각한다면, <워커스 액션 센터>에 전화해서 도움을 요청하세요. 
 
 ```
-⚠️ PROTECT YOURSELF!
+⚠️ 스스로를 지키자!
 
-Talk to other workers
-Talk to people you trust at work and find out if your co-workers are facing the same problems as you. Your fight will be stronger if there are more workers standing together to improve working conditions.
+동료에게 이야기하기
+직장의 믿을만한 사람들에게 이야기하시고 비슷한 문제를 겪는 동료들을 찾으세요. 더 많은 노동자가 노동환경 개선을 위해 함께하면 당신의 투쟁은 더욱 강해질 것입니다.
 
-Unionize
+노조가입
 Unions protect workers when employers do not follow labour laws. Organizing a union could mean better wages and working conditions. Call us to find out how a union works and how to form a union in your workplace.
 
-Find a workers’ centre near you
-There are several workers’ centres in Ontario that can support non-unionized workers to defend their rights. Call us to find out if there is one near you.
+주변에 노동자 센터를 찾아보세요
+온타리오에는 노조에 가입되지 않은 노동자들을 지원하기 위한 몇 곳의 노동자 센터가 있습니다. 당신의 주변에 있는 노동자 센터를 찾고 계시다면 저희에게 전화 주세요.
 
-Call the Workers’ Action Centre
-Read this booklet. Identify all wages you believe you are owed and any other rights that have been violated. Call us for help to plan your next steps. Every call is confidential.
+워커스 액션 센터에 전화하세요
+이 소책자를 읽으세요. 받아야할 임금과 침해되는 권리를 인식하세요. 다음 단계를 계획하기 위한 도움을 요청하세요. 모든 통화는 비밀이 유지됩니다. 
 ```
 
-## Your Legal Options
+## 법률적인 선택사항들
 
-#### Ministry of Labour
+#### 노동부 
 
-The Ministry of Labour is supposed to protect our rights and enforce the Employment Standards Act. It is free to file a claim. You have 2 years to file a claim to recover unpaid wages. Contact the Ministry of Labour at 1-800-531-5551 or www.labour.gov.on.ca.
+노동부는 당신의 권리를 보호하고 근로기준법을 준수하도록 강제하는 기관입니다. 체불된 임금은 2년 내에 신고할 수 있습니다. 다음 전화번호나 웹사이트를 통해 연락하세요 1-800-531-5551, www.labour.gov.on.ca. 
 
-#### Small Claims Court
+#### 소액재판 청구 
 
-This civil court handles any disputes for wages owing to you, wrongful dismissal, and also the recovery of personal property. The limit you can claim is $25,000. You have up to 2 years from when your wages were due to file a claim. There is a fee to file a claim. For more information: call 416-326-3554 or visit www.attornevgeneral.ius.gov.on.ca english courts scc.
+이 민사 소송은 체불 임금, 부당해고, 개인 자산 복구 등의 분쟁을 다룹니다. 최대 2만 5000달러까지 청구할 수 있습니다. 임금 청구 후 최대 2년까지 소요됩니다. 청구시 비용이 소요됩니다. 더 자세한 정보를 위해서는 416-326-3554로 전화하거나 웹사이트 www.attornevgeneral.ius.gov.on.ca 를 방문하세요. 
 
-#### Consult a Lawyer
+#### 변호사 상담
 
-If you want legal advice on your case or feel you may be entitled to more than the basic employment standards entitlements (through the Ministry of Labour), you should contact a lawyer. They may charge you a fee for a consultation. The Lawyer Referral Service may provide you with the name of a lawyer who will provide a free consultation of up to 30 minutes to help you determine your rights and options: 1-800-268-8326.
+만약 당신이 법률적 조언을 원하거나, 기본 근로기준 이상의 (노동부를 통해) 요구 조건이 된다고 느낀다면, 변호사를 만나야 합니다. 변호사는 상담비용을 청구할 것입니다. 변호사 추천 서비스는 30분정도 당신의 권리와 선택지에 관해 무료 상담을 제공하는 변호사 이름을 제공할 수 있습니다. 
 
-#### Community Legal Clinics
+#### 지역사회 법률 클리닉 
 
-Some community legal clinics provide information and legal support for workers. Clinics generally provide services to people with low incomes and that live in their area. To find a community clinic near you, contact Legal Aid Ontario: www.legalaid.on.ca or call toll-free at 1-800-668-8258.
-
-```
-Enforcement of our labour laws is not strong enough, which means employers believe they can get away with breaking the law. If you file a Ministry of Labour claim, it could take a long time for your case to be resolved and there is no guarantee that you will get what you are owed. Call us to discuss your options and develop a plan for defending your rights. Get involved!
-```
-
-# IMPORTANT TERMS TO KNOW
-
-#### Employment Standards Act (ESA)
-
-The ESA provides minimum rights for wages, hours of work, leaves, termination and other benefits. It is the labour law that non-unionized workers rely on. Not all sectors of workers are covered equally. Every province has its own labour laws.
-
-#### Ministry of Labour (MOL)
-
-This Ontario government ministry is responsible for enforcing the Employment Standards Act and Occupational Health and Safety Act. Workers can make claims against their employers when the labour laws are not followed. Call 1-800-531-5551 or visit www.labour.gov.on.ca. For the Occupational Health and Safety branch call 1-877-202-0008.
-
-#### Service Canada
-
-Service Canada is the federal government agency where you apply for Employment Insurance (El) when you are unemployed, and for maternity and sick benefits. This agency provides many services related to employment and government benefits. For more information call 1-800-206-7218 or visit www.canada.ca en services benefits ei.html.
-
-#### Employment Insurance (El)
-
-You contribute a percentage of your wages into this federal government fund. Your boss also makes a contribution. You may be able to receive benefits while you are unemployed or on parental or sick leave. Service Canada administers El.
-
-#### Record of Employment (ROE)
-
-Every employer must give you an ROE when you leave or are fired from yourjob. The ROE is supposed to include your hours worked, wages earned and reason for leaving the job. Service Canada uses this information to determine if you qualify for El benefits, the amount you will receive, and for how long.
-
-#### Workplace Safety & Insurance Board (WSIB)
-
-This is insurance for when you are injured or become sick because of your job. This is often called “workers compensation". Not every company has WSIB coverage. Call 1-800-387-0750 or visit www.wsib.on.ca for details.
-
-#### Canada Pension Plan (CPP)
-
-CPP is a federal government benefit based on contributions from workers and employers. If you are eligible you can receive retirement pension, death and disability benefits. Call 1-800-277- 9914 or visit www.canada.ca zenzserviceszbenefitszQublicgensionszcgghtml for details.
-
-#### Temporary Agency
-
-A temporary help agency is a business that finds you temporary work assignments at different companies. The agency is your employer. The place where you work every day is called the client company.
-
-#### Ontario Human Rights Tribunal
-
-The Human Rights Tribunal deals with workers’ claims of discrimination and harassment on the basis of rights protected under the Human Rights Code. The Canadian Human Rights Commission deals with complaints from federally regulated workers. The Human Rights Legal Support Centre provides legal assistance if you believe you have faced discrimination and harassment: 1-866-625-5179 or visit hrlsc.on.ca.
-
-#### Canada Revenue Agency
-
-The CRA is responsible for assessing and collecting taxes and delivering other federal benefits. They are a department of the Government of Canada. Self-employed workers and some other workers may pay taxes differently. Call us for information on your employee status and we can guide you in the right direction. Or call CRA directly at 1-800-959-8281 or visit https://www.canada.ca/en/services/taxes.html 
-
-# WHO IS COVERED UNDER THE LAW
-
-#### Exemptions
-
-There are over 85 special rules in the ESA that allow some employers to not comply with some standards for their workers. This leaves many workers, such as farmworkers, landscapers, and others, without equal access to minimum standards.
-
-Find out if your employer has an exemption by calling the Ministry of Labour inquiry line at 1-800-531-5551 or visiting www.labour.gov.on.ca.
+노동자들에게 정보와 법률 지원을 제공하는 지역사회 법률 클리닉이 있습니다. 보통 저소득 계층의 지역 거주민에게 서비스가 제공됩니다. 주변의 지역사회 클리닉을 찾으려면 법률 지원 론타리오(리걸 에이드 온타리오) 웹사이트 www.legalaid.on.ca를 방문하거나 수신자부담 전화를 걸어보세요. 1-800-668-8258 
 
 ```
-⚙️ TAKE ACTION!
-
-We believe that all workers should have basic labour standards with NO exemptions. We must keep fighting to ensure that all workers are protected by minimum employment standards. Contact WAC for updated information on exemptions and to get involved.
+고용주들이 법을 어겨도 된다고 믿는다면 노동법을 적용하는 것만으로는 충분치 않습니다. 당신이 노동부에 청구를 하여도 상당한 시간이 소요될 것이며, 체불된 임금을 돌려받는다는 보장은 없습니다. 우리에게 전화하여 당신의 선택지와 권리를 보호할 수 있는 방법과 계획을 의논하세요. 지금 전화하세요.
 ```
 
-#### Temporary Agency Workers
+# 알아야할 중요한 용어들
 
-If you are working through a temporary agency, you are covered under the Employment Standards Act like all other workers. Temporary agency workers usually earn lower wages, have fewer benefits, and less protection at work. Companies are contracting out more work so they don’t have to hire workers directly. For more information on your rights as a temp agency worker, see our Factsheet: Are You a Temp Agency Workers?
+#### 고용기준법 
 
-#### Temporary Foreign Workers Program and Caregivers Program
+고용기준법은 임금과 근로시간, 휴가, 고용종료와 복지혜택 등에 관한 최소한의 권리를 제공합니다. 비노조 노동자들에게 적용되는 노동법입니다. 모든 분야의 노동자들에게 똑같이 적용되지는 않습니다. 각 주 마다 다른 노동법이 있습니다. 
 
-Temporary foreign workers and care workers have basic protection under our labour laws, but may face some exemptions and restrictions. Many temporary foreign workers face barriers in enforcing their rights because of their immigration status. Call us if you think your employer is not following the law.
+#### 노동부 
 
-```
-⚙️ TAKE ACTION!
+이 온타리오 주정부 부서는 근로기준법과 직업 건강안전법을 집행합니다. 노동자들은 고용주를 상대로 노동법에서 어긋난 부분을 청구할 수 있습니다. 1-800-531-5551로 전화하거나  www.labour.gov.on.ca 웹사이트에 접속하세요. 직업 건강안전과 관련해서는 1-877-202-0008에 전화하세요. 
 
-Immigration status should not be a barrier to enforcing our rights at work. Many temporary foreign workers are forced to accept violations of their rights because they are in Canada on work permits that tie them to one employer. If they lose their jobs for complaining about working conditions, they may be deported. Non-status workers also fear deportation if they speak out about their rights. We must ensure all workers can count on protection at work. Our immigration policies must be changed to ensure permanent status for Temporary Foreign Workers on arrival, an end to employer-specific work permits and a fair appeals process before workers are forced to return to their home country. We also need permanent residency for all workers without immigration status in Canada. For more information on winning fairness for migrant workers, visit: www.migrantworkersalliance.org.
-```
+#### 서비스 캐나다 
 
-#### Non-status Workers
+서비스 캐나다는 당신이 실업상태이거나 출산휴가, 병가를 받을 때 고용보험을 신청하는 연방정부 기관입니다. 이곳에서 고용과 정부 지원 혜택에 관한 많은 서비스를 제공합니다. 더 자세한 정보를 원한다면 1-800-206-7218로 전화하거나 www.canada.ca 웹사이트에 접속하세요. 
 
-If you are working without a valid social insurance number (SIN) or work permit, you still have protection under basic labour laws, including employment standards, health and safety, human rights and the Workplace Safety and Insurance Board (WSIB). You may not be eligible for Employment Insurance (El). It is often difficult for non-status workers to enforce their rights because of their immigration status. If you are owed unpaid wages, call us to discuss what you can do. All calls are confidential.
+#### 고용보험 (EI)
 
-For more information on your rights as a non-status worker, go to the WAC website to see our Factsheet: Undocumented? No Status? You Have Rights at Work.
+당신은 급여의 일정 부분을 연방 정부 펀드에 납입하게 됩니다. 당신의 고용주(매니저) 또한 고용보험을 납입합니다. 당신은 실업에 처하거나 출산/육아 휴직 또는 병가를 사용할 때 고용보험의 혜택을 받게 됩니다. 서비스 캐나다에서 고용보험금을 지급합니다. 
 
-#### Self-Employed or Independent Contractor
+#### 고용기록 
 
-When you are self-employed, you have fewer rights than an employee. That is because independent contractors are not covered under the Employment Standards Act. Many bosses wrongly classify employees as independent contractors to avoid the law. If you are not sure if you are an employee or not, see our Factsheet: Are you an Independent Contractor or Employee?
+모든 고용주는 당신이 직장을 떠나거나 해고할 때 당신에게 고용기록을 제공해야 합니다. 고용기록에는 당신의 근무시간, 지급된 임금와 해고/퇴사 이유가 포함됩니다.  서비스 캐나다는 이 정보를 근거로 당신의 고용보험 수령 자격과 금액, 기간 등을 결정하게 됩니다. 
 
+#### 산업재해보험
 
-```
-⭐ WORKERS WIN!
+이 보험은 당신이 업무를 이유로 다치거나 질병을 갖게 되었을 때를 위한 것입니다. “노동자 보상”으로 불리웁니다. 모든 직장이 산재보험을 적용하는 것은 아닙니다.  1-800-387-0750로 전화하거나 웹사이트 www.wsib.on.ca 를 방문하세요. 
 
-Many workers that come to WAC have been misclassified as an independent contractor by their employer. Employers do this to avoid their responsibilities for wages, hours of work, termination and other benefits. We have been fighting this. Now, the Employment Standards Act makes it illegal for employers to treat employees as independent contractors. It is the responsibility of the employee to prove that they are not an independent contractor. See page 10 for more details.
-```
+#### 캐나다 연금 계획 
 
-#### Union Contract
+CPP는 노동자와 고용주의 납입금을 기반으로 하는 연방 정부 수당입니다. 자격이 되는 분은 은퇴연금과 사망 및 장애수당을 받을 수 있습니다. 자세한 내용은 1-800-277-9914로 전화하거나 www.canada.ca 웹사이트에 접속하세요.  
 
-If you are in a workplace that has a union, you will be covered under your union contract or collective agreement. Your union is your legal representative. If you need help with your union, call us to discuss what you can do.
+#### 임시직 에이전시 (직업 소개소)
 
-#### Students and Interns
+임시직 에이전시는 다양한 단기 일자리를 소개해 주는 사업체입니다. 에이전시가 당신의 고용주가 됩니다. 당신이 매일 일하는 곳은 고객사(클라이언트 컴퍼니)라고 부릅니다.  
 
-Only students working under a program approved by a high school, college of applied arts and technology, university or Private Career College are excluded from protection under the ESA. All other students, interns, and trainees working for a company or organization have rights under the ESA.
+#### 온타리오 인권 위원회 
 
-#### Federally Regulated Workers
+인권위원회에서는 노동자가 제기한 일터에서의 차별과 폭력에 관한 신고를 인권법에 기반하여 처리하는 기관입니다. 당신이 차별이나 폭력을 당했다면 캐나다 인권 법률 지원 센터의 법률 지원을 받을 수 있습니다. 1-866-625-5179로 전화하거나 웹사이트 hrlsc.on.ca 에 방문하세요. 
 
-Some sectors such as banks, transportation, telecommunications and others are regulated under the federal Labour Code. The rights in that federal Code cover workers in these sectors.
+#### 캐나다 국세청 
 
-# STARTING A NEW JOB
+캐나다 국세청은 세금을 부과하고 거두는 일과 연방 지원금(수당)을 지급하는 일을 관할하는 연방 정부 부서입니다. 자영업자와 다른 노동자들은 세금을 납부하는 방법이 다릅니다. 우리 센터에 전화하시면 당신의 고용 상태에 따른 정보와 올바른 가이드를 제공합니다. 혹은 국세청 1-800-959-8281 에 직접 전화하거나 https://www.canada.ca/en/services/taxes.html 웹사이트에 접속하세요.
 
-### Paying a Fee for Employment
+# 법률로 보호되는 대상
 
-Employers should not ask you to pay a fee to get a job. Temp agencies cannot charge you money for signing up with them, assigning you work or helping you with a resume or job interview.
+#### 면제
 
-```
-⚠️ PROTECT YOURSELF! MIGRANT WORKERS AND ILLEGAL FEES
+ESA에는 특정 분야의 노동자에게는 기준이 적용되지 않는 85개 이상의 법률조항이 있어 고용주는 일부 규정을 준수하지 않습니다. 이 때문에 농장 노동자, 조경사 등의 많은 노동자들이 최소한의 노동조건에 동등한 접근권을 보장받지 못합니다. 
 
-- Recruiters cannot charge a Temporary Foreign Worker any fees during any part of the process of getting employment.
-
-- Neither the recruiter nor employer can take a worker’s property such as passport or work permit.
-
-- Migrant workers cannot sign away any of these rights, even if the recruiter or employer ask them to say so in an agreement.
-
-- Recruiters and employers cannot punish workers for asking about or trying to enforce their rights.
-
-- If any of these rights have been violated, migrant workers can file a claim against the recruiter or employer at the Ministry of Labour within 3.5 years of the date of the violation.
-```
-
-### Signing a Contract
-
-You cannot sign away your rights under the Employment Standards Act. If you sign a contract that is illegal (for example, it says that the employer will not pay minimum wage) your boss is breaking the law, not you. Even if you sign an illegal contract, you are still entitled to your rights under the law. This includes migrant workers. Write down all details of the hours and dates you work. This will help you claim your wages when you are ready.
-
-### Employment Rights Information
-
-The Ministry of Labour provides employers with a poster called “What You Should Know about the Ontario Employment Standards Act". It describes basic rights in the workplace.
-
-Employers are required to give each new worker a copy of this poster. You should receive it within 30 days of being hired. A worker has the right to ask for the poster in their first language. There are many languages available at the Ministry of Labour.
-
-### Probation
-
-This is a “trial period" set by the company to see if the job is a good match with your set of skills. The length of a probation period is up to the boss, it is not part of the law. If you are fired after working for more than 3 months, you may be owed termination pay or notice* even if your boss says you are still on probation.
-
-### Independent Contractor or Employee?
-
-#### Are you self-employed?
-
-Many bosses wrongly treat employees as independent contractors to avoid their responsibilities for wages, hours of work, termination and other benefits. This is illegal. Employment status (whether you are an employee or independent contractor) directly affects your entitlement to basic rights such as minimum wage, overtime pay, health and safety protections, job-protected leaves, human rights and the right to bargain collectively and join a union. Employment status also affects your right to Employment Insurance (El), Canada Pension Plan (CPP) and Workplace Safety and Insurance (WSIB) or workers’ compensation as it is often called. It affects how you are treated under the Income Tax Act. Employment status also affects what you can do when wages go unpaid or problems happen at work.
+당신의 고용주가 면제조항에 해당하는지 알아보려면 노동부(1-800-531-5551)에 전화하거나 웹사이트(www.labour.gov.on.ca)에 방문하세요. 
 
 ```
-You may be an EMPLOYEE if:
+⚙️ 행동하세요!
 
-- You receive training from the company. 
-- The company supervises your work.
-- You do not have control over your work, hours or rate of pay
-- You work with tools or equipment that the company gives you 
-- Your work is clearly a part of the business.
-
-You may be an INDEPENDENT CONTRACTOR or SELF-EMPLOYED if:
-
-- You control how your work is done. For example, you may hire other workers and hours or rate of pay. direct their work.
-- You can freely negotiate your pay when your work has to be done. This means that you set your own work hours and where you work. 
-- You own some of your own tools or equipment you use to work. 
-- You take the full profit or loss from the work or business operation.  
-
-Your Rights As An Employee:
-
-If you have problems at work, you have protection under the Employment Standards Act, Human Rights Code and the Occupational Health and Safety Act. You maybe eligible for Employment Insurance if you are unemployed. You can quality for the Canadian Pension Plan(CPP) and WSIB.
-
-Your Rights As An Independent Contractor: 
-
-If you have problems at work such as not being paid, your only protection is to take the company to court. You have to pay your own CPP or WSIB contributions. You may contact Service Canada yourself to set up Employment Insurance (EI) special benefits to provide benefits when you are out of work.
+우리는 모든 노동자가 예외없이 기본노동권을 가져야 한다고 믿습니다. 우리는 모든 노동자가 최소한의 고용기준법으로 보호받기 위해 계속 싸워야 합니다. 면제 조항에 대한 최신 정보를 원하거나 참여를 위해 워커스액션센터에 연락하세요. 
 ```
 
-#### What if you still don’t know the difference?
+#### 임시직 에이전시 (직업소개소)
 
-Sometimes you can’t tell whether you are an independent contractor or employee. For example, your boss might supervise your work, but you use some of your own tools. Call WAC for information and resources to help you determine your employment status.
+임시직 에이전시를 통해 일하는 경우에도, 다른 모든 노동자와 같이 고용기준법의 적용을 받습니다. 임시직 에이전시 근무자는 통상 낮은 임금과 적은 베네핏(복리후생)을 받고 일터에서 보호를 받기 어렵습니다. 기업은 노동자들을 직접 고용하지 않아도 되므로 에이전시를 통한 계약을 선호합니다. 임시직 노동자로서의 권리가 궁금하다면 다음 문서를 참고하세요. 임시직 노동자입니까? 
+
+#### 임시 외국인 노동자 프로그램과 간병인 프로그램 
+
+임시 외국인 노동자와 간병 노동자는 노동법의 기본적인 보호를 받지만, 때로 일부 면제와 예외 조항에 직면할 수 있습니다. 많은 임시 외국인 노동자들이 자신의 신분 때문에 자신의 권리를 지키는 데 한계를 느낍니다. 당신의 고용주가 법을 지키지 않는다고 생각되면 우리 센터에 전화하세요.  
 
 ```
-⚠️ PROTECT YOURSELF!
+⚙️ 행동하세요!
 
-- Even if you sign a contract saying you are an independent contractor, you may not be. Ask for time to read a contract before you sign it.
-
-- Write down the details of your work (dates, hours, pay, what tasks you do every day).
-
-- If you believe you have been misclassified, contact WAC for assistance. You may be able to file a MOL claim. Employees must prove that they are not an independent contractor. For more details on the laws that protect you go to WAC’s website to see the Factsheet: Are you an independent Contractor or Employee?
+이민 신분(비자 상태, 영주권이나 시민권 취득 여부 등) 은 직장에서 우리의 권리를 행사하는 데에 장벽이 되어서는 안됩니다. 많은 외국인 노동자들은 자신이 한 고용주에게 한정된 노동허가를 가진 신분 때문에 많은 권리를 침해당하고 있습니다. 근무 조건에 대해 항의한다면 직장을 잃고 캐나다에서 추방당할 수도 있기 때문입니다. 무비자 노동자 역시 자신의 권리에 대해 주장함으로서 추방당할 가능성을 두려워합니다. 임시 외국인 노동자들이 입국 즉시 영주권을 보장받도록, 또한 자국으로 추방되기 전에 충분한 소명 절차를 가질 수 있도록 이민 정책이 바뀌어야 합니다. 무비자 상태의 모든 노동자들을 위한 캐나다 영주권 또한 보장되어야 합니다. 이주노동자의 공정성 확보에 대해 더 알고 싶다면 다음 웹사이트에 방문하세요. www.migrantworkersalliance.org.
 ```
 
-# EMPLOYMENT STANDARDS: YOUR BASIC RIGHTS AT WORK
+#### 무비자 노동자
 
-## GETTING PAID
+만약 당신이 유효한 신넘버(사회보장번호) 없이 일한다해도, 여전히 고용기준법, 건강과 안전, 인권과  산재보험(WSIB)등 기본적인 노동법의 보호를 받습니다. 고용보험(EI)은 받지 못할 수 있습니다. 무비자 노동자는 이민 신분에 따라 자신의 권리를 보장받기 어려울 수 있습니다. 만약 체불된 임금이 있다면 당신이 무엇을 할 수 있는지 우리와 의논하세요. 모든 통화기록은 비밀이 보장됩니다. 
 
-### Minimum Wage
+무비자 노동자로서 당신의 권리에 대해 더 알고 싶다면 WAC 웹사이트에서 우리의 팩트 쉬트를 살펴보세요. 불법체류중입니까? 무비자 상태시라고요? 여전히 직장에서 권리를 갖고 있습니다.  
 
-The minimum wage went up to $14 on January 1, 2018. It will remain frozen until October 1, 2020, when it will start to increase by the cost of living each year.
+#### 자영업 혹은 독립 계약직
 
-| . | General | Liquor Servers | Students under 18 |
+당신이 자영업자라면 일반 직원보다 적은 권리를 갖습니다. 독립 계약직은 고용기본법의 보호를 받지 못하기 때문입니다. 많은 고용인들이 법을 피하기 위해 피고용인을 독립 계약직으로 잘못 분류합니다. 당신이 피고용인이지 아닌지 불분명하다면 우리의 체크사항을 점검해 보세요. 당신은 피고용입니까 독립 계약직입니까?
+
+
+```
+⭐ 노동자가 승리합니다!
+
+WAC센터를 찾는 많은 노동자들이 독립 계약직으로 잘못 분류되어 있습니다. 고용인들은 임금과 근로시간, 해고와 다른 복지의 책임을 피하기 위해 이렇게 합니다. 우리는 이에 대해 맞서야 합니다. 이제 고용기본법은 고용인들이 피고용인을 독립 계약직으로 다루는 것을 불법화하고 있습니다. 이들이 독립계약직이 아니라는 것을 입증하는 것은 피고용인의 책임입니다. 자세한 내용은 10페이지를 살펴보세요.
+```
+
+#### 노동조합 규약(노조 협약)
+
+당신이 노동조합이 구성된 직장에서 일하고 있다면, 당신은 노동조합 규약(노조 협약) 혹은 단체 협약의 보호를 받습니다. 당신의 노동조합은 당신의 법적 대리인입니다. 당신이 노동조합의 도움이 필요하다면, 당신이 할 수 있는 일에 대해 우리와 의논하세요.
+
+#### 학생과 실습생
+
+인증된 고등학교, 컬리지, 대학, 사립직업학교의 프로그램 연계로 일하는 학생들만 ESA 보호의 예외입니다. 기업이나 기관을 위해 일하는 다른 모든 학생, 실습생, 교육생들은 ESA의 보호를 받습니다.
+
+#### 연방 규정 노동자
+
+은행, 운송업, 통신업 등의 특정 분야는 연방 노동법의 규제를 받습니다. 연방 노동법은 이 분야 노동자들의 권리를 보장합니다.
+
+# 새 직장 첫날에
+
+### 고용을 위한 수수료
+
+고용주는 당신에게 고용에 관한 수수료를 요구할 수 없습니다. 임시직 에이전시(직업소개소)는 당신에게 계약서 사인, 직업 알선, 이력서나 면접에 관한 지원에 관해 비용을 요구할 수 없습니다.
+
+```
+⚠️ 스스로를 보호하세요! 이주 노동자와 불법 수수료
+
+- 고용모집인은 임시 외국인 노동자에게 고용 과정 전반에 대해 어떠한 수수료도 요구할 수 없습니다.
+
+- 고용모집인이나 고용인 누구도 피고용인의 물건, 여권이나 노동허가 등을 압수할 수 없습니다.
+
+- 이주 노동자들은 비록 고용모집인이나 고용인이 동의를 요구하였더라도, 이같은 권리를 양도할 수 없습니다.
+
+- 고용모집인과 고용인들은 피고용인들이 자신의 권리에 대해 묻거나 주장하였다는 이유로 불이익을 가할 수 없습니다.
+
+- 만약 이런 권리가 침해되었다면, 이주 노동자들은 3.5년 이내에 노동부에 고용모집인이나 고용인을 신고할 수 있습니다.
+```
+
+### 계약서에 서명하기
+
+당신은 고용기본법에 명시된 당신의 권리를 저버리는 어떠한 계약도 할 수 없습니다. 당신이 불법적인 계약에 사인을 한다면, (예를 들어 고용인이 최저임금을 보장하지 않는다는 내용의 계약) 당신이 아니라 당신의 고용인이 법을 위반한 것입니다. 당신이 불법 계약에 사인을 하더라도 여전히 법의 보호를 받습니다. 이것은 이주 노동자도 마찬가지입니다. 당신이 일한 날짜와 시간을 모두 기록해 두세요. 이것은 당신이 임금을 요구할 때 도움이 됩니다.
+
+### 노동 권리에 대한 정보
+
+노동부는 고용인에게 “당신이 온타리오 노동법에 대해 알아야 할 것들”이라는 내용을 담은 포스터를 제공합니다. 이것은 직장에서의 기본적인 권리를 담고 있습니다.
+
+고용인들은 모든 신입 직원들에게 이 포스터 한부를 제공하도록 요구됩니다. 당신은 고용 후 30일 이내에 이 포스터를 받아야 합니다. 노동자는 자신의 모국어 포스터를 요구할 권리가 있습니다. 노동부에는 여러 언어 버전이 준비되어 있습니다.
+
+### 수습기간
+
+프로베이션/수습은 회사가 당신의 포지션과 당신의 직무기술이 잘 맞는지 확인하기 위해 정한 “체험기간”입니다. 수습 기간은 당신의 고용주가 정할 수 있으며 법률과는 관계없습니다. 만약 3개월 근무 기간 후 해고당한다면, 고용주가 프로베이션 기간이라고 주장하더라도 당신은 해고 수당이나 노티스(2주 전 통보) 기간을 가질 수 있습니다.
+
+### 독립 계약직 혹은  정규직?
+
+#### 당신은 자영업자입니까?
+
+많은 고용주가 임금과 근로시간, 해고와 다른 복지의 책임을 피하기 위해 고용인을 독립 계약직으로 잘못 분류합니다. 이것은 불법입니다. 고용 상태(당신이 피고용인이거나 독립 계약직이거나)는 당신의 최저임금, 근무외 수당, 건강과 안전 보호, 고용보장 휴직, 인권과 단체교섭권(right to bargain collectively) 노동조합 가입 등에 관한 당신의 자격에 직접적인 영향을 미칩니다. 고용 상태는 당신의 고용보험(EI), 캐나다 연금(CPP), 산재보험(WSIB) 혹은 노동 보상에도 영향을 끼칩니다. 이것은 당신의 소득세 신고에도 중요합니다. 고용 상태는 당신이 임금을 제대로 지급받지 못하거나 직장에서 문제가 생겼을 때에도 영향을 끼칩니다.
+
+```
+아래 사항에 해당된다면, 당신은 피고용인입니다:
+
+- 당신이 직장에서 교육을 받는다면
+- 회사가 당신의 일을 관리, 감독한다면
+- 당신의 일, 근무시간과 임금에 대한 결정권이 없다면
+- 회사가 지급한 도구를 이용하여 일한다면
+- 당신의 일이 명백히 회사 사업의 한 부분이라면
+
+아래 사항에 해당된다면, 당신은 독립 계약직 혹은 개인사업자입니다
+
+- 당신의 일을 통제할 수 있다면, 예를 들어 다른 노동자를 고용하여 임금을 지불하고 일을 지시할 수 있다면.
+- 당신의 임금과 일의 마감시간을 자유롭게 협상할 수 있다면. 이것은 당신이 근로시간과 근무장소를 결정할 수 있다는 뜻입니다.
+- 당신이 자신의 도구와 장비를 갖고 일한다면.
+- 당신이 업무나 사업으로 인한 이익과 손실을 감당한다면.
+
+당신의 피고용인으로서의 권리:
+
+만약 당신이 직장에서 문제를 겪는다면, 고용기본법, 인권법 및 직업건강안전법의 보호를 받습니다. 당신은 실직했을 때에 고용보험과 캐나다 연금, 산재보험(WSIB)을 지급받을 수 있습니다.
+
+독립 계약직으로서 당신의 권리:
+
+만약 당신이 직장에서 임금 체불 등의 어려움을 겪게 된다면, 당신은 회사를 고소하는 방법밖에 없습니다. 당신은 연금이나 산재보험을 스스로 지불해야 합니다. 직장을 잃었을 경우 고용보험 특별 지급을 받을 수 있도록 서비스 캐나다에 연락하여 고용보험 등록하세요.
+```
+
+#### 여전히 차이점을 모르시겠다고요?
+
+가끔 당신이 피고용인인지 독립 계약직인지 구별이 어려울 수 있습니다. 예를 들어 당신의 매니저가 당신의 업무를 감독하지만, 당신의 장비를 사용하여 일하고 있다면 말이지요. 워커스 액션 센터로 전화하셔서 당신의 고용 상태를 판단하기 위한 정보와 자원을 얻으세요.
+
+```
+⚠️ 스스로를 보호하세요! 잘못된 고용상태 분류는 법에 저촉됩니다.
+
+- 당신이 계약서에 독립계약직이라고 명시되어 있더라도 그렇지 않을 수 있습니다. 당신이 사인하기 전에 계약서를 읽어볼 시간을 요정하세요.
+
+- 당신이 일한 날짜, 시간, 임금, 매일 업무에 대해 기록하세요.
+
+- 당신이 잘못분류되었다고 생각된다면, 워커스 액션 센터 지원을 요청하세요. MOL 요청이 가능할 수 있습니다. 피고용인은 자신이 독립 계약직이 아님을 증명해야 합니다. 당신을 보호하기 위한 법률의 자세한 사항을 알기 위해서는 워커스 액션 센터의 웹사이트로 가거나 다음 정보를 살펴보세요: 당신은 피고용인입니까, 독립 계약직입니까?
+```
+
+# 고용기준: 직장에서의 기본적인 권리들
+
+## 보수
+
+### 최저임금
+
+2018년 1월 1일부터 시간당 최저임금은 $14 로 인상되었습니다. 이는 2020년 10월 1일 까지는 동결이며 그 이후 매년마다 생계비지수에 따라 인상될 예정입니다.
+
+| . | 일반 | 주류 서버 | 18세 미만 학생 |
 | ------------- | ------------- | ------------- | ------------- |
-| January 1, 2018 | $14 | $12.20 | $13.15 |
-| October 1, 2020 (and every year after) | $14 + Cost of Living Adjustment | $12.20 + Cost of Living Adjustment | $13.15 + Cost of Living Adjustment |
+| 2018년 1월 1일 | $14 | $12.20 | $13.15 |
+| 2020년 10월 1일 (부터 해마다 적용) | $14 + 생계비지수 상승에 따른 조정 | $12.20 + 생계비지수 상승에 따른 조정 | $13.15 + 생계비지수 상승에 따른 조정 |
 
-You must be paid at least the minimum wage for every hour you work. Not all workers have jobs that are covered by the minimum wage (e.g. farmworkers). Call us to find out if your job is covered by the minimum wage or if you think you are not getting paid the minimum wage that applies to you.
-
-```
-⭐ WORKERS WIN!
-
-Our minimum wage should be based on the principle that no one should be working full time yet still be below the poverty line. In 2014, WAC led a campaign that got the minimum wage indexed to inflation. This means that the minimum wage increases every year with the cost of living, so that workers don’t keep falling deeper into poverty. Then, through the Fight for $15 and Fairness campaign, we successfully pressured the government to increase the minimum wage to $14 per hour. The minimum wage was supposed to increase to $15 in January 2019, but the new government cancelled that increase and froze the minimum wage. We will keep fighting to ensure that workers get decent wages. Contact us to get involved.
-```
-
+당신은 직장에서 일할때 최소한 시간당 최저임금은 받아야만 합니다. 모든 노동자가 최저임금의 적용을 받는 직종에서 일하는 것은 아닙니다 (예: 농장 노동자). 만일 당신의 업무가 최저임금의 적용을 받는 직종인지 확인해보기를 원하거나 당신이 적용되어야 할 최저임금을 받고있지 못하다고 생각된다면 우리에게 문의하시기 바랍니다.
 
 ```
-⚠️ PROTECT YOURSELF! MISCLASSIFICATION IS ILLEGAL
+⭐ 노동자가 승리합니다!
 
-- If your boss is paying you less than the minimum wage keep a record at home of all dates and
-
-- Is the boss paying everyone less than minimum wage? Talk to people you trust and organize a
-
-- When the minimum wage goes up, some employers cut workers’ benefits, hours, or tips, or make workers pay for things they didn’t use to have to pay for. This is not fair. If this is happening in your workplace, call us for help.
+우리의 최저임금은 풀타임으로 일하는 노동자가 빈곤선 이하의 생활을 해서는 안된다는 것을 원칙으로 하고있습니다. 2014년 WAC은 최저임금지수 인상을 위한 캠페인을 주도했는데 이는 매년 생계비지수가 올라감에 따라 최저임금이 인상되기에 따라서 노동자들이 빈곤층으로 하락하는 것을 방지한다는데 의미가 있습니다. 그리고, ‘최저임금 15불과 공정성 캠페인’은 성공적으로 정부를 압박하여 시간당 최저임금이 $14로 올랐습니다. 하지만 이 시간당 최저임금은 2019년 1월부터 $15로 인상되기로 되어있었으나, 새 정부는 이를 취소하고 동결시켰습니다. 우리는 노동자들이 제대로 된 임금을 받을 수 있도록 계속 싸울 것입니다. 함께하실 분들은 연락주시기 바랍니다.
 ```
 
-### Cash Payments
-
-It is legal for you to be paid in cash. But your boss must give you a record or “pay slip" every time you are paid. A boss paying you in cash may not want to give you a pay slip because they want to avoid paying the employer contributions, such as El.
-
-A pay record should show these things:
-
-- Your Name
-- Pay Period (for example: May 1 - May 15th)
-- Hours you worked and rate of pay
-- Overtime hours you worked 8: rate of pay
-- Gross Pay (before deductions)
-- Net Pay (after deductions)
-- Vacation Pay (some employers pay every pay period)
-- Public holiday pay (if there was a public holiday)
-- Employment Insurance deductions (You pay a percentage of your gross pay)*
-- Canada Pension Plan deductions (You pay a percentage of your gross pay)*
-- Tax deductions (rate depends on how much money you make)
-*percentage rates may change yearly.
-
-### Tips and Gratuities
-
-Tips are voluntary payments that a customer gives to an employee (in cash or by debit or credit card). Tips can also be a service charge required by the employer for large parties or banquet hall services. Tips are not wages. You still have to get at least minimum wage for each hour of your work.
-
-Your boss can collect some of your tips to hand out to your coworkers; this is a tip pool. Your boss can not use pooled tips to cover things like wages, operating costs, breakage, spilled food or beverages or other losses (e.g., dine and dash). In most cases, your employer cannot take some of your tips for themselves. Some employers may ask you to give a percentage of your total sales to the tip pool. This percentage cannot be more than you actually earned in tips.
 
 ```
-⚠️ PROTECT YOURSELF!
+⚠️ 스스로를 보호하세요!
 
-- Track and record the actual tips you receive and how much you pay into tip pools. It is illegal for your boss to keep tips for the company or require you to pay tips based on a percentage of total sales if that’s more than you make in tips.
+- 만일 당신의 보스가 당신에게 최저임금보다 적게 지불하고있다면, 일한 모든 날짜와 일한 시간, 그리고 당신이 받은 임금을 집에 기록해 두십시오.
 
-- Talk to your co-workers about how much they are paying into and receiving from the tip pool. You can file a claim at the Ministry of Labour if you believe the boss is illegally taking your tips.
+- 당신의 보스가 직원 모두에게 최저임금보다 적게 지불하고 있습니까? 믿을만한 직장동료들과 이야기하고 우리 WAC 와의 면담을 조직하여 어떻게 임금을 인상하고 근무조건을 개선할 지 논의하십시오.
+
+- 최저임금이 올라가면 어떤 고용인들은 노동자들의 베네핏이나 근무시간, 팁을 깎는다던지 노동자들에게 이제껏 지불할 필요가 없었던 것들을 지불하라고 요구하는 경우가 있습니다. 이는 불공정합니다. 이런 상황이 직장에서 발생했다면 우리에게 전화해 도움을 요청하십시오.
 ```
 
-Employers won a special rule that allows them to charge you a fee to pay for the credit card processing cost on the tip portion of the bill. This could be 1.5% of the tip, but only on service fees actually paid by the employer. That means the boss cannot charge you this fee if the tip is paid by cash or debit card.
+### 현금 지불
 
-Unfortunately employers have a lot of power to decide who puts tips in the pool, who gets tips from the pool and when those tips are paid out. It’s hard for workers to know whether the employer is skimming money off the top or taking too much for credit card fees.
+당신이 현금으로 급여를 받는 것은 적법합니다. 그러나 당신의 보스는 반드시 매번 급여마다 ‘급여명세서’를 당신에게 주어야 합니다. 보스가 EI와 같은 고용주 부담금을 피하려고 ‘급여명세서’없이 현금지불을 하려는 경우가 있을 수 있습니다.
 
-### Training and Pay
+급여명세 내역에는 반드시 다음과 같은 사항들이 들어있어야 합니다.
 
-Fortraining, you can be paid less than your normal rate of pay, but you must be paid at least minimum wage. The boss should tell you about wage rates when you are discussing the training and the job.
+- 당신의 이름
+- 급여 지급 주기 (예: 5월1일 - 5월 15일)
+- 당신의 근무시간 및 시간당 급여
+- 시간 외 근무 시간 및 시간당 급여
+- 총 급여 (공제액 차감 전)
+- 실 급여 (공제액 차감 후)
+- 휴가일 수당 (일부 고용주들은 이를 매 급여때마다 지불하기도 함)
+- 법정공휴일 수당 (기간 중 법정 공휴일이 포함되어 있을 경우)
+- 고용보험 공제 (당신이 총급여의 일정 %를 지불함*)
+- 캐나다 팬션 플랜 (CPP)공제 (당신이 총급여의 일정 %를 지불함*)
+- 세금 공제 (당신이 얼마의 수입을 올리는 지에 따라 세금율이 결정됨)
+*%율은 매년 변동이 있을 수 있슴
+
+### 팁과 봉사료
+
+팁은 소비자가 노동자에게 자발적으로 지불하는 (현금, 데빗카드, 혹은 신용카드를 통해) 것입니다. 팁은 또한 큰 무리의 손님이나 연회홀 서비스 시 고용인에 의해서 봉사료로서 요구되기도 합니다. 팁은 임금이 아닙니다. 당신은 여전히 근무한 각 시간에 해당하는 최소한 최저임금은 받아야만 합니다.
+
+당신의 보스는 당신의 팁 금액 중 일부를 모아 당신의 동료들에게 나누어줄 수 있습니다; 이것은 공동관리 팁 입니다. 당신의 보스는 이 공동관리 팁을 임금이나 운영비, 파손물품 보전비, 엎질러진 음식물 보전비나 손실(무단 취식객으로 인한 손해)보전 등의 용도로 사용할 수 없습니다. 대부분의 경우, 당신의 고용인은 그들자신을 위해 팁의 일부를 취할 수 없습니다. 고용인은 당신에게 당신이 판매한 총 금액의 일부 %를 공동관리 팁으로 넣을 것을 요구할 수 있습니다. 이 %는  당신이 번 팁의 총 금액을 넘을 수 없습니다.
 
 ```
-⚠️ PROTECT YOURSELF!
+⚠️ 스스로를 보호하세요!
 
-Beware of companies, like security guard companies, that offer you a job but ask you to first attend a training course that you must pay for. Often they guarantee a job later, but many workers find that there is no job or the job pays less than promised.
+- 당신이 받은 팁의 실제 금액과 당신 팁으로부터 얼마를 공동관리 팁으로 넣었는지 추적하여 기록해 두십시오. 보스가 팁을 회사를 위해 계속 보유하고 있거나 당신에게 총 판매액의 일정 %를 (공동관리) 팁으로 낼 것을 요구하는데 이 금액이 당신이 번 팁의 금액보다 더 많은 금액이면 법에 위반된 것입니다.
+
+- 당신의 동료들과 각자 얼마씩을 공동관리 팁에 내고 있으며 그 공동관리 팁으로부터 얼마를 받고있는지 이야기해보십시오. 당신의 보스가 부당하게 당신의 팁을 갈취하고 있다면 노동청 (Ministry of Labour) 에 배상청구신청을 할 수 있습니다.
 ```
 
-## HOURS OF WORK
+고용인들은 (소비자가 신용카드로 지불할 경우) 신용카드 프로세스 비용을 영수증의 팁 항목으로부터 그 수수료를 떼게 할 수 있도록 하는 특별한 규칙을 얻어냈습니다. 이는 팁의 1.5% 가 될 수 있으나, 이는 오직 고용인이 실제로 신용카드 수수료를 지불한 것에 한합니다. 이는 소비자가 현금이나 데빗카드로 팁을 지불한 경우에는 고용인이 당신에게 이 수수료를 청구할 수 없음을 의미합니다.
 
-### Daily Hours
+유감스럽게도 고용인은 누가 공동관리 팁에 금액을 내야할 지, 누가 공동관리 팁으로부터 팁을 받을지, 그리고 언제 그 팁이 노동자들에게 지불될 지를 결정할 수 있는 등의 권력을 지니고 있습니다. 노동자들은 고용인이 수수료 일부를 도용했는지, 신용카드수수료를 과도하게 떼어갔는지 알기가 어렵습니다.
 
-You do not have to work more than:
+### 훈련기간 중 임금
 
-- 8 hours a day, OR
-- The number of hours in your regular work day (if it is more than 8 but no more than 13)
+훈련기간중에는 당신의 정규 급여보다 적은 임금을 받을 수 있습니다만, 반드시 적어도 최저임금은 받아야합니다. 당신의 보스는 훈련과 직무에 대해 당신과 이야기할 때 반드시 (훈련기간의 시간당) 임금에 대해 이야기해야합니다.
 
-For example: If you have always worked a 12-hour shift, then 12 hours would be your regular work day. If you agreed to work these hours when you got thejob, then this is your regular workday.
+```
+⚠️ 스스로를 보호하세요!
 
-### Extra Hours
+경호경비업체 등과 같은 회사를 유의하십시오; 회사가 당신에게 일자리를 주되 당신이 훈련첫날 과정에 돈을 내고 출석할 것을 요구하는 경우입니다. 보통 회사가 훈련과정 후 일자리를 보장해준다고 하는데, 많은 노동자들이 훈련과정 후 일자리가 없다 하거나 약속한 것 보다 임금이 적은 경우를 당하곤 합니다.
+```
 
-If your boss wants you to work more than your regular workday, they must ask you to sign a written agreement. You have the right to refuse to sign this agreement. You can cancel this agreement by giving your boss 2 weeks notice in writing. Sometimes, in emergencies only, you could be required to work more hours than normal without signing an agreement.
+## 노동시간
 
-### Meal break
+### 일일 근로 시간
 
-You are entitled to one half-hour (30 minute) unpaid break for each 5-hour period worked. The employer is not required by law to provide additional paid breaks, but many employers chose to do so.
+당신은:
 
-### Weekly Hours
+- 하루에 8시간, 또는
+- 정규노동일의 노동시간(8시간 이상인 경우, 그러나 13시간을 넘을 수 없음)보다 더 일할 필요가 없습니다.
 
-You do not have to work more than 48 hours in a week. If your boss wants you to work more than 48hours in a week they must ask you to sign a written agreement. It is your legal right to refuse. You can cancel an agreement by giving your boss 2 weeks notice in writing.
+예: 당신이 늘 12시간 교대로 일한다면 12시간이 당신의 정규노동일의 노동시간입니다. 당신이 고용될 때 이 노동시간에 동의했다면 이 12시간 노동이 당신의 정규노동이 됩니다.
 
-### 3-Hour Minimum
+### 추가 근로 시간
 
-If you are called into work and get sent home early, you must be paid for at least 3 hours at your regular wage rate. This is only if you were scheduled to work 3 or more hours that day.
+당신의 보스가 당신에게 정규노동보다 더 일하기를 원한다면, 당신에게 반드시 서면 동의서를 청해야 합니다. 당신은 이 동의서에 사인을 거부할 권리가 있습니다. 당신은 2주 전에 서면으로 보스에게 통지함으로써 (이미 사인한) 동의서를 취소할 수 있습니다. 가끔, 긴급상황일 경우에 한하여서만, 서면동의서 사인 없이 추가노동을 요구받을 수 있습니다.
 
-Starting on January 1, 2019, employers will be exempt from this rule if they are unable to provide work due to “fire, lightning, power failure, storms or similar causes beyond the employer’s control".
+### 식사 시간
 
-### Overtime
+당신에겐 노동 중 매 5시간 마다 30분의 무급 휴식시간이 주어집니다. 고용인이 이 외의 유료 휴식시간을 주어야한다고 법으로 요구되지는 않지만, 많은 고용인들이 그렇게 하는 것을 선택하고 있습니다.
 
-After working 44 hours in 1 week, you should get paid 1.5 times your regular pay. For example: If you get paid $15 an hour normally, you should get paid $22.50 for every hour worked after 44 hours.
+### 주당 근로 시간
 
-### Time Off Instead Of Overtime Pay
+당신은 주당 48시간을 초과하여 일할 필요가 없습니다. 당신의 보스가 당신에게 주당 48시간보다 더 일할 것을 요구한다면 그들은 서면 동의서를 당신에게 요청해야 합니다. 이를 거부하는 것은 당신의 권리입니다. 당신은 2주 전 서면으로 보스에게 통지함으로써 이를 취소할 수 있습니다.
 
-You can agree in writing to take paid time off instead of overtime pay. You should get1.5 hours paid time off for each hour of overtime you worked. You should take this time off within 3 months of accumulating the overtime.
+### 최소 3시간
 
-### Overtime Averaging
+당신이 만일 직장으로부터 일찍 귀가하라는 통지를 받는다면, 당신은 적어도 3시간 분량의 당신 정규임금을 받아야만 합니다. 이는 당신이 그 날 3시간 혹은 그 이상을 일하기로 되어있을 경우에만 한합니다.
 
-Overtime is usually calculated on a weekly basis. But your boss can ask you to “average” your overtime over more weeks. It is your legal right to refuse to do this.
+2019년 1월1일부터 고용인은 이 법의 예외 경우로‘화재, (번개), 전력중단, 폭풍우 혹은 이와 유사한, 고용인이 제어할 수 없는 재해 상황’에는 그들이 일자리를 제공할 수 없다는 것을 인정받게 되었습니다.
 
-Averaging is calculated this way:
+### 시간외 근무
 
-- In one week overtime is paid after 44 hours
-- In two weeks overtime is paid after 88 hours
-- In three weeks overtime is paid after 132 hours
-- In four weeks overtime is paid after 176 hours
+1주에 44시간을 일한 후, (더 일한 시간은) 당신 정규급여의 1.5배가 지불되어야 합니다. 예: 정규급여가 시간당 $15라면, 44시간 이후 초과노동에는 시간당 $22.5를 받아야 합니다.
 
-For example:
+### 시간외 근무 수당을 휴가로 대체하기
 
-**Normal overtime calculation:**
+당신은 오버타임 급여 대신 휴가를 가지는 것에 서면동의할 수 있다. 당신은 오버타임한 시간당 1.5 시간의 휴가를 가져야합니다.. 당신은 이 휴가를 누적된 오버타임으로부터 3개월 이내에 사용해야합니다.
 
-Week 1: you work 50 hours = 6 hours overtime
+### 평균 시간외 근무
 
-Week 2: you work 38 hours = 0 hours overtime
+오버타임은 일반적으로 일주일 단위로 계산됩니다. 그러나 당신의 보스가 몇주간에 걸친 ‘평균’오버타임을 요구할 수 있습니다. 이를 거부하는 것은 당신의 법적으로 보장된 권리입니다.
+
+평균을 내는 것은 아래와 같이 계산됩니다:
+
+- 1주 동안의 오버타임은 44시간 근무를 초과한 후 부터 지불됨
+- 2주 동안의 오버타임은 88시간 근무를 초과한 후 부터 지불됨 
+- 3주 동안의 오버타임은 132시간 근무를 초과한 후 부터 지불됨 
+- 4주 동안의 오버타임은 176시간 근무를 초과한 후 부터 지불됨
+
+예:
+
+**일반적인 오버타임 방식으로 계산:**
+
+1주 차: 50시간 노동함 = 6시간의 오버타임 발생
+
+2주 차: 38시간 노동함 = 0시간 오버타임
 
 Total overtime you are owed = 6 hours
 
-**With overtime averaging:**
+**평균 오버타임 방식으로 계산:**
 
-Week 1: you work 50 hours
+1주 차: 50시간 노동함
 
-Week 2: you work 38 hours
+2주 차: 38시간 노동함
 
-Total worked over two weeks = 88 hours
+2주 동안의 총 노동시간 = 88시간
 
-Total overtime you are owed = 0 hours
-
-```
-⚠️ PROTECT YOURSELF!
-
-- Overtime averaging is not good for workers. DO NOT sign if you don’t want to. You can only cancel an overtime averaging agreement with your employer’s permission.
-```
+총 오버타임 = 0시간
 
 ```
-⚠️ PROTECT YOURSELF! MIGRANT WORKERS AND HOURS OFWORK
+⚠️ 스스로를 보호하세요!
 
-- Care workers and other migrant workers often face pressure to work long hours. Care workers may be living in the home of their employer which makes it difficult to say no when asked to take on tasks well beyond the work day. Document every hour you work in case you want to make a claim for unpaid hours of work and overtime pay later.
-
-- When your work is tied to your immigration status, it makes you more vulnerable to abuse. The federal government rules for migra nt workers may change. If you are a care worker, contact the Caregivers Action Centre for help: call 647-782-6633 or visit www.caregiversactioncentre.org. If you are a migrant worker, contact the Migrant Workers Alliance for Change at 1-855-567-4722 ext. 700 or visit www.migrantworkersalliance.org.
+- 평균 오버타임 방식은 노동자들에게 불리합니다. 당신이 원치않는다면 이에 사인하지 마십시오. ( 일단 사인한) 평균오버타임 동의서를 취하하는것은 당신 고용인의 허가가 있는 경우에만 가능합니다.
 ```
 
 ```
-⚠️ PROTECT YOURSELF!
+⚠️ 스스로를 보호하세요! 이주 노동자와 노동시간
 
-- Keep your own records of wages paid, hours and dates you worked and keep them at home, on your cell phone, or somewhere else your boss cannot find it. This will help you prove that your boss did not pay you properly.
+- 돌봄노동자들이나 이주노동자들은 종종 장시간 노동의 강요에 처하게 되는 경우가 있습니다. 돌봄노동자들은 고용주의 집에 기거하게 되는 경우가 있는데 이는 근무시간을 넘어서 업무를 요구받더라도 거절하기 어려운 상황을 만듭니다. 추후에 임금을 받지 못하고 일한 시간과 오버타임을 청구할 경우를 위해 모든 노동 시간을 기록해두십시오.
 
-- Even if you don’t have a Social Insurance Number or a valid Work Permit the employment standards law still protects you. Keep your own record of wages paid, hours and dates worked. If your boss breaks the law, call us to get help. All calls are confidential.
+- 직장이 당신의 이민수속상황와 엮여있을 경우 이는 당신을 착취에 더욱 취약하게 만듭니다. 이주노동자들에 대한 연방정부의 법은 바뀔 수 있습니다. 당신이 돌봄노동 종사자인 경우 Caregivers Action Centre for help 로 연락하십시오. 전화 647-782-6633  
+웹사이트 www.caregiversactioncentre.org.
+```
 
-- Write down all phone numbers, addresses and license plates belonging to your boss. This will make it easier to find your boss and get any wages they owe you even after you have left the job. Workers have two years to file a claim at the Ministry of Labour for unpaid wages. Call us for advice.
+```
+⚠️ 스스로를 보호하세요!
+
+- 받은 임금, 일한 날짜와 일한 시간을 스스로 기록해 집이나 개인 휴대폰 등 당신의 보스가 찾을 수 없는 곳에 보관해두십시오. 이는 당신의 보스가 당신에게 정확한 급여를 지불하지 않은 것을 증명하는데 도움이 됩니다.
+
+- 만일 당신이 Social Insurance Number (SIN넘버)가 없거나 유효한 취업허가증이 없더라도 고용기준법은 여전히 당신을 보호할 수 있습니다. 당신이 받은 임금과 일한 날짜, 시간을 계속 기록하여 두십시오. 당신의 보스가 법을 위반하고 있다면 우리에게 전화해 도움을 청하십시오. 모든 상담은 기밀로 취급됩니다.
+
+- 당신 보스에게 속한 모든 전화번호들, 주소들, 차량 번호판등을 적어두십시오. 이는 당신의 보스를 찾는것을 용이하게 하여 그들이 당신에게 빚진 임금을 설사 당신이 직장을 이미 떠난 후라도 받을 수 있게 합니다. 노동자는 노동부 (Ministry of Labour)에 2년동안의 미지급된 임금을 청구할 수 있습니다. 우리에게 조언을 청하십시오.
 
 ```
 
-## PAID TIME OFF
+## 유급 휴가
 
-### Public Holidays and Public Holiday Pay
+### 공휴일과 공휴일 근무 수당
 
-Public holidays in Ontario are:
+온타리오 주의 공휴일은:
 
-New Year’s Day, Family Day, Good Friday, Victoria Day, Canada Day, Labour Day, Thanksgiving, Christmas Day, Boxing Day.
+뉴이어스 데이, 패밀리데이, 굿 프라이데이, 빅토리아 데이, 캐나다 데이, 레이버 데이, 땡스기빙, 크리스마스, 박싱데이 입니다.
 
-Most workers are entitled to take these days off work and be paid public holiday pay. Or, workers can agree in writing to work on a holiday and be paid:
+대부분의 노동자들은 공휴일을 휴일로 쉬면서 공휴일 수당을 받게 되어있습니다. 아니면 노동자는 공휴일에 일하면서 다음과 같이 급여를 받는것에 서면동의를 할 수 있습니다:
 
-- Public holiday pay plus premium pay (1.5 times your regular pay) for all hours worked on the public holiday; OR
-- Regular wages for all hours worked on the public holiday, plus receive another day off (called a “substitute holiday") with public holiday pay.
+- 공휴일수당 + (정규 시간당 급여의 1.5배) 로 계산한 공휴일 근무시간에 대한 특별 수당 받거나
+- 정규 시간당급여로 계산한 공휴일 근무시간 급여 + 다른 날 휴가(대체휴가) 를 받고 공휴일수당 받음
 
-Your employer must tell you in writing which day you will get as a substitute holiday.
+고용인은 당신이 어떤 날을 대체휴가일로 받는지를 당신에게 반드시 서면으로 알려야 합니다
 
-#### To Qualify for Public Holiday Pay
+#### 공휴일수당의 자격조건
 
-You get public holidays as soon as you start working. Some employers may tell you that you have to work 3 months before you get public holidays and public holiday pay. That is wrong.
+당신은 일을 시작하자마자 얼마 안되어 공휴일을 맞게될것입니다. 일부 고용인들은 노동자들에게 3개월을 일한 후에야 공휴일과 공휴일수당을 받게된다고 하는 경우가 있습니다. 이것은 사실이 아닙니다.
 
-You must work your regularly scheduled shift before and after the holiday. This does not mean the day before and the day after. If you have a good reason to not work your regular shift before or after the holiday (for example, if you are sick) you should still get your public holiday and pay.
+당신은 공휴일 이전과 이후에는 당신의 정규적인 작업일정에따라 근무해야만 합니다. 이는 공휴일 바로 전날과 바로 다음날을 의미하는 것이 아닙니다. 만일 당신이 공휴일 바로 전날이나 바로 다음날에 정규 작업일정대로 일할 수 없없던 충분한 사유가 있다면 (예를들어 병이 난 경우), 당신은 여전히 공휴일을 휴일로 받고 휴일수당을 받아야 합니다.
 
-#### Public Holiday Pay
+#### 공휴일 수당
 
-Public holiday pay is determined by adding up all the regular wages you earned in the four weeks prior to the week that the public holiday falls. Then you divide this total amount of wages by 20. For employees with full-time, regular hours, this usually works out to be a regular day’s pay. For those employees who do not work full time or regular schedules, public holiday pay will be pro-rated.
+공휴일 수당은 해당 공휴일로부터 4주 전까지 기간동안의 일반급여 총액을 더한 것으로부터 결정됩니다. 이 총 일반 급여액을 20으로 나누게 됩니다. 풀타임으로 일하는 노동자가 정규적인 노동시간대로 일하면 공휴일수당은 보통 하루의 일반급여액과 같습니다. 풀타임으로 일하지 않는 노동자나 정규적인 노동시간대로 일하지 않는 노동자의 경우에 공휴일수당은 그에 비례해 결정될 것입니다.
 
-The Ministry of Labour offers a Public Holiday Pay Calculator www.ontario.ca page bublic-holidav-bav-calculator for your convenience. There was a different rule for public holiday pay between January 1 and June 30, 2018. See the Ministry of Labour website www.ontario.ca document our- uide-em lo ment- standards-act-O ublic-holida s#section-3, if this applies to you.
+노동부는 노동자들의 편의를 위해 공휴일수당계산기 www.ontario.ca/page/public-holiday-paycalculator 를 제공하고 있습니다. 2018년 1월 1일 부터 6월 30일까지는 공휴일 수당 기준이 다릅니다. 당신의 경우가 이에 해당한다면 노동부의 페이지 www.ontario.ca/document/your-guide-employment-standards-act-0/public-holidays#section-3 를 참고하십시오.
 
-### Vacation Time and Vacation Pay
+### 휴가와 휴가 수당
 
-#### Vacation time
+#### 휴가시간
 
-After 1 year of working with the same employer, you are entitled to take 2 weeks of paid vacation. After 5 or more years working with the same employer, you are entitled to take 3 weeks of paid vacation.
+같은 고용인과 1년을 일한 후에, 당신은 2주간의 유급휴가를 받을 자격을 갖습니다. 같은 고용인과 5년 혹은 그 이상을 일한 후엔, 3주간의 유급휴가를 받습니다.
 
-#### Vacation Pay
+#### 휴가수당
 
-You are entitled to vacation pay.
+당신에겐 휴가수당을 받을 자격이 주어집니다.
 
-If you have worked for the same employer for less than 5 years, you are entitled to 4% vacation pay for every dollar you earn (your total earnings for the year). This must be paid when you take your vacation.
+당신이 같은 고용인과 일한 기간이 5년 미만일 경우, 당신은 (당신의 버는 연간 총 급여액의) 각 1달러 마다 4%의 휴가수당이 부여됩니다. 이 금액은 당신이 휴가를 쓸때 당신에게 지급되어야만 합니다.
 
-If you have worked for the same employer for 5 years or more, you are entitled to 6% vacation pay for every dollar you earn.
+당신이 같은 고용주와 일한 기간이 5년 혹은 그 이상일 경우, 당신이 버는 1달러마다 6%의 휴가수당이 부여됩니다.
 
-Your boss can ask you to agree, in writing, to receive your vacation pay on each pay cheque. In this case, your vacation would not be paid out in a lump sum when you take vacation time off. If you leave a job before taking your full vacation or it’s a short assignment, make sure you get your vacation pay!
+당신의 보스는 당신의 휴가수당을 매번 임금지불때마다 지급하는것에 대한 동의서를 당신에게 요청할 수 있습니다. 이 경우에는 당신이 휴가를 갈때 일시불로 지급되는 금액은 없게 됩니다. 만일 당신이 유급휴가를 다 쓰기 전에 직장을 떠나거나 그것이 얼마 안되거나 할 경우 남은 휴가수당을 꼭 받도록 하십시오.
 
-## LEAVES
+## 휴가
 
-You are allowed to take time off work using the following unpaid job-protected leaves:
+아래의 세 가지 경우에 대하여 당신은 무급 휴가를 다녀올 수 있습니다. 이 경우들은 모두 보호되는 휴가들(protected leaves)로, 휴가 후 동등한, 혹은 동일한 업무로의 복직을 보장받습니다.
 
-### Sick Leave
+### 병가
 
-3 days for your own personal illness, injury or medical emergency.
+부상이나 의료적인 응급 상황 등, 개인적인 질병에 대해  3일간의 병가를 쓸 수 있습니다.
 
-### Bereavement Leave
+### 장례휴가
 
-2 days for the death of a family member.
+가족 구성원의 장례가 있을 경우 이틀 간 휴가를 쓸 수 있습니다.
 
-### Family Responsibility Leave
+### 가족 책임 휴가
 
-3 days for the illness, injury, medical emergency or urgent matter* of family members. These family members include:
+가족 구성원의 질병이나 부상, 의료적인 응급 상황이나 긴급한 상황\*인 경우, 3일간의 휴가를 쓸 수 있습니다. 이 때 가족구성원은 아래의 사람들을 일컫습니다.
 
-- Spouse (includes both married and unmarried couples, of the same or opposite genders)
-- Parent, step-parent, foster parent, child, step-child, foster child, grandparent, step-grandparent, grandchild or step-grandchild of the employee or the employee’s spouse
-- Spouse of the employee’s child
-- Brother or sister of the employee
-- Relative of the employee who is dependent on the employee for care or assistance
+- 배우자 (결혼 유무, 성별 상관 없이)
+- 고용인 혹은 고용인 배우자의 부모(친부모, 양부모 포함), 자녀(친자녀, 양자녀 모두 포함), 조부모 (친조부모, 양조부모 모드 포함), 손주 (친손주, 양손주 모두 포함)
+- 고용인 자식의 배우자
+- 고용인의 형제자매
+- 고용인의 돌봄이나 보조가 필요한 친척
 
-* An urgent matter is an event that is unplanned or out of the employee’s control, and can cause serious negative consequences, including emotional harm, if not responded to. Examples of an urgent matter include:
+* 긴급한 상황이란 고용인이 통제할 수 없는, 혹은 계획하지 않은 어떠한 사건이 발생하여 그 사건을 해결하지 않을 경우, 감정적인 피해를 포함한 부정적인 결과를 초래하는 경우들을 말합니다. 긴급한 상황의 예는 아래와 같습니다.
 
-- Your child’s babysitter cancels due to sickness
-- You are called in to an appointment at your child’s school
-- Your elderly parent has an emergency
+- 베이비시터가 질병으로 나오지 못해 자녀를 돌볼 사람이 없을 경우
+- 자녀의 학교 일로 호출되었을 경우
+- 노부모가 응급상황일 경우
 
-Generally you should inform your boss in advance, if that is possible, or as soon as you know you must take the leave. Notice does not have to be given in writing. It can be given by phone.
+일반적으로, 가능한한 당신의 부재를 상사에게 미리 이야기해놓거나 최대한 빨리 휴가를 써야함을 언지해두어야 합니다. 이때 꼭 이메일을 보내야 할 필요는 없으며, 전화통화로도 가능합니다.
 
-Only in the case of Family Responsibility leave, the employer is not allowed to ask for a note from a medical professional regarding the illness, injury or medical emergency of a family member.
+가족 책임 휴가일 경우에만 고용인은 가족구성원의 질병이나 부상, 의료적인 응급상황에 대한 의료전문인의 진료확인서를 제출하지 않아도 됩니다.
 
-In all other situations, your employer can ask you for evidence that is “reasonable in the circumstances" in order to take any of these leave days. You must have worked 2 consecutive weeks for the same employer before you can take a leave day.
+위의 상황이 아닌 다른 상황들인 경우, 당신의 고용주는 휴가를 쓰는 것에 대한 “사유서”를 제출하는 것을 요구할 수 있습니다. 당신은 휴가를 쓰기 전 당신의 현재 고용주에게서 2주를 연이어 근무한 상태여야 합니다.
 
 
 ```
-⭐ WORKERS WIN!
+⭐ 노동자가 승리합니다!
 
-Until 2018, almost 1 in 3 workers had no sick leave protection. Workplaces with less than 50 employees did not have to provide any unpaid leave. This meant that 1.7 million workers could not even take an unpaid day off without fear of losing their jobs. By bringing together low-wage workers and healthcare workers, the Fight for $15 & Fairness campaign won job-protected leave days for all workers. We will keep fighting until we win 7 paid sick days for all so that workers can take care of their health and their families.
+2018년까지 3분의 1에 해당하는 노동자들이 병가를 보장받지 못했습니다. 50명 이하의 작업장의 경우 무급휴가를 제공받지 못했습니다. 이는 170만의 노동자가 직업을 잃을 것이 두려워 단 하루의 휴가조차 쓸 수 없었다는 것을 의미합니다. 저임금의 노동자와 의료돌봄 관련 노동자들과 연대함으로써 ‘모두에게 공정한 시급 15불을 위한 투쟁’ 캠페인은 승리할 수 있었고, 이로 인해 모든 노동자들이 무급 휴가를 보장받을 수 있게 되었습니다. 우리는 앞으로 노동자가 그들 스스로와 그들의 가족을 돌보기 위한 7일간의 유급 병가를 위해 계속해서 투쟁할 것입니다.
 ```
 
-### Domestic or Sexual Violence Leave
+### 가정폭력 혹은 성폭력 휴가
 
-Domestic or sexual violence leave provides workers with job-protected leave when they or their children are facing domestic or sexual violence. You qualify for this leave after 13 weeks of consecutive employment with your employer.
+가정폭력 혹은 성폭력 휴가는 고용인 본인, 혹은 고용인의 자녀가 가정폭력, 성폭력을 당했을 경우 보장됩니다. 당신은 이 휴가를 쓰기 전 당신의 현재 고용주에게서 13주를 연이어 근무한 상태여야 합니다.
 
-Workers get 10 individual days of leave and up to 15 weeks of leave if the employee or their child experiences domestic or sexual violence or the threat of domestic or sexual violence.
+고용인은 고용인 본인이나 고용인의 자식이 가정폭력, 혹은 성폭력을 경험했거나, 가정폭력과 성폭력의 위협에 놓여있을 경우, 10일에서 15주 사이의 휴가를 가질 수 있습니다.
 
-The first 5 days of leave, each calendar year, will be paid. The rest will be unpaid.
+달력 연도 기준, 휴가를 시작한 지 5일까지는 유급휴가이지만, 나머지는 모두 무급휴가로 처리됩니다.
 
-Employers are allowed to require you to provide evidence “reasonable in the circumstances" before letting you take leave.
+고용주는 당신이 휴가를 쓰기 전 “사유서”를 제출할 것을 요구할 수 있습니다. 
 
-Workers who take domestic and sexual violence leave are entitled to the same rights as employees who take pregnancy or parental leave. That means your boss cannot threaten, fire or penalize you in any way taking or planning to take leave.
+가정폭력이나 성폭력을 당한 노동자의 경우 임신휴가나 육아휴가를 받은 고용인과 같은 권리를 가지고 있습니다. 이는 즉 당신의 상사가 당신이 이 이유로 휴가를 가려고 하거나, 휴가를 간 것에 대해 위협하거나, 당신을 해고하거나, 차별대우를 할 수 없음을 의미합니다.
 
-#### Rights during leave
+#### 휴가 중 권리
 
-Workers who take these leaves have the same rights as workers who take pregnancy or parental leave. That means your boss cannot threaten, fire or penalize you for taking or planning to take sick, bereavement, family responsibility or domestic violence leave. Special rules apply to some occupations.
+가정폭력이나 성폭력의 이유로 휴가를 가진 노동자는 임신휴가나 육아휴가를 받은 고용인과 같은 권리를 가지고 있습니다. 이는 즉 당신의 상사가 당신이 가정폭력이나 가족부양의무, 지병이나 사별의 이유로 휴가를 가려고 하거나, 휴가를 간 것에 대해 위협하거나, 당신을 해고하거나, 차별대우를 할 수 없음을 의미합니다. 몇몇의 직업에 대해서는 특별법이 적용됩니다.
 
-## OTHER LEAVES
+## 다른 휴가들
 
-The following leaves are unpaid under provincial employment standards laws. But you may qualify for income benefits through Employment Insurance (El) from the federal government (Service Canada).
+아래의 휴가들은 주립 노동법규에 따른 것입니다. 그러나 아래의 휴가들을 받기 위해서는 우선 당신이 연방정부(Service Canada)로부터 고용보험(Employment Insurance, EI)의 수입 수당(income benefits)을 받을 수 있는 조건을 갖추고 있어야 할 수도 있습니다. 
 
-### El Sick Leave
+### 실업급여 병가
 
-Through El, sick benefits may be paid up to 15 weeks to a person who is unable to work because of sickness or injury. To receive sick benefits you are required to have worked for 600 insured hours in the last 52 weeks.
+아프거나 다쳐서 일을 할수 없는 경우 실업급여를 통해 최장 15주까지 병가 혜택이 주어집니다. 병가 혜택을 받기 위해서는 지난 52주 동안 600시간 이상 보험가입이 된 노동기록이 있어야 합니다. 
 
-### Maternity & Parental Leave
+### 출산 휴가
 
-Under the Employment Standards Act you may qualify for the right to take unpaid time off work if you are pregnant or are a new parent.
+만약 당신이 임신했거나 새로 부모가 되었다면, 근로기준법에 따라 무급 휴가를 받을 권리를 얻을 수 있습니다. 
 
-You may also qualify for maternal and/or parental benefits under the federal Employment Insurance Act. The rules to qualify for provincial unpaid leave and federal paid benefits are different. You should check both to see what you are entitled to receive.
+당신은 또한 연방 노동보험법에 따라 모성/부모 혜택을 받을 수 있습니다. 주에서 제공하는 무급 휴가와 연방에서 제공하는 유급 혜택에 대한 규칙은 다를 수 있습니다. 어떤 혜택을 받을 수 있는 둘 다 확인해 보시기 바랍니다.
  
-In general, maternity benefits are El benefits payable to the birth mother or surrogate mother for a maximum of 15 weeks. To receive maternity benefits you are required to have worked for 600 hours in the last 52 weeks and sign a statement declaring the expected date of birth of your child. Your job is protected under the Employment Standards Act when you take this leave.
+대체로, 출산 휴가는 출산모나 대리모에게 최장 15주까지 고용보험에서 주어지는 혜택입니다. 출산 혜택을 받기 위해서는 지난 52주간 600시간 이상 일했고, 출산예정일을 신고하는 서류에 서명해야 합니다. 출산 휴가를 가질때 당신의 일자리는 고용기준법에 따라 보호됩니다.
 
-Parental leave provides both parents with El benefits and job-protected leave. Please check the Employment Insurance website to view the different types of leave and benefits available to parents.
+출산 휴가는 양쪽 부모 모두에게 고용보험 급여와 일자리 보장이 제공되는 혜택입니다. 부모에게 제공되는 여러 종류의 휴가와 혜택은 고용보험 웹사이트를 확인해 보시기 바랍니다.
 
-### Leaves for Caregiving of Family Members
+### 가족 병간호를 위한 휴가
 
-The Employment Standards Act provides job-protected leave for workers providing care to family members in a number of different situations. You may also qualify for paid benefits under the federal Employment Insurance Act. The rules to qualify for provincial unpaid leave and federal paid benefits are different. You should check both to see what you are entitled to receive.
+고용기준법은 가족을 간호해야 하는 여러 상황에 처한 노동자에게 일자리가 보호되는 휴가를 제공합니다. 당신은 연방 고용보험법이 제공하는 유급 혜택을 받을 자격이 되실 수도 있습니다. 주에서 제공하는 무급 휴가와 연방에서 제공하는 유급 혜택에 대한 규칙은 다를 수 있습니다. 어떤 혜택을 받을 수 있는 둘 다 확인해 보시기 바랍니다.
 
-Here is some general information about some of the leaves available:
+출산 휴가에 대한 일반적인 정보를 확인해 보세요:
 
-**Family caregiver leave** is unpaid, job-protected leave that you can take to care for a family member with a serious medical condition. You can take up to 8 weeks of this leave per calendar year.
+**가족 병간호 휴가**는 건강 상태가 심각한 가족을 간호하기 위해 가질 수 있는 무급이지만 일자리가 보장되는 휴가입니다. 매년 8주까지 이 휴가를 갈 수 있습니다.
 
-**Family medical leave** is unpaid, job-protected leave that you can take to care for a family member with a significant risk of death occurring within a period of 26 weeks. You can take up to 28 weeks of this leave in a 52-week period.
+**가족 의료휴가(=> 번역이 적절한지?)**는 26주 이내로 사망할 수 있는 심각한 위험에 처한 가족을 간호하기 위해 가질 수 있는 무급이지만 일자리가 보장되는 휴가입니다. 52주 기간 동안 최장 28주까지 이 휴가를 갈 수 있습니다.
 
-You may also qualify for “compassionate care benefits" under the federal Employment Insurance Act. Up to 26 weeks of employment insurance benefits may be paid to El eligible workers. This El benefit also requires evidence that care is needed for a family member who has a serious medical condition with a significant risk of death within a 26-week period.
+당신은 연방 고용보험법에 따라 “특별 휴가”를 받을 자격이 되실 수도 있습니다. 고용보험이 해당되는 노동자에게 최장 26주까지 고용보험 혜택이 주어질 수 있습니다. 이 고용보험 혜택은 당신 가족의 건강이 26주 이내에 사망할 수 있는 심각한 위험에 처해 있어서 당신의 병간호가 필요하다는 증거를 요구합니다.
 
-**Critical illness** leave is unpaid job-protected leave of up to 37 weeks to provide care or support for a critically ill child, or 17 weeks for a critically ill adult within the family. Workers may be eligible for El special benefits for caregivers of critically ill minor children for up to 35 weeks or critically ill adults for up to 15 weeks.
+**중대질병 휴가**는 당신의 가족중 심각한 질병에 걸린 아이가 있을 경우 최장 37주까지, 심각한 질병에 걸린 성인이 있을 경우 최장 17주까지 일자리가 보장되는 무급 휴가입니다. 노동자들은 심각한 질병에 걸린 어린아이의 경우 35주까지, 성인의 경우 15주까지 병간호인을 위한 고용보험 특별 혜택을 받을 자격이 될 수도 있습니다.
 
-To find out if you are eligible for El benefits for any of these leaves, call the Employment Insurance Inquiry Line at 1-800-206-7218 or visit www.canada.ca en services benefits ei.html.
-
-```
-⚠️ PROTECT YOURSELF!
-
-- You should not be penalized or fired for taking any leave that you are entitled to. If this happens to you, write down all the details and call us to find out how to take action.
-
-- When you come back from leave, you should get your old job back with the same responsibilities or a similar job with the same wages if your old job does not exist anymore.
-```
-
-## IS YOUR TEMP AGENCY FOLLOWING THE LAW? 
-
-Temp agency workers have the same rights as other workers. The temp agency is your official employer, but the client company (the place where the agency sends you to work) has responsibilities for your work as well.
-
-#### An Agency Must Give You Information About Your Assignment
-
-Your agency must give you, in writing, their name and contact information. When they offer you an assignment, they must give you: the client company name, wage rate, hours of work, description of work, length of assignment (if known) and the pay period and pay day. They should do this as soon as possible. They must also give you information about your rights from the Ministry of Labour.
+이와 같은 휴가 혜택을 받을 수 있는지 알아보려면, 고용보험 문의전화 1-800-206-7218 혹은 www.canada.ca/en/services/benefits/ei.html을 방문하시기 바랍니다.
 
 ```
-⭐ WORKERS WIN!
+⚠️ 스스로를 보호하세요!
 
-Over the years, many temp agency workers have gotten involved with WAC to fight for better protection from abuse. This is how we got the law changed to make client companies and temp agencies both responsible for unpaid wages. Now, as of January 1, 2018, temp agency workers have new protections in cases where they are terminated early from an assignment (see below for more details).
+- 당신은 당신이 받을 자격이 있는 휴가를 받았다는 이유로 징계를 받거나 파면을 당해서는 안됩니다. 만약 이런 일이 생기면, 모든 자세한 사항을 기록한후 우리에게 연락해서 어떻게 대처할지 알아보십시오.
+
+- 휴가에서 돌아왔을때, 당신은 이전과 동일한 책임의 일을 받거나 이전 일자리가 없어졌다면 같은 임금을 받는 비슷한 일을 받아야 합니다.
 ```
 
-#### No Fees
+## 당신의 임시직 에이전시(파견근로업체)는 법을 따르고 있습니까?
 
-A temp agency can not charge you money for signing up with them, assigning you work or helping with a resume or job interview.
+임시직 에이전시 (파견근로업체)에 고용된 노동자들은 다른 노동자들과 동일한 권리를 가집니다. 파견근로업체가 당신의 공식적인 고용주이지만, 고객회사(파견근로업체가 일하라고 보내 당신이 근무하는 회사) 도 마찬가지로 당신의 근무에 책임을 지고 있습니다.
 
-If you have worked 6 months or more on an assignment, the temp agency is not allowed to charge a fee to the client company for hiring you directly. Your agency cannot stop a company from hiring you or giving you an employment reference letter.
+#### 에이전시(파견근로업체)는 반드시 당신이 맡을 일에 대해 당신에게 정보를 주어야만 합니다
 
-#### Termination of Assignment
-
-If you were offered an assignment of 3 months or more but were terminated early, you may get 1 week of termination pay or notice.
-
-There are some limitations on eligibility.
-
-#### Termination of Employment
-
-If your agency fires you or lays you off, you are entitled to termination pay or notice. You may qualify for termination pay or notice if you have been available to work for an agency but have not had an assignment in 13 weeks or more. The length of time you have worked for the agency will determine how many weeks of notice or pay in lieu of notice you will receive.
-
-#### No Penalty for Asking About Your Rights
-
-Temp agencies should not penalize you for asking about your rights. The client company (where you work) can also be held responsible if you are penalized for trying to enforce your rights.
-
-#### Unpaid Wages?
-
-If your agency fails to pay your wages, overtime pay and public holiday pay, the client company is responsible for the money you are owed. It can be hard to get your unpaid wages from an agency that operates through a telephone or online service. That is why it is important that client companies are also responsible for wages that are not paid.
-
-## TERMINATION OF WORK
-
-### Termination Notice or Pay
-
-Your boss can fire you with no notice if you have worked less than 3 months. When you leave, they should always give you:
-
-- A record of employment (ROE)
-- Unpaid vacation pay (4% of gross earnings)
-- Any unpaid wages, overtime pay, etc.
-
-After 3 months, your boss must give you written notice of the date you will be fired or laid off. If they do not give you notice, they must give you termination pay instead.
-
-If you are fired because of “neglect of duty, disobedience or willful misconduct" you may not get any notice or pay. Minor mistakes should not be enough to deny you your right to termination pay or notice. Contact us if you think you have been unfairly terminated.
-
-#### How Much Notice or Pay?
-
-How much notice you should receive depends on how long you worked for your employer. The minimum notice or termination pay you should receive is as follows:
-
-3 months to 1 year worked = 1 week
-
-1 to 3 years worked = 2 weeks
-
-3 years to 4 years worked = 3 weeks
-
-And so on, up to 8 weeks for 8 years worked.
-
-### Severance Pay
-
-Severance pay is not the same as termination pay. To get severance pay, you must have worked for at least 5 years for your employer. Also, the employer must have an annual payroll of more than $2.5 million or must have terminated 50 or more employees in the last 6 months. Severance pay is 1 week of pay for every year worked to a maximum of 26.
-
-### Wrongful Dismissal
-
-The Employment Standards Act does not require employers to have “just cause" or good reasons for firing a worker. It only requires that employers give workers termination notice.
-
-Unionized workers are protected from being fired without good cause. The only option for non-unionized workers who have been fired without good cause is to take their employer to court to sue for wrongful dismissal.
-
-### Constructive Dismissal
-
-Sometimes bosses reduce our pay rate, hours of work or other conditions of work. They can do this as long as it is not a big change that significantly reduces our pay or work. If the reduction in pay and working conditions is substantial this may be considered “constructive dismissal", meaning you are no longer able to work. Bosses sometimes do this to get us to quit so they won’t have to pay termination and severance. Other times, they try and pass on business costs to us by reducing our wages. This may happen when they are having financial problems. If you believe you are being “constructively dismissed" contact WAC. You may be able to file a claim for termination and severance pay or sue for breach of contract.
+당신의 에이전시는 반드시 당신에게 그들의 이름과 연락처를 서면으로 주어야만 합니다. 에이전시가 당신에게 일을 제안할때, 반드시 당신에게: 고객회사의 이름, 임금률, 근무시간, 직무에 대한 설명, 직무의 총 기간(알고 있다면) 과 급여주기와 급여날짜 – 를 알려주어야만 합니다. 그들은 이를 최대한 빨리 진행해야 합니다. 에이전시는 노동부에서 정한 당신의 권리에 대한 정보도 당신에게 주어야만 합니다.
 
 ```
-⚠️ PROTECT YOURSELF!
+⭐ 노동자가 승리합니다!
 
-- It is illegal for your boss to fire you for asking about your rights. This is called a reprisal. If this happens to you, write down all the details.
-
-- Your boss may force you to quit by harassing you at work. Write down every detail of the Harassment.
-
-- If your boss has drastically changed your conditions of work, hours or benefits resulting in a significant decrease in how much you get paid, document all the changes. Call WAC for help.
-
-- You should be able to return to your job after taking sick leave or other leaves. If your boss says you cannot come back to work, write down everything they say. Your boss should not fire you if you have an injury or serious medical condition; they must try to accommodate you first. If they do fire you, you may have a human rights complaint.
-
-- You can still fight for Employment Insurance benefits if you quit or are fired. Contact WAC for help.
+수년간, 많은 파견업체 노동자들이 wac에 참여하여 작업장에서의 학대로부터 더 나은 보호를 받기 위해 싸워왔습니다. 이렇게 해서 고객회사와 파견업체 모두가 미지급된 임금에 대해 책임이 있다고 법을 바꾸게 된 것입니다. 이제 2018년 1월 1일부로 파견업체 노동자들은 해당 직무가 일찍 종료되어버리는 경우에 처했을 때 새로운 보호를 받게 되었습니다. (자세한 사항은 아래 참조)
 ```
 
-# EMPLOYMENT INSURANCE (El) AND SPECIAL BENEFITS
+#### 수수료 없음
 
-#### What is Employment Insurance?
+에이전시는 자신들과의 계약서에 사인할 때, 직무를 줄 때, 혹은 이력서나 인터뷰에 도움을 줄 때 당신에게 수수료를 요구할 수 없습니다.
 
-El is your right. This insurance plan provides you with benefits when you lose your job or are on leave from work when you are sick, have a child or are providing care for a family member.
+당신이 6개월이나 그 이상의 기간동안 한 직무를 해왔다면, 에이전시는 고객회사가 당신을 직접 고용하려할때 고객회사에 수수료를 요구할 수 없습니다. 당신을 파견한 에이전시는 고객회사가 당신을 고용하는것을 막을 수 없으며 당신에게 레퍼런스 레터를 주지 않을 수 없습니다.
 
-Both you and your boss contribute to this plan. It is your boss’s responsibility to deduct El contributions from your pay. This should be recorded on your pay slips. El is paid out by the federal government through Service Canada.
+#### 직무의 종료 (해지)
 
-#### Do I Qualify for Employment Insurance?
+당신이 3개월 혹은 그 이상의 직무를 제안받았으나 그 일이 일찍 종료되었을 때, 당신은 1주일치의 해지급여를 받거나 1주 전 해지공지를 받을 수도 있습니다.
 
-To collect El, you usually need to have worked between 420 and 700 hours in the previous year. There is a 1 week unpaid waiting period for benefits. Check with us or Service Canada for the most recent qualifying hours you need in your region.
+이에대한 자격(적격성)에는 몇몇 제한사항이 있습니다.
 
-#### How Do I Apply?
+#### 고용의 해지
 
-Go to the nearest Service Canada office to apply for El or apply online. Make sure to apply within 4 weeks of your last day of work. You may lose some of your benefits if you apply late. You can still apply even if you have not received your Record of Employment (ROE) from your employer. You can use all of your ROEs from every job you had during the past 52 weeks.
+당신의 에이전시가 당신을 해고하거나 레이오프 하면, 당신에게는 해고급여 혹은 해고통지를 받을 자격을 부여받습니다. 당신은 에이전시를 위해 일할 수 있는 상황이지만 13주 혹은 그 이상 직무를 받지 못했을 경우에, 당신은 해고급여 혹은 해고통지를 받을 수도 있습니다. 당신이 에이전시를 위해 일한 총 근무시간에 따라 몇 주의 해고통지를 받을 지, 또는 통지 대신 얼마의 급여를 받을 지 결정됩니다.
 
-#### Working For Cash With No Deductions?
+#### 당신의 권리를 요구하는것에 대한 불이익 없음
 
-Calculate the number of hours you worked in the last year. Write down the dates you worked. Apply as soon as you stop working. You may still qualify for El.
+에이전시 회사는 당신이 당신의 권리를 요구하는것에 대해 당신에게 불이익을 줄 수 없습니다. 당신이 권리를 시행하려고 한 것에 대해 불이익을 받았다면 고객회사(당신이 실제로 일하는 곳) 도 마찬가지로 책임이 있습니다.
+
+#### 지급되지 않은 임금?
+
+만일 에이전시가 당신에게 임금, 초과근무 수당, 공휴일 수당을 지불하지 못했다면, 고객회사가 당신의 받아야 할 돈에 대해 책임이 있습니다. 에이전시 회사가 전화나 온라인 서비스를 통해 운영되고 있는 경우에는 미지급된 임금을 받는것이 어려울 수 있습니다. 그것이 바로 고객회사 또한 지불되지 않은 임금에 책임을 지도록 하는 것이 중요한 이유입니다.
+
+## 퇴직/ 근무의 해지
+
+### 해고 통지 혹은 해고수당
+
+당신의 보스는 당신이 일한 기간이 3개월 미만일 경우에는 미리 통지하지 않고 당신을 해고할 수 있습니다. 당신이 직장을 떠날 때 회사는 당신에게 다음의 내용을 항상 주어야 합니다 :
+
+- 고용 기록 (ROE)
+- 지급되지 않은 휴가 수당 (총 소득의 4%)
+- 그 외 지급되지 않은 임금, 초과근무수당 등.
+
+일한지 3개월이 지나면, 당신의 보스는 당신에게 해고나 레이오프 날짜를 서면으로 통지해야만 합니다. 만일 회사가 당신에게 통지하지 않는다면, 회사는 대신 해고수당을 당신에게 주어야만 합니다.
+
+만일 당신의 해고사유가‘ 업무 태만, 업무 불복종, 혹은 고의적인 불법행위’라면, 당신은 어떤 통지나 수당을 받지 못할 수도 있습니다. 사소한 실수는 해약통지나 해고수당을 받을 권리를 거부당하기에 충분하지 않아야 합니다. 당신이 불공정하게 일을 그만두게 되었다고 생각되면 우리에게 연락하십시오.
+
+#### 해고통지/수당의 기간/액수는?
+
+얼마의 기간을 두고 당신이 해고통지를 받아야하는지는 당신이 고용주를 위해 일해온 기간에 따릅니다. 당신이 받을 수 있는 최소한의 해고통지 기간/ 해고수당은 다음과 같습니다:
+
+3개월에서 1년 근무한 경우 = 1주
+
+1년에서 3년 근무한 경우 = 2주
+
+3년에서 4년 근무한 경우 = 3주
+
+이런 식으로 8년을 근무한 경우 최대 8주가 됩니다.
+
+### 퇴직 수당
+
+퇴직수당은 해고수당과 동일한 것이 아닙니다. 퇴직금을 받으려면 당신은 최소 5년을 당신의 고용주를 위해 일했어야만 합니다. 또한 회사의 연간 지급 봉급 총액이 2.5백만불을 넘는 경우에만, 아니면 회사가 지난 6개월간 50명이나 그 이상의 피고용인들을 해고한 경우 받을 수 있습니다. 퇴직금 금액은 일한 1년마다 1주씩의 급여로 계산되며 최대 26주 분 까지입니다.
+
+### 부당 해고
+
+고용기준법은 고용주들에게 근로자를 해고하는데 있어‘정당한 이유’ 혹은 타당한 이유를 요구하고 있지 않습니다. 법은 단지 피고용인에게 해고통지를 주는 것만을 요구하고 있습니다.
+
+노조에 가입되어있는 노동자들은 타당한 이유없이 해고되는것으로부터 보호받고 있습니다. 노조에 가입되어있지 않은 노동자들이 타당한 이유없이 해고되는 상황에 대해 유일하게 가질 수 있는 선택지는 고용주를 부당해고로 법정에 고소하는 방법밖에는 없습니다.
+
+### 건설적 해고
+
+가끔 보스들은 당신의 급여율이나 노동시간을 줄인다거나 다른 근무조건 혜택을 줄이는 경우가 있습니다. 이로인해 우리의 급여가 심각히 줄게되거나 근무에 심각한 변화가 일어나는 것이 아닌 한 그들은 이런 삭감을 진행할 수 있습니다. 만일 급여삭감이나 근무조건 변화가 상당할 경우 이는 ‘건설적 해고’- 당신이 더이상 일하기 힘들다는 의미 – 상황이 됩니다. 보스들은 우리로 하여금 일을 그만두게 하여 그들이 해고수당이나 퇴직금을 주지 않아도 되는 상황을 만들기 위해 이를 자행하기도 합니다. 어떤 때에는, 사업비용을 우리에게 전가하여 우리의 임금을 삭감하려고 시도하기도 합니다. 이런 일들은 그들이 재정적 어려움을 겪고있을 때 일어나는 수가 있습니다. 당신이 ‘건설적 해고’를 당하는 경우에 처했다고 생각이 든다면 WAC에게 연락하십시오. 당신은 해고수당이나 퇴직금에 대한 청구신청을 하거나 계약위반에 대한 고소를 진행할 수도 있습니다.
 
 ```
-⚠️ PROTECT YOURSELF!
+⚠️ 스스로를 보호하세요!
 
-- If your boss doesn’t deduct Employment Insurance from your pay, you may still be entitled to your benefits. If you have written down the dates and hours that you worked, you can still apply for El. You will not have to pay any El deductions, only your boss pays.
+- 당신이 당신의 권리를 요구했다는 이유로 보스가 당신을 해고하는 것은 불법입니다. 이것은 보복입니다. 이런 일이 당신에게 일어났다면 세부사항을 기록해두십시오.
 
-- If you don’t have a SIN or valid work permit you may not be entitled El benefits.
+- 당신이 일을 그만두게 하려고 보스가 괴롭히는 수가 있습니다. 개개 괴롭힘의 경우들을 상세히 적어두십시오.
 
-- If you were fired or quit, it may be more difficult to collect El. But El will consider the reason that you are no longer working. Write an explanation of what happened in your application or in a separate letter submitted later.
+- 보스가 당신의 근무조건 - 근무시간, 베네핏 등- 을 대폭적으로 바꾸어서 그 결과 당신의 급여가 심각히 줄어드는 결과를 가져왔다면 모든 근무조건 변화를 기록하고 WAC 에 연락해 도움을 청하십시오.
+
+- 당신은 병가나 그 외의 다른 휴가들 후에 일터로 복귀할 수 있어야 합니다. 만일 당신의 보스가 당신에게 일자리로 돌아올 수 없다고 한다면, 보스가 말한 모든 내용을 다 적어두십시오. 보스는 당신을 상해나 심각한 질병을 이유로 해고할 수 없습니다; 그들은 당신을 수용하려고 노력해야만 합니다. 만일 그들이 당신을 해고해버린다면, 당신은 인권에 대한 불만을 가지게 될 것 입니다.
+
+- 당신이 그만두었거나 해고되었을 경우 당신은 여전히 EI 혜택을 받기위해 싸울 수 있습니다. WAC에 연락해 도움을 청하십시오.
 ```
 
-#### Self-Employed Workers or Independent Contractors and Employment Insurance
+# 고용보험과 혜택
 
-If you are truly self-employed or an independent contractor, you have to pay your own contributions to CPP or WSIB. Self-employed workers may access Employment Insurance (El) special benefits.
+#### 고용보험이란?
 
-There are four types of El special benefits:
+고용보험은 당신의 권리입니다. 고용보험은 직장을 잃었거나 아프거나 아이를 낳거나 가족을 돌볼 일이 있어 직장을 떠날 때 혜택을 제공합니다.
 
-- Maternity benefits
-- Parental benefits
-- Sickness benefits
-- Compassionate care benefits
+당신과 당신의 상사는 모두 이 보험에 기여합니다. 당신의 급여에서 고용보험 비용을 공제하는 것은 상사의 책임입니다. 이것은 급여 명세서에 기록되어야 합니다. 고용보험은 Service Canada를 통해 연방 정부에서 지불됩니다.
 
-To qualify, a self-employed person must make an agreement to begin paying into El with the government through Service Canada. You must also be a Canadian citizen or a permanent resident of Canada. Call Service Canada at 1-800-206-7218 or visit www.canada.ca/en/services/benefits/ei.html for more details.
+#### 제가 고용보험을 받을 자격이 있나요?
+
+고용보험을 받기 위해서는 전년도에 420 시간에서 700 시간의 일을 했어야 합니다. 혜택을 받기 위해 1 주일의 대기 기간이 있습니다. 해당 지역에서 가장 최근의 자격 기간에 대해서는 WAC 또는 Service Canada에 문의하십시오.
+
+#### 어떻게 지원하나요?
+
+가장 가까운 Service Canada를 방문하여 El을 신청하거나 온라인으로 신청하십시오. 마지막 근무일로부터 4주 이내에 신청하십시오. 늦게 신청하면 일부 혜택을 잃을 수도 있습니다. 고용주로부터 고용 기록(Record of Employment: ROE)을 받지 못한 경우에도 신청할 수 있습니다. 지난 52주 동안 있었던 모든 직장에서 ROE를 사용할 수 있습니다.
+
+#### 공제없이 현금을 받고 일하십니까?
+
+작년에 근무한 시간을 계산하십시오. 일한 날짜를 적어 두십시오. 작업을 중단하자마자 적용하십시오. 여전히 고용보험 자격이있을 수 있습니다.
 
 ```
-⚙️ TAKE ACTION! FIX EMPLOYMENT INSURANCE!
+⚠️ 스스로를 보호하세요!
 
-We need major improvements to the El program. El is hard to access and when we receive it, we struggle to survive on low benefit rates.
+- 당신의 상사가 급여에서 고용보험을 공제하지 않는 경우에도 실업 급여를 받을 자격이 있을 수 있습니다. 근무한 날짜와 시간을 기록한 경우에도 고용보험을 신청할 수 있습니다. 당신이 고용보험 공제액을 지불하지 않아도 되며 당신의 상사 만 비용을 지불합니다.
 
-- Workers should need only 360 hours to qualify.
+- SIN 또는 유효한 취업 허가증이 없으면 고용보험 혜택을 받을 수 없습니다.
 
-- We should receive more weeks of El to help us survive.
-
-- We need an increase in the amount of benefits!
-
-Call us for more information and to get involved.
+- 해고 당하거나 일을 그만둔 경우 고용보험을 수집하기가 더 어려울 수 있습니다. 그러나 고용보험은 더 이상 일하지 않는 이유를 고려할 것입니다. 신청서 또는 추후에 제출된 별도의 서신에서 발생한 일에 대한 설명을 작성하십시오.
 ```
 
-## RECORD OF EMPLOYMENT (ROE)
+#### 자영업자, 독립 계약직과 고용보험
 
-Your boss must give you a Record of Employment (ROE) every time you leave a job. This document is important because it allows you to apply for Employment Insurance (El) more easily.
+자영업자 또는 독립 계약직인 경우 CPP 또는 WSIB에 대한 본인의 기부금을 지불해야합니다. 자영업 근로자는 고용보험 특별 혜택에 액세스 할 수 있습니다.
 
-The ROE includes information from your last place of work in order to calculate your benefits and the number of weeks you will receive them:
+네 개의 고용보험 특별 혜택이 있습니다:
 
-- Your name and the name of the company
-- Total hours worked in the 52-week period before your last day of work 
-- Total gross wages earned in approximately the last 6 months of work (depends on how you are paid; weekly, bi-weekly, etc.).
-- Reason for leaving
+- 출산 수당
+- 부모 수당
+- 질병수당
+- 특별 배려 수당
 
-It is common for an employer to submit your ROE online directly to Service Canada. You can access it by opening a “My Service Canada" account: www.canada.ca/en/employment-social-development/services/my-account.html.
+자격을 갖추려면 자영업자가 Service Canada를 통해 정부에 고용보험을 지불하기 시작하기로 합의해야 합니다. 이것은 캐나다 시민이거나 캐나다 영주권자만이 가능합니다. 자세한 내용은 1-800-206-7218로 Service Canada에 문의하거나 www.canada.ca/en/services/benefits/ei.html을 방문하십시오.
 
-#### ”Reason for Leaving" on ROE
+```
+⚙️ 행동하세요! 고용보험을 개선하자!
 
-Your boss must write down a reason for leaving on your ROE. Some reasons they can give are: fired, quit, illness or injury, shortage of work, temporary lay-off, pregnancy, parental, compassionate leave and “other". If your ROE says that you were FIRED or QUIT, you may be told that you will not get El benefits. But you may still be entitled to El if you were fired without a reason or quit with good cause, so you should still apply.
+고용보험 프로그램은 많은 개선이 필요합니다. 고용보험은 접근성이 떨어지고, 설령 수당을 받았다 하더라도 지금의 낮은 수당률에서 생존하기 위해 분투해야 하는 상황입니다. 
 
-#### No ROE?
+- 노동자가 고용보험의 자격을 얻기 위한 노동시간은  360시간이면 충분하다.
 
-If your employer refuses to give you an ROE, you should still apply for El. If you do not have your ROE after 14 days from your last day you are paid, contact Service Canada to find out how to obtain it. They may ask you to bring proof of your employment, like a pay stub, cancelled cheque or T4. If possible, Service Canada will use the proof to calculate your claim.
+- 우리가 생존하기 위해서는 더 많은 주일들(weeks)이 고용보험에 포함되어야 한다.
 
-#### Temp Agency Workers and ROEs
+- 고용보험에 따른 수당 금액이 증가되어야 한다.
 
-The temp agency has to give you an ROE documenting all your assignments. If you have not worked or received income for 7 days, you are considered on lay-off and could qualify for El. Ask the temp agency for an ROE. This does not mean you are quitting - tell this to the temp agency.
+더 많은 정보가 필요하시거나 고용보험 개선에 참여하고 싶으시다면 저희 센터에 전화주십시오.
+```
 
-# HEALTH AND SAFETY
+## 고용 기록
 
-## OCCUPATIONAL HEALTH AND SAFETY ACT
+당신의 상사는 당신이 휴가를 떠날 때마다 고용기록 (Record of Employment, ROE)를 줄 의무가 있습니다. 이 서류는 이후 당신이 고용보험을 더욱 쉽게 신청할 수 있도록 하기 때문에 매우 중요합니다. 
 
-The main purpose of the Occupational Health and Safety Act (OHSA) is to protect workers from health and safety hazards on the job. It sets out duties for all workplace parties and rights for workers. Those rights are:
+고용기록은 당신이 마지막으로 일한 직장이 표시되어 있습니다. 이는 당신의 수당을 계산하고, 수당을 받을 주의 갯수를 계산하기위해  필요합니다.   
 
-- The right to know about health and safety hazards
-- The right to participate in keeping your workplace healthy and safe
-- The right to refuse work that you feel is unsafe
+- 당신의 이름, 회사명
+- 당신이 마지막으로 일한 날 전 기준, 52주간 총 일한 시간
+- 지난 6개월간의 총급여 금액 (주간, 격주 간, 월간 등의 형태로 계산).
+- 휴가 이유
+
+당신의 상사가 고용기록을 바로 서비스 캐나다(Service Canada)로 제출하는 것은 흔한 일입니다. 당신은 당신의 고용기록을 “My Service Canada” 계정을 통해 볼 수 있습니다. www.canada.ca/en/employment-social-development/services/my-account.html.
+
+#### 고용기록 내 “휴가 이유”
+
+고용주는 반드시 당신이 휴가를 쓸 경우 고용기록에 휴가 이유를 적어야 합니다. 휴가 이유로는 해고, 퇴사, 질병이나 부상, shortage of work, 일시적 해고(temporary lay-off), 임신, 육아, 특별휴가, “그 외”가 있습니다. 만약 고용기록에 해고나 퇴사가 적혀있다면, 고용보험 수당을 받지 못할 수도 있습니다.
+하지만 만약 좋은 이유로 회사에서 해고되었거나 퇴사하였다면, 여전히 고용보험을 신청할 자격이 되니 꼭 신청하십시오.
+
+#### 고용기록이 없을 경우?
+
+만약 당신의 고용주가 고용기록을 작성해주지않더라도 여전히 고용보험을 신청할 수 있습니다. 만약 근무한 지 14일이 지나도록 고용기록을 받지 못한 경우, 서비스 캐나다에 연락하여 어떻게 고용기록을 받아야 할지 안내받을 수 있습니다.
+
+#### 파견업체 노동자와 고용기록
+
+파견업체는 당신이 파견된 모든 업무에 고용기록을 작성하여야 합니다. 7일 동안 일을하지 않았거나 수입을받지 못한 경우 해고된 것으로 간주되어 고용보험 자격이 될 수 있습니다. 파견업체에 고용기록을 요청하십시오. 그렇다고해서 일을 그만둔다는 의미는 아닙니다. 파견업체에 알리십시오.
+
+# 보건과 안전
+
+## 직업보건안전법
+
+직업보건안전법의 목적은 노동자를 작업 중 의료위험, 안전위험으로부터 보호하기 위함입니다. 직업보건안전법은 작업장의 모든 당사자의 의무와 근로자의 권리를 명시합니다. 그 권리는 다음과 같습니다.
+
+- 건강과 안전 사고에 대해 알아야할 권리
+- 작업장의 건강과 안전을 지키기위해 참여할 권리
+- 안전하지 않다고 판단될 때 작업을 거부할 권리
 
 The OHSA applies to almost every worker, supervisor, employer and workplace in Ontario, including workplace owners, constructors, and suppliers of equipment or materials to workplaces covered by the Act. The OHSA is enforced by the Ministry of Labour.
 
@@ -775,7 +779,7 @@ Fax: 905-577-1316
 
 In an emergency, always call 911 immediately.
 
-## WORKPLACE SAFETY AND INSURANCE BOARD (WSIB)
+## 산재보험
 
 Although we have laws meant to protect us, many workers are still injured or killed at work every year due to unsafe conditions in their workplaces. If you are injured at work or made sick as a result of your work or work environment, and have to miss work because of this, you may be eligible to receive financial compensation from the WSIB. Not every company has WSIB coverage.
 
@@ -789,26 +793,26 @@ If you are injured at work or sick due to work, you could receive a percentage o
 
 There are many rules applying to the WSIB program. Contact the WSIB directly for details.
 
-### Filing a WSIB claim
+### 산재보험 청구
 
 You should make sure that you report your work-related injury or illness as soon as possible following your injury or illness. Workers should fill out a Form 6, which describes the injury or illness in detail, and send it by mail or fax (keep the fax confirmation) or drop it off in person at your local WSIB office. Give a copy to your employer and keep a copy for your records. A claim must be filed within 6 months of the incident. Visit www.wsib.on.ca for information.
 
 You should fill out a Form 6 as soon as possible and report to a doctor or hospital where they will fill out a Form 8 and send it to WSIB. This will verify your injury or illness even if the employer does not report the incident. An employer is supposed to fill out a Form 7.
 
-### Sick Benefits and Employment Insurance
+### 질병 수당과 실업 보험
 
 If you have filed a claim at WSIB and are waiting for a decision, you may apply for up to 15 weeks of sick benefits through the Employment Insurance program to cover you until you begin to receive compensation from WSIB. You will have to pay back these El benefits once you receive payments from WSIB.
 
-### Undocumented? No Work Permit?
+### 문서가 없나요? 취업 허가증이 없습니까?
 
 WSIB can pay benefits even if you don’t have a work permit or are non-status. WSIB does not normally ask about immigration status or report status to Citizenship and Immigration Canada.
 
-### Volunteers, Unpaid Interns, Students, and Trainees
+### 자원봉사, 무급 인턴, 학생 그리고 실습생
 
 Volunteers, unpaid interns, students and trainees are considered workers under the Occupational Health and Safety Act. This means you are protected under the law.
 
 ```
-⚠️ PROTECT YOURSELF!
+⚠️ 스스로를 보호하세요!
 
 - If you are injured at work, fill out the proper forms as soon as you are able. Always report an injury immediately to your supervisor or employer.
 
@@ -828,121 +832,121 @@ Ministry of Labour Health and Safety Branch: 1-877-202-0008
 ```
 
 ```
-⚙️ TAKE ACTION! FIX EMPLOYMENT INSURANCE!
+⚙️ 행동하세요! FIX EMPLOYMENT INSURANCE!
 
 Cuts to the WSIB compensation system and changes in what is required to qualify have made it increasingly difficult for injured workers to receive compensation and forces them to live in poverty. Injured workers are organizing for justice and demanding that the WSIB system be reformed. For more information and to get involved, visit: in'uredworkersonline.org.
 ```
 
-# WORKPLACE HARASSMENT AND VIOLENCE
+# 직장 내 괴롭힘과 폭력
 
-Many workers face harassment (sometimes called bullying) and even violence in their workplaces. This type of abuse can make you sick, depressed and force you to quit your job. Understanding your rights will help you better protect yourself.
+많은 노동자들이 직장에서 괴롭힘 (때로는 집단 따돌림이라고도 불리는)과 폭력을 겪고 있습니다. 이러한 종류의 학대는 당신을 아프게 하기도, 우울하게 하기도, 그리고 직장을 그만두도록 압박하기도 합니다. 당신의 권리에 대해 이해하는 것은 직장에서 당신을 더 잘 지킬 수 있게 할 것입니다.
 
-#### What is the difference between workplace violence and workplace harassment?
+#### 직장 내 폭력(violence)과 괴롭힘(harassment)의 차이는 무엇일까요?
 
-**Workplace Violence**
+**직장 내 폭력**
 
-This could mean a person using physical force against you while at work that causes or could cause physical harm. Even if they only attempt to use physical force against you, this is workplace violence. A statement or any behavior that a worker could reasonably believe to be a threat of physical harm in the workplace may also be workplace violence.
+직장 내 폭력은 근무 중 누군가가 당신에게 신체적 피해를 주는, 혹은 신체적 피해를 줄 수 있는 물리적 힘을 행사하는 것을 의미합니다. 직접적인 접촉 없이 물리적인 힘을 행사하려는 시도만 했더라도 그것은 직장 내 폭력으로 여겨집니다. 직장에서 노동자가 합리적으로 생각해보았을 때(reasonably believe), 신체적 피해를 입히겠다는 협박이라고 여겨질 수 있는 말이나 행동 역시 직장 내 폭력으로 간주될 수 있습니다.
 
-**Workplace Harassment**
+**직장 내 괴롭힘**
 
-This is when a person at work behaves towards you in a way that they should “reasonably know to be unwelcome". This could mean a person teasing you, yelling at you, bullying you, sending you offensive jokes or materials or intimidating you. This kind of harassment is not covered under the Human Rights Code unless it is happening because of one of the grounds of discrimination listed in the Human Rights section of this guide.
+직장 내 괴롭힘이란 누군가가 당신이 “직장에서 환영받지 않는다는 것을 상당히 인지할 수 있도록 (reasonably)” 당신을 대하는 것을 의미합니다. 누군가 당신을 계속해서 놀린다던지, 당신에게 소리지른다던지, 집단으로 따돌리다던지, 혹은 공격적인 농담을 하거나 공격적인 물체를 보내거나 겁을 주는 것들을 예로 들 수 있습니다. 이러한 종류의 괴롭힘은 차별금지법(Human Rights Code)에 명시된 차별 리스트에 근거해 일어난 것이 아니라면 차별금지법으로는 커버되지 않습니다.
 
-**Gender-based Violence**
+**젠더 기반 폭력**
 
-When an employer is aware, or should reasonably be aware, that gender-based violence could occur in the workplace, they are required to respond and take every precaution to protect a worker from physical harm. You should be protected even if the abuser is not a co-worker.
+직장 내 젠더 기반 폭력이 일어날 수 있다는 것을 고용인이 인지하고 있거나, 비교적 인지하고 있다고 여겨지는 경우, 고용인은 해당 노동자를 신체적 피해로부터 지키기 위해 모든 종류의 예방책에 응하고 이를 행할 의무가 있습니다. 피해자는 가해자가 동료가 아닌 경우에도 보호받습니다.
 
-#### Workplace Violence and Harassment: Protections Under the Law
+#### 직장 내 폭력과 괴롭힘: 법적 보호들
 
-The Occupational Health and Safety Act includes mechanisms to make workplaces safer and employers responsible for protecting their employees from harassment and violence.
+고용보건안전법(The Occupational Health and Safety Act, OHSA)은 직장을 더 안전하게 만들고, 고용인이 그들의 피고용인을 괴롭힘과 폭력으로부터 보호하는 데 책임감을 가질 수 있도록 만드는 법적 장치를 가지고 있습니다.
 
-Under the OHSA, employers are required to develop:
+고용보건안전법 (OHSA) 하에서 고용인은 다음과 같은 사항들을 개발할 의무를 가집니다.
 
-- Workplace harassment and violence policies and programs to implement them
-- Information for workers on the content of these policies and programs
-- Procedures for workers to report incidents or complaints of workplace harassment or violence
-- Procedures to investigate any reports, incidents or complaints of workplace harassment or violence
+- 직장 내 괴롭힘과 폭력에 관한 정책과 프로그램의 시행
+- 직장 내 괴롭힘과 폭력에 관한 정책과 프로그램의 내용을 직원들에게 안내
+- 직원이 	직장 내 괴롭힘이나 폭력 사건, 	불만을 	신고할 수 있는 절차 마련
+- 직장 내 괴롭힘이나 폭력 관련 보고나 사건, 불만에 대해 조사할 절차 마련
 
-Workplace violence programs:
+직장 내 폭력 프로그램은:
 
-- Must include procedures to deal with emergency situations where violence has occurred or is likely to occur. For example, how to summon immediate help in an emergency situation.
-- Employers must be proactive about assessing the risks of workplace violence. They must then outline how they will control possible incidences of violence in your workplace. Where an employer knows about an individual with a history of violent behavior that you may encounter as part of your work, they must tell you in order to protect you from physical harm.
-- Your employer must ensure that an investigation into the harassment is conducted by a neutral person, which may mean someone who does not work for the employer.
-
-```
-⚠️ PROTECT YOURSELF!
-
-- You have the right to refuse work if you believe you are in danger from workplace violence. Your boss should not penalize you for refusing. Certain workers have only a limited right to refuse (e.g.: police officers, firefighters, etc.).
-
-- Speak to your boss or supervisor. They should take action to ensure you are safe at work. If your employer does not take action to stop violence or harassment, they can be held responsible for allowing the problem to continue.
-
-- Write down everything about the harassment or violent incident. This could help you later if you decide to make a complaint. If you feel forced to quit, written details may help you receive Employment Insurance and/or termination and severance pay.
-
-- Call the Workers Action Centre to discuss a strategy to approach your boss and ensure your safety.
-
-- Ministry of Labour, Occupational Health and Safety branch: For information on health and safety at work, call 1-877-202-0008 or www.la bour.gov.on.ca
-
-- Assaulted Women’s Helpline: A phone line that supports women in violent situations. Available in multiple languages: 1-866-863-0511
-```
-
-# HUMAN RIGHTS
-
-You have the right to a workplace free from discrimination and harassment under the Human Rights Code. Discrimination is the unfair treatment of a person or group. Harassment is when someone is doing or saying things to make you feel uncomfortable or putting you at risk in some way. This is behaviour they should reasonably know to be unwelcome.
-
-The areas covered by the Human Rights Code are:
-
-- Employment
-- Housing
-- Contracts
-- Services, goods and facilities
-- Unions or occupational/professional associations
-
-The Human Rights Code prohibits workplace discrimination and harassment based on:
-
-- Race
-- Colour
-- Ancestry
-- Place of origin
-- Citizenship
-- Ethnic origin
-- Creed (religion)
-- Receipt of social assistance (housing only)
-- Disability
-- Age
-- Marital status
-- Family status
-- Sex or Gender (includes being pregnant, sexual harassment)
-- Sexual orientation
-- Gender identity
-- Gender expression
-- Record of offenses (for employment only, must have been pardoned)
-
-A worker who believes they have faced discrimination can file a complaint with the Human Rights Tribunal.
-
-#### Temp Agency Workers & Human Rights
-
-It is legal for a temporary agency to decide who they will send to which assignments o rjobs, but it cannot be based on the kinds of discrimination listed in the Human Rights Code.
+- 폭력이 	일어났거나 일어날 긴급 상황에 대해 다룰 절차를 반드시 포함해야 합니다. 예를 들어 긴급상황 중 어떻게 즉각적인 도움을 요청할 것인지와 같은 사항에 대해 절차를 명시해야 합니다.
+- 고용인은 직장 내 폭력의 위험을 시정하는 데 반드시 적극적으로 임해야 합니다. 그러고 나서 고용인은 직장에서 일어날 수 있는 폭력적 상황을 어떻게 통제할 것인지에 대해 반드시 개괄해야 합니다. 만약 폭력적인 행동을 	한 전적이 있는 사람과 직원이 일적으로 만나거나 마주쳐야 할 경우가 발생한다면 고용인은 신체적 피해로부터 직원을 보호하기 위해 반드시 그 사실을 말해야 합니다.
+- 고용인은 직장 내 폭력과 괴롭힘에 대한 조사가 반드시 중립적인 입장에 있는 사람에 의해 이루어질 수 있도록 해야 합니다. 중립적인 입장에 있는 사람의 예로 고용인을 위해 일하지 않는 사람을 들 수 있습니다.
 
 ```
-⚠️ PROTECT YOURSELF!
+⚠️ 스스로를 보호하세요!
 
-- Speak to your boss or supervisor. If your employer does not take action to stop discrimination, they can be held responsible for allowing the problem to continue.
+- 직장에서 폭력적인 상황에 처해 있다고 여겨진다면 당신은 업무를 거부할 권리가 있습니다. 당신의 상사는 이러한 거부에 대해 패널티를 주어서는 안됩니다. 특정 직업군의 경우 제한된 경우에만 이 거부의 권리를 행사할 수 있습니다 (e.g.: 경찰관, 소방관 등).
 
-- Write down everything about the harassment or violent incident. This could help you later if you decide to make a complaint. If you feel forced to quit, written details may help you receive Employment Insurance and/or termination and severance pay.
+- 당신의 상사나 상관에게 말하십시오. 그들은 당신이 직장에서 안전하도록 조취를 취해야할 의무를 가지고 있습니다. 만약 당신의 고용인이 직장 내 폭력이나 괴롭힘을 멈추기 위한 조치를 행하지 않는다면 그들은 이러한 직장 내 문제가 계속되도록 허용한 것에 대해 책임을 져야 합니다.
 
-- The Human Rights Legal Support Centre provides human rights legal services if you feel you have experienced discrimination. Call 1-866-625-5179 or visit www.hrlsc.on.ca for more information.
+- 직장 내 괴롭힘이나 폭력 사건에 대한 모든 것을 쓰십시오. 당신이 이후 항의/고소를 하기로 결심한다면 미리 써놓은 내용들이 도움이 될 것입니다. 만약 당신이 직장을 그만두도록 강요받았다고 느낀다면, 당신이 자세히 써놓은 내용은 고용보험금(Employment Insurance) 수령시나 종료시에 유용할 것이며, 퇴직금을 받는 데에도 도움이 될 것입니다.
+
+- Worker’s Action Centre에 전화하셔서 당신의 상사에게 어떻게 이 일을 의논할지, 그리고 어떻게 당신의 안전을 확보할지에 대해 논의하십시오.
+
+- 노동부(Ministry of Labour), 고용보건안전부 지점(Occupational Health and Safety branch): 직장 내 의료와 안전 관련 정보를 얻기 위해서는 1-877-202-0008 로 전화하시거나 노동부 홈페이지 (www.labour.gov.on.ca) 에 문의하십시오.
+
+- 여성폭력 전화상담서비스(Assaulted Women’s Helpline): 폭력적 상황에 처한 여성을 돕기 위한 전화 라인. 다양한 언어로 이용 가능합니다: 1-866-863-0511
 ```
 
-# Join our movement of working people to improve working conditions and wages
+# 인권
 
-## Our Mission
+당신은 차별금지법 하에서 직장 내 차별과 괴롭힘으로부터 자유로울 권리를 가지고 있습니다. 차별은 개인이나 그룹에 대한 불공평한 대우를 말합니다. 괴롭힘은 누군가가 행동이나 말로 당신을 불편하게 만들거나 어떠한 방법을 통해 당신을 위험한 상황에 처하게 하는 것을 의미합니다. 괴롭힘은 괴롭힘을 당하는 당사자가 그 공간에서 환영받지 못한다는 것을 알게 하는 말과 행동들입니다.
 
-To improve the lives and working conditions of people who face discrimination, lack of protection, low-wages and unstable employment
+차별금지법에 의해 보호받는 영역들은
 
-To challenge unfair labour laws and work for change
+- 고용
+- 주거
+- 계약
+- 서비스, 물건, 시설
+- 노동조합 혹은 직업/진문직 조합
 
-To challenge employers who violate the law
+차별금지법은 다음에 근거한 직장 내 차별과 괴롭힘을 금지합니다
 
-To build and develop leadership of our members, workers directly affected by low wages and unstable work
+- 인종
+- 피부색
+- 가계, 혈통
+- 태어난 곳
+- 시민권
+- 민족
+- 신념 (종교)
+- 공공부조금 수령 (주거만 해당)
+- 장애
+- 나이
+- 결혼 상태
+- 가족 상태
+- 성, 젠더 (임신 유무, 성적 학대를 포함하여)
+- 성적 지향
+- 젠더 정체성
+- 젠더 표현
+- 범죄 기록 (고용에만 	해당, 고용 시 반드시 사면된 상태여야 함)
+
+노동자가 차별을 받았다고 여겨지는 경우 인권재판소에 고소장을 제출할 수 있습니다.
+
+#### 임시직 취업알선소 노동자 (Temp Agency Workers) & 인권
+
+임시직 취업알선소에서 어떤 임무와 일에 누구를 보낼 것인지 정하는 것은 합법이나 차별금지법에 명시된 차별들을 바탕으로 취업을 알선해서는 안 됩니다.
+
+```
+⚠️ 스스로를 보호하세요!
+
+- 당신의 상사나 상관에게 말하십시오. 그들은 당신이 직장에서 안전하도록 조취를 취해야할 의무를 가지고 있습니다. 만약 당신의 고용인이 직장 내 폭력이나 괴롭힘을 멈추기 위한 조취를 행하지 않는다면 그들은 이러한 직장 내 문제가 계속되도록 허용한 것에 대해 책임을 져야 합니다.
+
+- 직장 내 괴롭힘이나 폭력 사건에 대한 모든 것을 쓰십시오. 당신이 이후 항의/고소를 하기로 결심한다면 미리 써놓은 내용들이 도움이 될 것입니다. 만약 당신이 직장을 그만두도록 강요받았다고 느낀다면, 당신이 자세히 써놓은 내용은 고용보험금(Employment Insurance) 수령시나 종료시에 유용할 것이며, 퇴직금을 받는 데에도 도움이 될 것입니다.
+
+- 당신이 	차별을 	경험했다고 느낀다면 (bold)인권법지원센터(The Human Rights Legal Support Centre)가 제공하는 인권법서비스를 이용할 수 있습니다. 더 많은 정보를 위해 1-866-625-5179로 	전화하시거나 인권법지원센터 홈페이지(www.hrlsc.on.ca)를 방문하세요.
+```
+
+# 노동조건과 임금을 향상시키기 위한 노동자운동(movement of working people)에 함께 하세요
+
+## 우리의 미션
+
+차별을 겪거나 보호받지 못하고 저임금과 불안정 고용에 시달리는 사람들의 노동 조건과 삶을 향상시키는 것
+
+변화를 만들어나가기 위해 불공정한 노동법과 불공정한 업무에 저항하는 것
+
+법을 위반한 고용자에게 이의를 제기하는 것
+
+저임금과 불안정 노동에 직접적으로 타격을 받는 Worker’s Action Centre의 멤버들과 노동자들이 리더쉽을 개발할 수 있도록 돕는 것
 
 www.WorkersActionCentre.org
 
